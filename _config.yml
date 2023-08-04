@@ -1,0 +1,48 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+title: "COMP_SCI 111: Fall 2023"
+subtitle: "Fundamentals of Computer Programming 1"
+email: connor.bain@northwestern.edu
+description: >- # this means to ignore newlines until "baseurl:"
+term_start_date: "2023-09-18"
+url: "https://bain-cs111.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
+campuswire_url: 
+canvas_url: https://canvas.northwestern.edu/courses/201068
+timezone: "America/Chicago"
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - _lectures/draft
+  - _assignments/exercises/draft
+  - _resources/draft
+  - _assignments/tutorials/draft
+  - course-files/build
+
+collections:
+  resources:
+    output: true
+    sort_by: ordering
+    permalink: /resources/:name
+  assignments:
+    output: true
+    sort_by: ordering
+    permalink: /assignments/:name
+  lectures:
+    output: true
+    sort_by: lecture_date
+    permalink: /lectures/:name
+
+collections_dir: pages
+
+sass:
+  style: compact
+  sass_dir: _sass
+
+deadline_reminder: true

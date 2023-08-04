@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<section class="readings">
+{{content}}
+<table>
+    <thead>
+        <tr>
+            <th>Page</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+
+{% assign sortedResources = site.resources | sort: 'ordering' %}
+
+{% for resource in sortedResources %}
+    <tr>
+        <td><a href="{{site.url}}/page/{{resource.canvas_id}}">{{resource.title}}</a></td>
+        <td>
+            {{resource.description}}
+        </td>
+    </tr>
+{% endfor %}
+    </tbody>
+</table>
+</section>

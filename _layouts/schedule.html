@@ -1,0 +1,152 @@
+---
+layout: default
+---
+{{content}}
+<section class="schedule">
+    <!-- gets a distinct list of dates from lectures and assignments -->
+    {% assign everything = site.assignments | concat: site.lectures %}
+    {% assign dates = everything | sort: 'due_date'| map: 'due_date' | uniq %}
+
+    <p>
+        Note: This schedule is subject to change (as needed).
+    </p>
+    <table>
+        <caption>Course Schedule</caption>
+        <thead>
+            <tr>
+                <th scope="col">Week</th>
+                <th scope="col">Date</th>
+                <th scope="col">Topic</th>
+                <th scope="col">Assignments Due</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% assign last_week = 0 %}
+        {% for date in dates %}
+            {% assign lecture = site.lectures | where: 'due_date', date | last %}
+            <!-- Calculate the Week -->
+            {% assign dateStart = site.term_start_date | date: '%s' %}
+            {% assign lectureDate = date | date: '%s' %}
+            {% assign diffSeconds = lectureDate | minus: dateStart %}
+            {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | plus: 1 %}
+            {% assign week = diffDays | divided_by: 7 | plus: 1 %}
+
+            {% capture currentDate %}{{ site.time | date: '%F' }}{% endcapture %}
+            {% capture pastDate %}{{ lectureDate | date: '%F' }}{% endcapture %}
+            
+            {% if pastDate < currentDate %} 
+            <tr class="passed">
+            {% else %}
+            <tr>
+            {% endif %}
+                <th scope="rowgroup">
+                {% if week != last_week %}
+                    Week {{week}}
+                {% endif %}
+                <span class="due-date">
+                        {{ date | date: "%m/%d/%y" }}
+                </span>
+                </th>
+                {% if lecture %}
+                    <td>
+                        {% assign className = "lec" %}
+                        {% if lecture.type != "ethics" %}
+                        {{ date | date: "%a, %m/%d" }}
+                        {% else %}
+                        {% assign prefix = "ETHICS MODULE " | append: lecture.num %}
+                        {% if lecture.draft == 1 %}
+                        <span class="badge">
+                            {{ prefix }}
+                        </span>
+                        {% elsif prefix %}
+                        <a id="l{{lecture.num}}" class="{{ className }}" href="{{ site.canvas_url }}/pages/{{lecture.canvas_id}}">
+                            {{ prefix }} <i class="fas fa-link"></i>
+                        </a>
+                        {% endif %}
+                        {% endif %}
+                    </td>
+                    <td>
+                        {% assign className = 'lec' %}
+                        {% assign prefix = None %}
+                        {% if lecture.num  %}
+                           {% unless lecture.type == 'ethics' %}
+                            {% assign prefix = "Lecture " | append: lecture.num %}
+                            {% endunless %}
+                        {% endif %}
+                        {% if lecture.type != 'lecture' %}
+                            {% if lecture.type == "quizzes" %}
+                            {% assign prefix = "Q" | append: lecture.num %}
+                            {% assign className = 'quizzes' %}
+                            {% endif %}
+                        {% endif %}
+                        {% if lecture.draft == 1 and lecture.type != 'ethics'%}
+                            <span class="badge">
+                                {{ prefix }}
+                            </span>
+                        {% elsif prefix and lecture.type != "ethics" %}
+                            <a id="l{{lecture.num}}" class="{{ className }}" href="{{ site.canvas_url }}/pages/{{lecture.canvas_id}}">
+                                {{ prefix }} <i class="fas fa-link"></i>
+                            </a>
+                        {% endif %}
+                        {% if lecture.type == 'ethics' or lecture.type == 'lab' or lecture.type == 'lecture' or lecture.type == 'exam' or lecture.type == 'quizzes' %}
+                            {% if lecture.draft == 1 %}
+                                {{ lecture.title }}
+                            {% else %}
+                                <strong>{{ lecture.title }}</strong>
+                            {% endif %}
+                        {% endif %}
+                        {% if lecture.description.first %}
+                            <ul>
+                                <li>
+                                    {{ lecture.description | join: "</li><li>" }}
+                                </li>
+                            </ul>
+                        {% else %}
+                            {{ lecture.description }}
+                        {% endif %}
+                    </td>
+                {% else %}
+                    <!-- If no lecture -->
+                    <td>{{ date | date: "%a, %m/%d" }}</td>
+                    <td></td>
+                {% endif %}
+                <td>
+                    {% if lecture.type == 'ethics' or lecture.type == 'lab' or lecture.type == 'quizzes' %}
+                        {{ prefix | upcase }} <br>
+                    {% endif %}
+                    {% assign assignments = site.assignments | where: 'due_date', date %}
+                    {% for assignment in assignments %}
+                        {% assign classname = "pj" %}
+                        {% if assignment.type == "homework" %}
+                            {% assign classname = "hw" %}
+                        {% endif %}
+                        {% if assignment.type == "quizzes" %}
+                        {% assign classname = "quizzes" %}
+                        {% endif %}
+                        {% if assignment.type == "extra credit" %}
+                            {% assign classname = "ec" %}
+                        {% endif %}
+                        {% if assignment.type == "tutorial" %}
+                            {% assign classname = "lab" %}
+                        {% endif %}
+                        {% if assignment.draft == 1 %}
+                            <strong>{{ assignment.abbreviation }}</strong><br>
+                        {% else %}
+                            <a target="_blank" href="{{site.canvas_url}}/assignments/{{assignment.canvas_id}}" class="{{classname}}">
+                                {{ assignment.abbreviation }}
+                                <i class="fa fa-link"></i>
+                            </a>
+                            {{ assignment.title }}<br>
+                        {% endif %}
+                        
+                    {% endfor %}
+                </td>
+            </tr>
+            {% assign last_week = week %}
+        {% endfor %}
+        </tbody>
+    </table>
+
+</section>
+
+{% include footer.html %}

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+    </head>
+    <body class="two-column">
+        <div class="wrapper">
+
+            <div class="sidebar">
+                {% include toc.html html=content class='side-menu' ordered=true %}
+            </div>
+
+          <article>
+            <div class="main">
+                {{ content }}
+            </div>
+        </article>
+      </div>
+        {{ page.additional_html }}
+    </body>
+</html>
