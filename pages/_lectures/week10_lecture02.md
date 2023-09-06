@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Programming and Thinking Paradigms (Pre-Recorded)
+title: Programming and Thinking Paradigms (Pre-Recorded / Asynchronous)
 type: lecture
 draft: 1
 num: 24

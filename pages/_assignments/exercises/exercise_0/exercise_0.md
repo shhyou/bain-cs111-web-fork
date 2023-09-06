@@ -10,8 +10,6 @@ draft: 0
 
 This assignment is super easy and super short. We'll basically complete the whole thing in class on Friday.
 
-> **Note**: this is the only assignment that will be due on a Friday at midnight. In general, assignments will be due on Mondays at 1pm.
-
 * * *
 
 ## Activity 0: Signing Up for a Tutorial Team
@@ -29,7 +27,7 @@ There are several ways of finding a Tutorial Team in our class:
 
 > **Note**: If you have not signed up for a Team on Canvas by Sunday evening at 5pm, we will use your Survey results to assign you to a team. You will not be able to self-register for teams after 5pm on Sunday.
 
-<a class="lab" href="https://forms.gle/TNqpEJutHby4t4RS6" target="_blank">TEAMS SURVEY<i class="fa fa-link" aria-hidden="true"></i></a> (note, you must be logged into your NU Gmail account in order to access). This is REQUIRED and will count for 50% of your grade for this assignment.
+<a class="lab" href="" target="_blank">TEAMS SURVEY<i class="fa fa-link" aria-hidden="true"></i></a> (note, you must be logged into your NU Gmail account in order to access). This is REQUIRED and will count for 50% of your grade for this assignment.
 
 While we'd like for the Teams to be as stable as possible throughout the quarter, stuff does happen so switching will be allowed after Week 2.
 
@@ -47,13 +45,15 @@ Our first and most important task is to get DrRacket (and the Racket programming
 
 > **Note**: If you're on a Mac laptop that was made anytime after November 2020, you should select the "Apple Silicon" version. However, the "Intel" version will work on your computer regardless.
 
+> **Note**: <mark>Please make sure you download Racket v8.10, particularly if your computer is running <a href="https://github.com/racket/drracket/issues/632">any version of macOS Sonoma</a>.</mark>
+
 ### Install DrRacket + Racket
 
 Once you've downloaded the installer, you'll need to actually run it. On a Mac, you'll drag the `Racket` folder into your `Applications` folder. On a Windows PC, you'll run the `.exe` file to install it.
 
 ### Optional Install Method for Mac/Linux
 
-If you're a Mac or Linux user, you can also install the latest version of Racket (v8.6 as of September 2022) via the command line:
+If you're a Mac or Linux user, you can also install the latest version of Racket (v8.10 as of September 2023) via the command line:
 
 On a Mac with [Homebrew](https://brew.sh) installed:
 ```bash
@@ -74,15 +74,15 @@ After installation, you should be able to double click on the DrRacket executabl
 
 That should launch a window that looks something like this:
 
-![DrRacket Window]({{ site.url }}/assets/exercise_0/drracket_main.png)
+<img alt="DrRacket Window" src="{{ site.url }}/assets/exercise_0/drracket_main.png" />
 
 One of the main reasons we use Racket in this class is that it is essentially a programming language for programming languages. Rather than being a single programming language (e.g. Python), it allows you to implement your own languages. In this class, we'll actually be gradually progressing from one language to another language as we practice our programming skills.
 
 In the bottom left hand corner, you should see a message that says "No language chosen" (you might also see something else here, that's okay). If you click on that menu you'll be brought to the Language Select screen (see below). On this screen, select the `Intermediate Student Language with lambda` and hit OK.
 
-![DrRacket Language Select]({{ site.url }}/assets/exercise_0/drracket_language.png)
+<img alt="DrRacket Language Select" src="{{ site.url }}/assets/exercise_0/drracket_language.png" />
 
-Once you've selected the language, hit the ![Run Button]({{ site.url }}/assets/exercise_0/drracket_run.png) button at the top of the Window which asks Racket to load the selected language. If everything went well, near the bottom of the window you'll see a line that says `Language: Intermediate Student with lambda; memory limit: 128 MB`.
+Once you've selected the language, hit the <img alt="DrRacket Run Button" src="{{ site.url }}/assets/exercise_0/drracket_run.png" /> button at the top of the Window which asks Racket to load the selected language. If everything went well, near the bottom of the window you'll see a line that says `Language: Intermediate Student with lambda; memory limit: 128 MB`.
 
 * * *
 
@@ -96,7 +96,7 @@ So let's write a **powerful** program! In the bottom half of the window (also ca
 (+ 2 3)
 ```
 
-![Our First Program]({{ site.url }}/assets/exercise_0/drracket_calc.png)
+<img alt="Our First Program" src="{{ site.url }}/assets/exercise_0/drracket_calc.png" />
 
 If you see a result of `5`, congratulations! You've officially run your first program.
 
@@ -106,7 +106,7 @@ If you see a result of `5`, congratulations! You've officially run your first pr
 
 However, because you wrote it in the _Interaction Window_, DrRacket hasn't stored your program in any file on your computer. To do that, we need to use the _Definitions Window_, the top half of the DrRacket app. Type in `(+ 2 3)` again, but this time up top in the _Definitions Window_. Then click the `Run` button ![Run Button]({{ site.url }}/assets/exercise_0/drracket_run.png)
 
-![Our First Definition]({{ site.url }}/assets/exercise_0/drracket_definitions.png)
+<img alt="Our First Definition" src="{{ site.url }}/assets/exercise_0/drracket_definitions.png" />
 
 You should see the same calculated result now at the bottom in the _Interactions Window_. In general, when writing programs in our class, we'll follow this same workflow:
 
@@ -164,9 +164,9 @@ This means that you must _carefully_ read each assignment description and follow
 
 For this assignment, you will upload your `exercise_0.rkt` file to the assignment on Canvas. DO NOT UPLOAD ANY OTHER FILES. Once you've submitted your file to Canvas, you're done!
 
-> **Note**: You will not receive feedback from the autograder on your assignment until AFTER the final due date (which is the "open till date on Canvas").
+> **Note**: You will not receive feedback from the autograder on your assignment until AFTER the final due date (which is the <mark>UNTIL</mark> date on Canvas).
 
 * * *
+## Requesting a Late Penalty Waiver
 
-## Requesting an extension
-If you need to request an extension on this assignment use the <a href="https://forms.gle/fWx9jgQTNp56bAgR6">Extension Request form</a>. Please see the Syllabus for requirements. Your extension is automatically accepted if you meet the conditions. You will see your due date on Canvas update 24 hours prior to the original deadline.
+If you need to request an extension on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Extension Request form</a>. Please see this Syllabus for requirements.
