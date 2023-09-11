@@ -7,6 +7,7 @@ num: 1
 draft: 0
 canvas_id: 
 lec_assignment: 1
+canvas_title: Lecture 1 (Pre-Recorded) - Data Flow Diagrams and Programming - Mini-Quiz 0
 due_date: 2023-09-22
 mini_quiz_id: 
 mini_quiz_num: 1
@@ -28,8 +29,6 @@ videos:
     title: "Intro to edSTEM (Optional)"
     duration: ""
 ---
-
-<object hidden="hidden" id="assignment-flag">
 
 Today we'll build off the pre-recorded lecture on Data Flow diagrams to start designing programs using a text-based programming language. Make sure to watch the lecture video BEFORE coming to class.
 

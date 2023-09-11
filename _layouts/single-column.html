@@ -1,8 +1,14 @@
 <!doctype html>
 <html lang="en">
+  
     <head>
         {% include head.html %}
     </head>
+    {% if page.canvas_title %}
+    <title>{{ page.canvas_title }}</title>
+    {% else %}
+    <title>{{page.title}}</title>
+    {% endif %}
     <body class="two-column">
         <div class="wrapper">
           <article>

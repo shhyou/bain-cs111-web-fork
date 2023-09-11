@@ -6,6 +6,7 @@ description:
 num: 0
 draft: 0
 canvas_id: 
+canvas_title: Wednesday - Lecture 0 - What is Computation?
 due_date: 2023-09-20
 slides:
    - url: https://docs.google.com/presentation/d/1rveEB2Z5yrT_e2OAl0NFo1nORsq0gWfGlfwuWZOQTh0/edit?usp=sharing
