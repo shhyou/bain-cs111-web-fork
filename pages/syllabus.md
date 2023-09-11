@@ -1,5 +1,5 @@
 ---
-layout: assignment-two-column
+layout: two-column
 title: Syllabus
 permalink: /syllabus/
 ---
