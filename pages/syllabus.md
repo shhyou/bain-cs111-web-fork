@@ -88,12 +88,39 @@ This is a very large class and in order to better support each of your learning 
 
 Our Peer Mentors (PMs) serve as your first point of contact in the course. PMs will be assigned to tutorial groups so that you can build a relationship with them over the course of the quarter. They will also host office hours each week that will be open for all students. That means that there will be more than 60 office hours offered per week for our course. Please note that you are welcome to attend any office hours that work for your schedule and you're not limited to your assigned PM's hours.
 
-* TBD
+* Anya Bardach
+* Stephanie Ma
+* William Keeling
+* Maya Blumovitz
+* Aria Ruan
+* Nathan Hendrickson
+* Ana de Souza
+* Laura Felix
+* Shirley Zhang
+* Amira Mohamed
+* Belen Edgar
+* Ashley Folz
+* Kaylie Mei
+* Aanand Patel
+* Ahmet Gucer
+* Aditya Chakka
+* Andre Avellar
+* Claire Schwartz
+* Johanna Tam
+* Andre Shportko
+* Vikram Achuthan
+* Angeli Mittal
+* David Fu
+* Yong-Yu Huang
+* Grant Miranda
+* Emma Drisko
+
 ## Graduate Teaching Assistants
 
 You can think of our Graduate Teaching Assistants as "Super PMs!" Not only can they serve as meaningful course resources, but they can also provide broader context to our pedagogical approach, talk more about research opportunities in the field of Computer Science, and address concerns you may not feel comfortable with talking to a peer about. In general, if you'd like to reach out to one our TAs, please also CC Prof. Bain (connor.bain@northwestern.edu) as they're very busy people and we work as a team!
 
-* TBD
+* Shu-Hung You (shhyou@u.northwestern.edu)
+* Xian Wu (xianwu2024@u.northwestern.edu)
 
 * * *
 

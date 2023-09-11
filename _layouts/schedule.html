@@ -23,7 +23,8 @@ layout: default
         <tbody>
         {% assign last_week = 0 %}
         {% for date in dates %}
-            {% assign lecture = site.lectures | where: 'due_date', date | last %}
+            {% assign lectures = site.lectures | where: 'due_date', date %}
+            {% for lecture in lectures %}
             <!-- Calculate the Week -->
             {% assign dateStart = site.term_start_date | date: '%s' %}
             {% assign lectureDate = date | date: '%s' %}
@@ -59,9 +60,16 @@ layout: default
                             {{ prefix }}
                         </span>
                         {% elsif prefix %}
+                        {% if lecture.lec_assignment %}
+                        <a id="l{{lecture.num}}" class="{{ className }}" href="{{ site.canvas_url }}/assignments/{{lecture.canvas_id}}">
+                            {{ prefix }} <i class="fas fa-link"></i>
+                        </a>
+                        {% else %}
                         <a id="l{{lecture.num}}" class="{{ className }}" href="{{ site.canvas_url }}/pages/{{lecture.canvas_id}}">
                             {{ prefix }} <i class="fas fa-link"></i>
                         </a>
+                        {% endif %}
+                        
                         {% endif %}
                         {% endif %}
                     </td>
@@ -84,9 +92,17 @@ layout: default
                                 {{ prefix }}
                             </span>
                         {% elsif prefix and lecture.type != "ethics" %}
+
+                            {% if lecture.lec_assignment %}
+                            <a id="l{{lecture.num}}" class="{{ className }}" href="{{ site.canvas_url }}/assignments/{{lecture.canvas_id}}">
+                                {{ prefix }} <i class="fas fa-link"></i>
+                            </a>
+                            {% else %}
                             <a id="l{{lecture.num}}" class="{{ className }}" href="{{ site.canvas_url }}/pages/{{lecture.canvas_id}}">
                                 {{ prefix }} <i class="fas fa-link"></i>
                             </a>
+                            {% endif %}
+
                         {% endif %}
                         {% if lecture.type == 'ethics' or lecture.type == 'lab' or lecture.type == 'lecture' or lecture.type == 'exam' or lecture.type == 'quizzes' %}
                             {% if lecture.draft == 1 %}
@@ -143,6 +159,7 @@ layout: default
                 </td>
             </tr>
             {% assign last_week = week %}
+        {% endfor %}
         {% endfor %}
         </tbody>
     </table>

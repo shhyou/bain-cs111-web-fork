@@ -3,8 +3,13 @@ layout: single-column
 show_outline: 1
 show_schedule: 1
 ---
+{% if page.lec_assignment %}
+<object hidden="hidden" id="assignment-flag">
+{% endif %}
 
 {{content}}
+
+<hr>
 
 <h2 id="do-now">Today's Resources</h2>
 {% assign num = 1 %}
@@ -32,7 +37,7 @@ show_schedule: 1
 {% endif %}
 
 {% if page.videos %}
-<h3 id="videos">{{num}}. Lecture Video(s)</h3>
+<h3 id="videos">{{num}}. Pre-Recorded Lecture Video(s), Mini-Quizzes, and Live Recordings</h3>
 {% assign num = num | plus: 1 %}
 
     <table class="medium module">
@@ -95,6 +100,21 @@ show_schedule: 1
     <h3 id="readings">{{ num }}. Supplemental Materials</h3>
     {% include page_readings.html %} 
     {% assign num = num | plus: 1 %}
+{% endif %}
+
+{% if page.mini_quiz_id %}
+<h3 id="quiz">{{ num }}. Mini-Quiz {{ page.mini_quiz_num }}: {{page.mini_quiz_title}}</h3>
+<p>
+    If you did not participate in class then you should use this Canvas Quiz as a substitute. If you are not physically present in
+    the classroom, do NOT attempt to participate in the PollEverywhere activities through any means. Doing so is a violation
+    of our Academic Honesty policy and you will be reported to your Dean of Students for violation of said policy.
+    <br>
+    <ul>
+    <li><a href="{{ site.canvas_url }}/quizzes/{{page.mini_quiz_id}}" target="_blank">Mini-Quiz {{ page.mini_quiz_num }}</a></li>
+    </ul>
+</p>
+{% assign num = num | plus: 1 %}
+
 {% endif %}
 
 {% if page.quiz_url %}
