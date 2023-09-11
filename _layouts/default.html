@@ -3,7 +3,11 @@
     <head>
         {% include head.html %}
     </head>
+    {% if page.title %}
+    <title>{{page.title}}</title>
+    {% else %}
     <title>Error</title>
+    {% endif %}
     <body class="one-column">
         <div class="container">
             <main>
