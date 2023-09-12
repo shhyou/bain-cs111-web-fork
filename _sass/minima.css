@@ -635,7 +635,7 @@ table.medium.module td:nth-child(2) {
 }
 
 .assignments .hw, .assignments .hw:hover, .lectures .hw, .lectures .hw:hover, .assignment .hw, .assignment .hw:hover, .reference .hw, .reference .hw:hover, .lecture .hw, .lecture .hw:hover, .readings .hw, .readings .hw:hover, .link-menu .hw, .link-menu .hw:hover, .two-column article .hw, .two-column article .hw:hover, .syllabus .hw, .syllabus .hw:hover, .schedule .hw, .schedule .hw:hover {
-  background: #684a98;
+  background: #4E2A84;
 }
 
 .assignments .pj, .assignments .pj:hover, .lectures .pj, .lectures .pj:hover, .assignment .pj, .assignment .pj:hover, .reference .pj, .reference .pj:hover, .lecture .pj, .lecture .pj:hover, .readings .pj, .readings .pj:hover, .link-menu .pj, .link-menu .pj:hover, .two-column article .pj, .two-column article .pj:hover, .syllabus .pj, .syllabus .pj:hover, .schedule .pj, .schedule .pj:hover {
@@ -643,7 +643,7 @@ table.medium.module td:nth-child(2) {
 }
 
 .assignments .lec, .assignments .lec:hover, .assignments a.lec, .lectures .lec, .lectures .lec:hover, .lectures a.lec, .assignment .lec, .assignment .lec:hover, .assignment a.lec, .reference .lec, .reference .lec:hover, .reference a.lec, .lecture .lec, .lecture .lec:hover, .lecture a.lec, .readings .lec, .readings .lec:hover, .readings a.lec, .link-menu .lec, .link-menu .lec:hover, .link-menu a.lec, .two-column article .lec, .two-column article .lec:hover, .two-column article a.lec, .syllabus .lec, .syllabus .lec:hover, .syllabus a.lec, .schedule .lec, .schedule .lec:hover, .schedule a.lec {
-  background: #5B85AA;
+  background: #243545;
 }
 
 .assignments .lab, .assignments .lab:hover, .lectures .lab, .lectures .lab:hover, .assignment .lab, .assignment .lab:hover, .reference .lab, .reference .lab:hover, .lecture .lab, .lecture .lab:hover, .readings .lab, .readings .lab:hover, .link-menu .lab, .link-menu .lab:hover, .two-column article .lab, .two-column article .lab:hover, .syllabus .lab, .syllabus .lab:hover, .schedule .lab, .schedule .lab:hover {
