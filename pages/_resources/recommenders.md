@@ -73,10 +73,10 @@ Remember, your recommenders are meant to both verify and complement your other a
         <caption>A sample table to send to a recommender meant to write multiple letters</caption>
         <thead>
             <tr style="border-bottom: solid 1px #444;">
-                <th scope="column" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Due Date</th>
-                <th scope="column" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">School</th>
-                <th scope="column" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Degree Program</th>
-                <th scope="column" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Notes</th>
+                <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Due Date</th>
+                <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">School</th>
+                <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Degree Program</th>
+                <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Notes</th>
             </tr>
         </thead>
         <tbody>
