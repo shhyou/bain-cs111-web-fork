@@ -992,7 +992,7 @@ table.medium.module td:nth-child(2) {
 .schedule .lec,
 .schedule .lec:hover,
 .schedule a.lec {
-    background: rgba(132, 109, 172, 0.65);
+    background: #243545;
 }
 
 .assignments .lab,
