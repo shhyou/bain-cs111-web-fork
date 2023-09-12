@@ -9,7 +9,7 @@ canvas_type: online_upload
 allowed_extensions: rkt
 due_date: 2023-09-22
 ordering: 1
-draft: 0
+draft: 1
 ---
 
 This assignment is super easy and super short. We'll basically complete the whole thing in class on Friday.
