@@ -102,8 +102,8 @@ Here are two non-examples which do not follow the given instruction.
 (check-expect (longer-than "hello" 5) #true)   ;; the spec is ‘>’ rather than ‘>=’
 ```
 
-## Can I change the name of the supplementary file or the ​require line importing the supplementary file in the starter code?
-Don't change it.
+## Can I supplementary files or the ​require lines in the starter code?
+Don't change it. We won't be able to run your file.
 
 ## Can I add new ​require​ lines?
 We have included necessary ​`(require ...)`​ lines in the starter code, so there should be no need to add or remove any ​`(require ...)`​ lines. In general, you can (only) include `2htdp` teachpacks (all of form ​`(require 2htdp/...)​`) and the supplementary file from the same week. Don't add any additional library outside this scope, even if it is the supplementary file from previous exercises.

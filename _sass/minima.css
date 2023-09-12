@@ -635,7 +635,7 @@ table.medium.module td:nth-child(2) {
 }
 
 .assignments .hw, .assignments .hw:hover, .lectures .hw, .lectures .hw:hover, .assignment .hw, .assignment .hw:hover, .reference .hw, .reference .hw:hover, .lecture .hw, .lecture .hw:hover, .readings .hw, .readings .hw:hover, .link-menu .hw, .link-menu .hw:hover, .two-column article .hw, .two-column article .hw:hover, .syllabus .hw, .syllabus .hw:hover, .schedule .hw, .schedule .hw:hover {
-  background: #4E2A84;
+  background: #684a98;
 }
 
 .assignments .pj, .assignments .pj:hover, .lectures .pj, .lectures .pj:hover, .assignment .pj, .assignment .pj:hover, .reference .pj, .reference .pj:hover, .lecture .pj, .lecture .pj:hover, .readings .pj, .readings .pj:hover, .link-menu .pj, .link-menu .pj:hover, .two-column article .pj, .two-column article .pj:hover, .syllabus .pj, .syllabus .pj:hover, .schedule .pj, .schedule .pj:hover {
