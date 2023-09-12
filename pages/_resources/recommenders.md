@@ -70,7 +70,7 @@ Remember, your recommenders are meant to both verify and complement your other a
 * If you are submitting more than one application, do your best to summarize all of the requirements and applications in one place for your recommender (e.g. see below for an example of a student applying to various grad schools)
 
 <table style="border-top: solid 1px #444; border-bottom: solid 1px #444; border-collapse: collapse; width: 100%; margin-bottom: 30px;">
-        <caption>A sample table to send to a recommender meant to write multiple letters</caption>
+        <caption>Sample Table</caption>
         <thead>
             <tr style="border-bottom: solid 1px #444;">
                 <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Due Date</th>

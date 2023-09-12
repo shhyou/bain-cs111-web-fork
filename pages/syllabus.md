@@ -3,39 +3,41 @@ layout: two-column
 title: Syllabus
 permalink: /syllabus/
 ---
+
 <table style="border-top: solid 1px #444; border-bottom: solid 1px #444; border-collapse: collapse; width: 100%; margin-bottom: 30px;">
-  <caption>Summary details for COMP_SCI 111</caption>
+  <caption>Summary Details for COMP_SCI 111</caption>
   <tbody>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Term</strong></td>
+          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Term</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Fall 2023</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Course</strong></td>
+          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Course</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">COMP_SCI 111: Fundamentals of Computer Programming I</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Prerequisites</strong></td>
+          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Prerequisites</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">None</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Instructor</strong></td>
+          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Instructor</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Prof. Connor Bain (connor.bain@northwestern.edu)</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Time</strong></td>
+          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Time</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Section 1. Monday, Wednesday, &amp; Friday, 1:00 - 1:50pm<br />Section 2. Monday, Wednesday, &amp; Friday, 2:00 - 2:50pm</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Location</strong></td>
+          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Location</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><a style="text-decoration: none; color: #4e2a84; border-bottom: solid #934B66 2px;" href="https://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=L165&amp;room-floor=1&amp;room-id=1055&amp;room-ingress=">Tech Auditorium</a></td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Required Materials</strong></td>
+          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Required Materials</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><em>Zero Cost Course</em> &ndash; (All course materials are open educational resources)</td>
       </tr>
   </tbody>
 </table>
+
 
 > Please note that this syllabus is subject to change prior to Sep 20, 2023.
 
@@ -125,26 +127,26 @@ You can think of our Graduate Teaching Assistants as "Super PMs!" Not only can t
 Your course grade will consist of 5 weighted components: Tutorials, Exercises, Mini-Quizzes, Ethics Modules and Quizzes. The weights of each component are below:
 
 <table class="medium" style="border-top: solid 1px #444; border-bottom: solid 1px #444; border-collapse: collapse; margin-bottom: 30px; width: 600px !important;">
-<caption>Assignment category weightings</caption>
+<caption>Assignment Group Weightings</caption>
     <tbody>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Tutorials (9)</strong></td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Tutorials (9)</strong></th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">14%</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Exercises (9)</strong></td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Exercises (9)</strong></th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">30%</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Mini Quizzes (~2 per module)</strong></td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Mini Quizzes (~2 per module)</strong></th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">8%</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Ethics Modules (3)</strong></td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Ethics Modules (3)</strong></th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">8%</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Quizzes (4)</strong></td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Quizzes (4)</strong></th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">40%</td>
         </tr>
     </tbody>
@@ -153,38 +155,38 @@ Your course grade will consist of 5 weighted components: Tutorials, Exercises, M
 Your final grade will be the weighted average of all the above assignments. Final grades are assigned on a fixed scale which is set by the registrar's office and shown below. Final course grades **are not rounded or curved**:
 
 <table class="medium" style="border-top: solid 1px #444; border-bottom: solid 1px #444; border-collapse: collapse; margin-bottom: 30px; width: 600px !important;">
-<caption>Mapping of letter grades to numeric grades</caption>
+<caption>Letter Grades</caption>
     <tbody>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">A</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">A</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">93 - 100</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">A-</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">A-</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">90 - 92.99</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">B+</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">B+</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">87 - 89.99</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">B</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">B</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">84 - 86.99</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">B-</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">B-</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">80 - 83.99</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">C</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">C</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">70 - 79.99</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">D*</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">D*</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">60 - 69.99</td>
         </tr>
         <tr>
-            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">F</td>
+            <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">F</th>
             <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">0 - 59.99</td>
         </tr>
     </tbody>
@@ -240,36 +242,37 @@ Students must engage in 3 ethics related activities during the quarter:
 There will be four cumulative assessments of your knowledge and practice of the course material administered in-person during our assigned class time (50 minutes). The tentative schedule for these quizzes is below:
 
 <table class="medium" style="border-top: solid 1px #444; border-bottom: solid 1px #444; border-collapse: collapse; margin-bottom: 30px; width: 600px !important;">
-                <thead>
-                    <tr style="border-bottom: solid 1px #444;">
-                        <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Quiz</th>
-                        <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Focus Topic</th>
-                        <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Date</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q1</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Fundamentals</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">October 16</td>
-                    </tr>
-                    <tr>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q2</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Recursion</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">November 1</td>
-                    </tr>
-                    <tr>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q3</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Imperatives</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">November 20</td>
-                    </tr>
-                    <tr>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q4</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Summative</td>
-                        <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Section 1. December 6, 9am<br />Section 2. December 4, 9am</td>
-                    </tr>
-                </tbody>
-            </table>
+<caption>Scheduling of Quizzes</caption>
+    <thead>
+        <tr style="border-bottom: solid 1px #444;">
+            <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Quiz</th>
+            <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Focus Topic</th>
+            <th scope="col" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; border-bottom: dotted 1px #999; padding: 8px; text-align: left; min-width: 80px;">Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q1</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Fundamentals</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">October 16</td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q2</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Recursion</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">November 1</td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q3</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Imperatives</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">November 20</td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Q4</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Summative</td>
+            <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Section 1. December 6, 9am<br />Section 2. December 4, 9am</td>
+        </tr>
+    </tbody>
+</table>
 ### Grading Equity Policies
 
 > The course is specifically designed to be academically equitable to all students when it comes to assessment and has two special policies related to grading: 1. An _emergency erasure policy_; 2. A _late penalty waiver_.
