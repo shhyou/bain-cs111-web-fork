@@ -1404,7 +1404,7 @@ blockquote.quote.slim:before {
 .two-column article ul,
 .syllabus ul,
 .schedule ul {
-    list-style: none;
+    
 }
 
 .assignment ul li::before,
