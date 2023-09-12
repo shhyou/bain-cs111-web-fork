@@ -2,7 +2,7 @@
 layout: module
 title: Social Media Algorithms (Required for Everyone)
 type: ethics
-draft: 0
+draft: 1
 num: 1
 canvas_id: 
 lec_assignment: 1

@@ -4,7 +4,7 @@ title: Programming in Text
 type: lecture
 description: "(Mini-Quizzes 0 & 1)"
 num: 1
-draft: 0
+draft: 1
 canvas_id: 
 lec_assignment: 1
 canvas_title: Lecture 1 (Pre-Recorded) - Data Flow Diagrams and Programming - Mini-Quiz 0
