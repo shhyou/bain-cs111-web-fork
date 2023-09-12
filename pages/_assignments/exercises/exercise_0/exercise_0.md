@@ -2,7 +2,7 @@
 layout: assignment-two-column
 title: Setting Up and Signing Up
 abbreviation: Exercise 0
-canvas_title: Exericse 0 - Setting Up and Signing Up
+canvas_title: Exercise 0 - Setting Up and Signing Up
 type: homework
 due_date: 2023-09-22
 ordering: 1
