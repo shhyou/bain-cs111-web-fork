@@ -4,8 +4,8 @@ title: What is Computation?
 type: lecture
 description:
 num: 0
-draft: 1
-canvas_id: 
+draft: 0
+canvas_id: wednesday-lecture-0-what-is-computation-?
 canvas_title: Wednesday - Lecture 0 - What is Computation?
 due_date: 2023-09-20
 slides:

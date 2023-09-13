@@ -3,6 +3,8 @@ layout: default
 title: Exercise Submission + Grading FAQ
 description: FAQ on submissions and grades
 ordering: 12
+canvas_id: exercise-submission-+-grading-faq
+draft: 1
 ---
 
 > I got a plagiarism warning comment on Canvas. What does this mean?

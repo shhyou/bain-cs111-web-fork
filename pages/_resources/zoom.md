@@ -3,6 +3,8 @@ layout: default
 title: Course Zoom Instructions
 description: How to join the class zoom (if that's ever necesssary)
 ordering: 100
+canvas_id: course-zoom-instructions
+draft: 0
 ---
 
 ## Logging Into Zoom

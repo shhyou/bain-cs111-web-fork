@@ -2,6 +2,9 @@
 layout: default
 title: Staff Directory
 permalink: /resources/staff-directory/
+canvas_id: staff-directory
+draft: 0
+ordering: 0
 ---
 <ul class = "profiles">
     <li><a><img alt="picture of Aanand" src="{{site.url}}/assets/images/directory/aanand.jpg">

@@ -3,6 +3,8 @@ layout: default
 title: edSTEM Guidelines
 description: Rules of conduct for Ed
 ordering: 99
+canvas_id: edstem-guidelines
+draft: 0
 ---
 
 You can join our edSTEM page (which we use for Q&As as well as post tips/tricks throughout the quarter) by signing up **using your offical Northwestern email address** [here](https://edstem.org/us/join/pFx2Ru).

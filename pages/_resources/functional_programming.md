@@ -3,6 +3,8 @@ layout: default
 title: Functional Programming in Industry
 description: Some examples of programming in industry
 ordering: 0
+canvas_id: functional-programming-in-industry
+draft: 0
 ---
 
 One thing we hear a lot of in this class "people don't use functional programming" in the real-world. This is _totally incorrect_. Functional programming's modular focus makes it an ideal language for many large scale, high performance, and high accuracy computing applications. Everything from social media networks to banking software uses functional programming techniques and some even use purely functional languages.

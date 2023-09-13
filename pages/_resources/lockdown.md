@@ -3,7 +3,8 @@ layout: default
 title: Setting Up the Lockdown Browser
 description: Instructions on how to setup the Lockdown Browser for Quizzes
 ordering: 80
-
+canvas_id: setting-up-the-lockdown-browser
+draft: 0
 ---
 
 In order to create an equitable testing environment and to save an incredible amount of paper, we will use the Lockdown Browser to enable electronic testing.

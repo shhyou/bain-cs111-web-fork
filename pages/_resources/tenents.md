@@ -3,6 +3,8 @@ layout: default
 title: Course Tenets
 description:
 ordering: -1
+canvas_id: course_tenets
+draft: 0
 ---
 ## Course Tenets
 1. No showing off.

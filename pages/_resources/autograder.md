@@ -1,8 +1,10 @@
 ---
 layout: default
+canvas_id: autograder-and-submission-faq
 title: Autograder and Submission FAQ
 description: More information on how the autograder works and how to submit assignments
 ordering: 11
+draft: 1
 ---
 
 ## How does auto-grading work?

@@ -103,11 +103,7 @@ Office hours are meant to be a time where you can ask questions that you need an
 
 ## Course Staff
 
-This is a very large class and in order to better support each of your learning goals, we have 33 course staff members.
-
-### Instructor
-
-* Prof. Connor Bain (connor.bain@northwestern.edu)
+This is a very large class and in order to better support each of your learning goals, we have 33 course staff members. Visit the Course Resources page for a Staff Directory of all our amazing course staff members!
 
 ### Peer Mentors
 
@@ -205,7 +201,7 @@ This course is meant to a be a learning community which requires the dedicated p
 
 If you attend the Tutorial session in-person and make a legitimate attempt (up to the discretion of your Peer Mentor) at completing the assignment, you will receive full-credit. If you choose not to attend in-person, then your assignment will be reviewed for completion _and accuracy_ meaning you may nor may not receive full credit. Remote tutorials will be graded via the same autograding mechanism as the Exercises.
 
-If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form](https://forms.gle/F5tM4W6kpPbfJ9kE7).
+If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form]().
 
 We will not accept late tutorial submissions.
 
@@ -225,7 +221,7 @@ You may submit the assignments up to 48 hours late with a 10% penalty per 24-hou
 
 These will be short quizzes for each module of the course that serve as a check of your attendance and/or asynchronous participation in the course. For those that complete the Mini-Quiz in class, you will receive full credit for your attendance and full participation. If you choose to complete the Mini-Quiz remotely, you will need to complete the Canvas version of the quiz within 48 hours of your scheduled class time.
 
-If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form](https://forms.gle/F5tM4W6kpPbfJ9kE7).
+If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form]().
 
 ### Ethics Modules
 
@@ -235,7 +231,7 @@ Students must engage in 3 ethics related activities during the quarter:
 
 * **One introductory module** which covers the ethics of social media and introduces a framework for thinking about the impact of certain technologies.
 * **Attendance at one topic module** that students will select based on topic interest and availability. They will complete a short reading beforehand in order to be ready to discuss the topic and complete a short reflection after attending.
-* **One final reflection module** which asks students to reflect on their engagement with ethical issues and their relationship to technology by producing a short write-up comparing and contrasting the topics that students learned in topic modules. Can be completed individually or in small (2-4 people) groups.
+* **One final reflection module** which asks students to reflect on their engagement with ethical issues and their relationship to technology by producing a short write-up comparing and contrasting the topics that students learned in topic modules.
 
 ### Quizzes
 
@@ -322,7 +318,7 @@ If you do not have access to appropriate computing hardware, please let the cour
 Ed (sometimes called edSTEM) is a Question-and-Answer site that allows students to ask questions that can then be answered by _either_ Course Staff or other students in the course as well as create discussion areas about both related and unrelated topics.
 
 {:.blockquote-no-margin}
-> Check out our course's Canvas page for the registration link.
+> Check out out the Course Resources page for the registration link.
 
 ### Auxillary Texts
 
@@ -351,7 +347,7 @@ Contact Prof. Bain if you have any questions about what is appropriate. Please n
 * * *
 
 ## Academic Integrity
-Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. For details regarding academic integrity at Northwestern or to download the guide, visit: <a href="https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html" target="_blank">https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html</a>.
+Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. For details regarding academic integrity at Northwestern or to download the guide, visit: <a href="https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html" target="_blank">this page</a>.
 
 * * *
 
@@ -380,8 +376,6 @@ Northwestern University is committed to supporting the wellness of our students.
 ## Recording of Class Sessions
 
 This class or portions of this class will be recorded by the instructor for educational purposes. Your instructor will communicate how members of the class can access the recordings. Portions of the course that contain images, questions or commentary/discussion by students will be edited out of any recordings that are saved beyond the current term.
-
-If you would like to request a recording of a lecture session, you may do so [via this Google Form](https://forms.gle/BrqGHyUAxmCj6QNY8) (https://forms.gle/BrqGHyUAxmCj6QNY8)
 
 * * *
 

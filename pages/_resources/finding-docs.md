@@ -3,6 +3,8 @@ layout: default
 title: Finding Documentation for Functions
 description: Tips on finding documentation for functions
 ordering: 10
+canvas_id: finding-documentation-for-functions
+draft: 1
 ---
 
 ## Finding Documentation for Built-in Functions
