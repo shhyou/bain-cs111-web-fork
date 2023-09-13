@@ -20,7 +20,7 @@ layout: default
         {% if resource.draft == 1 %}
         <td>{{resource.title}} - Not Yet Available</td>
         {% else %}
-        <td><a href="{{site.canvas_url}}/page/{{resource.canvas_id}}">{{resource.title}}</a></td>
+        <td><a href="{{site.canvas_url}}/pages/{{resource.canvas_id}}">{{resource.title}}</a></td>
         {% endif %}
         <td>
             {{resource.description}}

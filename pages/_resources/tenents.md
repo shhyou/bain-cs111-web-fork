@@ -3,7 +3,7 @@ layout: default
 title: Course Tenets
 description:
 ordering: -1
-canvas_id: course_tenets
+canvas_id: course-tenets
 draft: 0
 ---
 ## Course Tenets
