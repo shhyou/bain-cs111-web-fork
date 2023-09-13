@@ -8,31 +8,31 @@ permalink: /syllabus/
   <caption>Summary Details for COMP_SCI 111</caption>
   <tbody>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Term</strong></th>
+          <th scope="row" style="text-align: left; font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Term</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Fall 2023</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Course</strong></th>
+          <th scope="row" style="text-align: left; font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Course</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">COMP_SCI 111: Fundamentals of Computer Programming I</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Prerequisites</strong></th>
+          <th scope="row" style="text-align: left; font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Prerequisites</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">None</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Instructor</strong></th>
+          <th scope="row" style="text-align: left; font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Instructor</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Prof. Connor Bain (connor.bain@northwestern.edu)</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Time</strong></th>
+          <th scope="row" style="text-align: left; font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Time</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;">Section 1. Monday, Wednesday, &amp; Friday, 1:00 - 1:50pm<br />Section 2. Monday, Wednesday, &amp; Friday, 2:00 - 2:50pm</td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Location</strong></th>
+          <th scope="row" style="text-align: left; font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Lecture Location</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><a style="text-decoration: none; color: #4e2a84; border-bottom: solid #934B66 2px;" href="https://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=L165&amp;room-floor=1&amp;room-id=1055&amp;room-ingress=">Tech Auditorium</a></td>
       </tr>
       <tr>
-          <th scope="row" style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Required Materials</strong></th>
+          <th scope="row" style="text-align: left; font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><strong style="font-family: 'Akkurat Pro Regular';">Required Materials</strong></th>
           <td style="font-size: 0.9em; line-height: 1.5em; margin-top: 5px; vertical-align: top; font-family: 'Akkurat Pro Light'; border-bottom: dotted 1px #999; padding: 8px; min-width: 80px;"><em>Zero Cost Course</em> &ndash; (All course materials are open educational resources)</td>
       </tr>
   </tbody>
