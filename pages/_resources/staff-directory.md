@@ -10,7 +10,7 @@ ordering: 0
     <li><a><img alt="picture of Aanand" src="{{site.url}}/assets/images/directory/aanand.jpg">
         <span><h3>Aanand Patel</h3><h4>Peer Mentor</h4></span>
     </a></li>
-     <li><a><im alt="picture of Aditya" src="{{site.url}}/assets/images/directory/aditya.jpg">
+     <li><a><img alt="picture of Aditya" src="{{site.url}}/assets/images/directory/aditya.jpg">
         <span><h3>Aditya Chakka</h3><h4>Peer Mentor</h4></span>
     </a></li>
      <li><a><img alt="picture of Ahmet" src="{{site.url}}/assets/images/directory/amre.jpg">

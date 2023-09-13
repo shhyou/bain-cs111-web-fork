@@ -3,7 +3,7 @@ layout: default
 title: Using Practice Tests to Study
 description: How to study using a practice test
 ordering: 80
-canvas_id: using-pracitce-tests-to-study
+canvas_id: using-practice-tests-to-study
 draft: 0
 ---
 
