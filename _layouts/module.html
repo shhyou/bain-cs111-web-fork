@@ -22,9 +22,9 @@ show_schedule: 1
     {% assign num = num | plus: 1 %}
 {% endif %}
 
-<h3 id="slides">{{num}}. Slides</h3>  
-{% assign num = num | plus: 1 %}
 {% if page.slides %}
+<h3 id="slides">{{num}}. Slides</h3>
+{% assign num = num | plus: 1 %}
     <ul>
     {% for slide in page.slides %}
         <li>
@@ -32,8 +32,6 @@ show_schedule: 1
         </li>
     {% endfor %}
     </ul>
-{% else %}
-    <p>No slides posted.</p>
 {% endif %}
 
 {% if page.videos %}
@@ -96,8 +94,15 @@ show_schedule: 1
     </table>
 {% endif %}
 
+
+
+
 {% if page.readings %}
+    {% if page.type == "ethics" %}
+    <h3 id="readings">{{ num }}. Assigned Readings</h3>
+    {% else %}
     <h3 id="readings">{{ num }}. Supplemental Materials</h3>
+    {% endif %}
     {% include page_readings.html %} 
     {% assign num = num | plus: 1 %}
 {% endif %}

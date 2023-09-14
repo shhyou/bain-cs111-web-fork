@@ -3,10 +3,10 @@ layout: module
 title: Reflection (Required for Everyone)
 type: ethics
 draft: 1
-num: 11
+num: 9
 canvas_id: 
 lec_assignment: 1
-canvas_title: Ethics Module 11 - Reflection (Required for Everyone)
+canvas_title: Ethics Module 9 - Reflection (Required for Everyone)
 due_date: 2023-11-27
 ---
 

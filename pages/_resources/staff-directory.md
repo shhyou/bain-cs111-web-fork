@@ -13,7 +13,7 @@ ordering: 0
      <li><a><img alt="picture of Aditya" src="{{site.url}}/assets/images/directory/aditya.jpg">
         <span><h3>Aditya Chakka</h3><h4>Peer Mentor</h4></span>
     </a></li>
-     <li><a><img alt="picture of Ahmet" src="{{site.url}}/assets/images/directory/amre.jpg">
+     <li><a><img alt="picture of Ahmet" src="{{site.url}}/assets/images/directory/emre.jpg">
         <span><h3>Ahmet Emre Gucer</h3><h4>Peer Mentor</h4></span>
     </a></li>
      <li><a><img alt="picture of Alex"  src="{{site.url}}/assets/images/directory/alex.jpg">
@@ -64,11 +64,20 @@ ordering: 0
     <li><a><img alt="picture of Johanna" src="{{site.url}}/assets/images/directory/johanna.jpg">
         <span><h3>Johanna Tam</h3><h4>Peer Mentor</h4></span>
     </a></li>
-    <li><a><img alt="picture of Kaylie" src="{{site.url}}/assets/images/directory/belen.jpg">
+    <li><a><img alt="picture of Kathleen" src="{{site.url}}/assets/images/directory/kathleen.jpg">
+        <span><h3>Kathleen Lee</h3><h4>Peer Mentor</h4></span>
+    </a></li>
+    <li><a><img alt="picture of Kaylie" src="{{site.url}}/assets/images/directory/kaylie.jpg">
         <span><h3>Kaylie Mei</h3><h4>Peer Mentor</h4></span>
     </a></li>
     <li><a><img alt="picture of Laura" src="{{site.url}}/assets/images/directory/laura.jpg">
         <span><h3>Laura Felix</h3><h4>Peer Mentor</h4></span>
+    </a></li>
+    <li><a><img alt="picture of Leena" src="{{site.url}}/assets/images/directory/leena.jpg">
+        <span><h3>Leena Shafi</h3><h4>Peer Mentor</h4></span>
+    </a></li>
+    <li><a><img alt="picture of Lian" src="{{site.url}}/assets/images/directory/lian.jpg">
+        <span><h3>Lian Zheng</h3><h4>Peer Mentor</h4></span>
     </a></li>
     <li><a><img alt="picture of Lisa" src="{{site.url}}/assets/images/directory/lisa.jpg">
         <span><h3>Lisa Calegari</h3><h4>Peer Mentor</h4></span>
@@ -79,8 +88,11 @@ ordering: 0
     <li><a><img alt="picture of Nathan" src="{{site.url}}/assets/images/directory/nathan.jpg">
         <span><h3>Nathan Hendrickson</h3><h4>Peer Mentor</h4></span>
     </a></li>
-    <li><a><img alt="picture of Ryan" src="{{site.url}}/assets/images/directory/ryan.jpg">
+    <li><a><img alt="picture of Ryan" src="{{site.url}}/assets/images/directory/ryan_b.jpg">
         <span><h3>Ryan Boyle</h3><h4>Peer Mentor</h4></span>
+    </a></li>
+    <li><a><img alt="picture of Ryan" src="{{site.url}}/assets/images/directory/ryan_p.jpg">
+        <span><h3>Ryan Poon</h3><h4>Peer Mentor</h4></span>
     </a></li>
     <li><a><img alt="picture of Shirley" src="{{site.url}}/assets/images/directory/shirley.jpg">
         <span><h3>Shirley Zhang</h3><h4>Peer Mentor</h4></span>
