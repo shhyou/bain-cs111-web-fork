@@ -4,10 +4,10 @@ title: Programming in Text
 type: lecture
 description: "(Mini-Quizzes 0 & 1)"
 num: 1
-draft: 1
+draft: 0
 canvas_id: 
 lec_assignment: 1
-canvas_title: Lecture 1 (Pre-Recorded) - Data Flow Diagrams and Programming - Mini-Quiz 0
+canvas_title: Lecture 1 (Pre-Recorded) - Data Flow Diagrams and Programming - Mini-Quizzes 0&1
 due_date: 2023-09-22
 mini_quiz_id: 
 mini_quiz_num: 1
@@ -18,10 +18,22 @@ slides:
    - url: https://docs.google.com/presentation/d/1EZPYibhtpuygK4Rai3Zo-Sw8xT9_RZCnI1HHrqdx6hI/edit?usp=sharing
      title: Programming in Text (Live) - No need to look at these before class unless you want to
 videos:
+  - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a253c5c-603a-42cb-97ed-b081001367cb"
+    title: "Lecture 1.1 - Intro"
+    duration: "3:30"
+  - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4a433a9-5eef-4700-bf14-b08100136544"
+    title: "Lecture 1.2 - Flow of Data"
+    duration: "9:41"
+  - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3bd21422-7b29-4360-b00c-b081001367fb"
+    title: "Lecture 1.3 - Exceptions"
+    duration: "3:55"
+  - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de9d168a-cab2-4fd7-b0cc-b08100136789"
+    title: "Lecture 1.4 - Type Signatures"
+    duration: "2:45"    
   - url: ""
-    title: "Lecture 1a - Data Flow Diagrams (<b>MINI-QUIZ 0 - USE LOAD BUTTON AT BOTTOM OF SCREEN</b>)"
+    title: "Lecture 1.5 - Functions as Data (<b>MINI-QUIZ 0 - USE LOAD BUTTON AT BOTTOM OF SCREEN</b>)"
     quiz: 1
-    duration: ""
+    duration: "3:30"
   - url: ""
     title: "Intro to Canvas (Optional)"
     duration: ""
@@ -38,6 +50,6 @@ If you are having trouble accessing the above videos, please try the following:
 2. On the list of things on the left, click on Panopto
 3. It may ask you to open it up in a separate window.
 
-You'll then see a Folder where you can access the Lecture Videos and the above links will now magically work!
+You'll then see a Folder where you can access the Lecture Videos and the above links will now magically work! <mark>To access the video with Mini-Quiz 0 built-in, you'll need to click the LOAD button at the bottom of this Canvas page.</mark>
 
 Also in-class, we'll complete most of Exericse 0. If you'd like, you can go ahead and complete it before you come to class.
