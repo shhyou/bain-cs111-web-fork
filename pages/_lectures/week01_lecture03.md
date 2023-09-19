@@ -5,11 +5,11 @@ type: lecture
 description: "(Mini-Quizzes 0 & 1)"
 num: 1
 draft: 0
-canvas_id: 
+canvas_id: 1300295
 lec_assignment: 1
 canvas_title: Lecture 1 (Pre-Recorded) - Data Flow Diagrams and Programming - Mini-Quizzes 0 & 1
 due_date: 2023-09-22
-mini_quiz_id: 
+mini_quiz_id: assignments/1300315
 mini_quiz_num: 1
 mini_quiz_title: Our First Mini-Quiz Day!
 slides:
