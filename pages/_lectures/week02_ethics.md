@@ -10,11 +10,11 @@ canvas_title: Ethics Module 1 - Social Media Algorithms (Required for Everyone)
 due_date: 2023-09-25
 readings:
    - title: "It's Time to Get Real about TikTok's Risks"
-     author: "Lily Hay Newman"
+     author: "(Optional) Lily Hay Newman"
      url: https://www.wired.com/story/tiktok-nationa-security-threat-why/
      notes: "from Wired Magazine"
    - title: "For You, or For \"You?\" Everyday LGBTQ+ Encounters with TikTok"
-     author: "Ellen Simpson and Bryan Semaan"
+     author: "(Optional) Ellen Simpson and Bryan Semaan"
      url: https://canvas.northwestern.edu/courses/201068/files/folder/Ethics%20Modules/Module%201?preview=17203360
      notes: "Proc. ACM Hum.-Comput. Interact. 4, CSCW3, Article 252 (December 2020)"
 ---
@@ -324,3 +324,11 @@ Each discussion section will have a required pre-session "reading" assignment. S
 Everyone is required to complete this module. First watch the video (embedded below) and then complete this Canvas assignment which is a series of short reflection questions.
 
 <iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c7d06a36-ec16-4908-b62b-b081001d4178&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+Answer each question below in 3-5 thoughtful sentences and submit it via Canvas.
+
+1. In what ways do you think that social media technologies are helpful and in what ways are they harmful? Why?
+
+2. Identify another technology that may pose similar issues to the ones explored in the video – what technology is it, what are those issues, and who is most at risk?
+
+3. What goals do you hope to achieve by learning computer science and how might learning about ethics in technology help you accomplish these goals?

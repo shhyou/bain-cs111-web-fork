@@ -201,7 +201,7 @@ This course is meant to a be a learning community which requires the dedicated p
 
 If you attend the Tutorial session in-person and make a legitimate attempt (up to the discretion of your Peer Mentor) at completing the assignment, you will receive full-credit. If you choose not to attend in-person, then your assignment will be reviewed for completion _and accuracy_ meaning you may nor may not receive full credit. Remote tutorials will be graded via the same autograding mechanism as the Exercises.
 
-If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form]().
+If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form](https://forms.gle/nyx6FLZM8xZsn6w26).
 
 We will not accept late tutorial submissions.
 
@@ -219,9 +219,9 @@ These exercises will be graded via an autograder (computerized grading machine) 
 You may submit the assignments up to 48 hours late with a 10% penalty per 24-hours.
 ### Mini-quizzes
 
-These will be short quizzes for each module of the course that serve as a check of your attendance and/or asynchronous participation in the course. For those that complete the Mini-Quiz in class, you will receive full credit for your attendance and full participation. If you choose to complete the Mini-Quiz remotely, you will need to complete the Canvas version of the quiz within 48 hours of your scheduled class time.
+These will be short quizzes for each module of the course that serve as a check of your attendance and/or asynchronous participation in the course. For those that complete the Mini-Quiz in class, you will receive full credit for your attendance and full participation. If you choose to complete the Mini-Quiz remotely, you will need to complete the Canvas version of the quiz within 48 hours of your scheduled class time. For Mini-Quiz 1, you MUST be in attendance in order to receive credit.
 
-If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form]().
+If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form](https://forms.gle/nyx6FLZM8xZsn6w26).
 
 ### Ethics Modules
 

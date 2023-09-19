@@ -6,7 +6,7 @@ draft: 1
 num: 6
 canvas_id: 
 lec_assignment: 1
-canvas_title: Ethics Module 6 - Accessibility
+canvas_title: Ethics Module 6 - Impact
 due_date: 2023-10-30
 ---
 

@@ -7,7 +7,7 @@ num: 1
 draft: 0
 canvas_id: 
 lec_assignment: 1
-canvas_title: Lecture 1 (Pre-Recorded) - Data Flow Diagrams and Programming - Mini-Quizzes 0&1
+canvas_title: Lecture 1 (Pre-Recorded) - Data Flow Diagrams and Programming - Mini-Quizzes 0 & 1
 due_date: 2023-09-22
 mini_quiz_id: 
 mini_quiz_num: 1
@@ -52,4 +52,7 @@ If you are having trouble accessing the above videos, please try the following:
 
 You'll then see a Folder where you can access the Lecture Videos and the above links will now magically work! <mark>To access the video with Mini-Quiz 0 built-in, you'll need to click the LOAD button at the bottom of this Canvas page.</mark>
 
-Also in-class, we'll complete most of Exericse 0. If you'd like, you can go ahead and complete it before you come to class.
+Also in-class, we'll... 
+
+* Do our first in-person Mini-Quiz (Mini-Quiz 1) via PollEverywhere!
+* Complete most of Exericse 0. If you'd like, you can go ahead and complete it before you come to class. <mark>I highly recommend doing at least the download step before coming to class as the internet in the auditorium slows WAYYYYYY down when 250 people are in there.</mark>

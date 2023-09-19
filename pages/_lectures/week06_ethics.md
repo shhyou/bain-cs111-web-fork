@@ -6,7 +6,7 @@ draft: 1
 num: 5
 canvas_id: 
 lec_assignment: 1
-canvas_title: Ethics Module 5 - Sustainability
+canvas_title: Ethics Module 5 - Identity
 due_date: 2023-10-23
 ---
 

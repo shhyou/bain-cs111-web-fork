@@ -9,10 +9,10 @@ canvas_type: online_upload
 allowed_extensions: rkt
 due_date: 2023-09-22
 ordering: 1
-draft: 1
+draft: 0
 ---
 
-This assignment is super easy and super short. We'll basically complete the whole thing in class on Friday.
+This assignment is super easy and super short. We'll basically complete the whole thing in class on Friday <mark>but do not forget to fill out the tutorial team survey</mark>.
 
 * * *
 

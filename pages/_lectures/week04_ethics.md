@@ -6,48 +6,32 @@ draft: 1
 num: 3
 canvas_id: 
 lec_assignment: 1
-canvas_title: Ethics Module 3 - Bias
+canvas_title: Ethics Module 3 - Accountability
 due_date: 2023-10-09
+readings:
+   - title: "What Went Wrong with the Boeing 737 Max?"
+     author: "The Cold Call Podcast from the Harvard Business review"
+     url: https://hbr.org/podcast/2021/04/what-went-wrong-with-the-boeing-737-max
+     notes: "Transcript available at same address."
 ---
 
-Given the role of CS111 as the first course for all CS majors and many others with an interest in CS, the course also aims to develop core skills in critical analysis of ethical issues with an emphasis on self-reflection, finding purpose, and intersectionality. Students are asked explore different "topic modules" that introduce broad topics in ethics.
 
-Students must engage in 3 ethics related activities during the quarter:
+Accountabilty–being responsible or answerable for a system's existence, behavior, and impacts–lies at the core of technical ethics. This week's module focuses on the idea of accountability in technology companies and their efforts to ensure ethical and lawful use of their technologies. We also being to unpack the idea of accountability obfuscation: where technologies are viewed as separate from their creators.
 
-* **One introductory module** which covers the ethics of social media and introduces a framework for thinking about the impact of certain technologies.
-* **Attendance at one topic module** that students will select based on topic interest and availability. They will complete a short reading beforehand in order to be ready to discuss the topic and complete a short reflection after attending.
-* **One final reflection module** which asks students to reflect on their engagement with ethical issues and their relationship to technology by producing a short write-up comparing and contrasting the topics that students learned in topic modules.
+## Part 1 - Complete the Pre-Dicussion Activity
 
-This first module serves as an introduction **and is required for everyone**. You have three tasks for this module:
+Everyone is required to complete this pre-discussion activity. Please listen to episode of the **Cold Call** from the _Harvard Business Review_. The audio recording and transcript are available at the link below. While you are listening, consider the following questions:
 
-1. You must watch the short introductory video about ethics and Social Media Algorithms linked below.
-2. You must complete this Canvas assignment which is a short reflection about the topics presented in the video.
-3. You must signup for **1 additional topic module** sometime during the quarter. More details below. You will receive a 0 for this assignment if you do not signup for a topics module by Friday, September 30.
+* What had you heard about the 737 Max controversy prior to listening to this podcast?
+* In a distributed decision making entity like Boeing, who is accountable for the mistakes that were made? Is accontability limited to just the company itself? To its employees? To certification entities?
+* Can you think of other instances in your life or in news stories you've consumed where accountability was called into question?
 
-## Module 1 - Social Media Algorithms
+## Part 2 - Attend your Discussion Section
 
-Everyone is required to complete this module. First watch the video (linked below) and then complete this Canvas assignment which is a series of short reflection questions.
+You should have registered for a discussion section this week by joining the appropriate Canvas group. Switching sessions is not allowed and attendance at your registered section is required and you must be in-attendance _for the entirety of the session_. For questions about discussion sections, please contact our Ethics Coordinator, Maya Blumovitz (<maya.blumovitz@u.northwestern.edu>) and CC Prof. Bain (<connor.bain@northwestern.edu>).
 
-## Signing Up for a Discussion Section
+## Part 3 - Submit your Self Reflection
 
-Each week throughout the quarter (beginning in Week 3 and ending in Week 9), our Peer Mentor staff will lead Ethics Topics Modules. The 6 avaialble modules are listed below:
+After attending your discussion section, be sure to return here to complete this self-reflection. Reflect on your discussion section (200-300 words): What stood out most to you? What did you learn? How do you think we can balance the benefits of technological advancement with the need for accountability and responsibility among tech companies? Make sure to submit your thoughts either via text entry or file upload in Canvas.
 
-* Week 3 - Accountability
-* Week 4 - Bias
-* Week 5 - Identity
-* Week 6 - Sustainability
-* Week 7 - Accessibility
-* Week 8 - Labor
-* Week 9 - Impact
-
-Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 7 times through its respective week and enrollment in each session is capped at 10 students. You can view the available session dates & times by going to the [People page on Canvas and selecting the Ethics Discussion Groups tab]({{ site.canvas_url }}/users). Scroll through the available times and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
-
-> **Please choose your sign-up time carefully** as you will not be able to switch sessions once you've signed up.
-
-## Attending your Discussion Section
-
-Each discussion section will have a required pre-session "reading" assignment. Some might ask you to engage with a written article, while others may ask you to watch a Netflix show or listen to a podcast. **You are expected to complete that reading assignment prior to coming to the session** so that you are ready to discuss it during the session. After your session, you'll be asked to complete a short Canvas assignment (similar to the one for this module) asking you to reflect on your experience.
-
-## Final Reflection Module (Week 11)
-
-During the last week of class, you'll be asked to complete a final reflection via Canvas. More details will be provided as we get closer to that date.
+Additionally, feel free to provide any feedback you have on how the discussion went.

@@ -6,7 +6,7 @@ draft: 1
 num: 8
 canvas_id: 
 lec_assignment: 1
-canvas_title: Ethics Module 8 - Impact
+canvas_title: Ethics Module 8 - Sustainability
 due_date: 2023-11-13
 ---
 
