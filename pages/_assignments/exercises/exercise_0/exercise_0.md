@@ -81,7 +81,9 @@ That should launch a window that looks something like this:
 
 <img alt="DrRacket Window" src="{{ site.url }}/assets/exercise_0/drracket_main.png" />
 
-One of the main reasons we use Racket in this class is that it is essentially a programming language for programming languages. Rather than being a single programming language (e.g. Python), it allows you to implement your own languages. In this class, we'll actually be gradually progressing from one language to another language as we practice our programming skills.
+<mark>If you don't see this window appear and you're on a Windows machine</mark>, you likely saw a blank window appear. That's because you opened the `Racket` executable rather than `DrRacket`. Go back to your Racket folder and open **DrRacket** (not Racket).
+
+One of the main reasons we use DrRacket in this class is that it is essentially a programming language for programming languages. Rather than being a single programming language (e.g. Python), it allows you to implement your own languages. In this class, we'll actually be gradually progressing from one language to another language as we practice our programming skills.
 
 In the bottom left hand corner, you should see a message that says "No language chosen" (you might also see something else here, that's okay). If you click on that menu you'll be brought to the Language Select screen (see below). On this screen, select the `Intermediate Student Language with lambda` and hit OK.
 
