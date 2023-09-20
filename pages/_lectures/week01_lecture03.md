@@ -34,12 +34,12 @@ videos:
     title: "Lecture 1.5 - Functions as Data (<b>MINI-QUIZ 0 - USE LOAD BUTTON AT BOTTOM OF SCREEN</b>)"
     quiz: 1
     duration: "3:30"
-  - url: ""
+  - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=046bab86-48d6-4cd0-976f-b083000c7701"
     title: "Intro to Canvas (Optional)"
-    duration: ""
-  - url: ""
+    duration: "13:23"
+  - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09f059be-98da-4d92-9a9c-b083000c76cf"
     title: "Intro to edSTEM (Optional)"
-    duration: ""
+    duration: "8:52"
 ---
 
 Today we'll build off the pre-recorded lecture on Data Flow diagrams to start designing programs using a text-based programming language. Make sure to watch the lecture video BEFORE coming to class.
