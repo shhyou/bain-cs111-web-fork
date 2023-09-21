@@ -8,6 +8,11 @@ draft: 0
 canvas_id: wednesday-lecture-0-what-is-computation-?
 canvas_title: Wednesday - Lecture 0 - What is Computation?
 due_date: 2023-09-20
+videos:
+  - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2edcb7a7-28c9-41a6-8459-b078001281f8"
+    title: "Live Lecture Recording"
+    duration: "51:00"
+    live: 1
 slides:
    - url: https://docs.google.com/presentation/d/1rveEB2Z5yrT_e2OAl0NFo1nORsq0gWfGlfwuWZOQTh0/edit?usp=sharing
      title: What is Computation? + Course Logistics
