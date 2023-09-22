@@ -40,6 +40,10 @@ videos:
   - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09f059be-98da-4d92-9a9c-b083000c76cf"
     title: "Intro to edSTEM (Optional)"
     duration: "8:52"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ea7af38-cd6f-423d-b19a-b0780012823d
+    title: "Live Lecture Recording"
+    duration: "51:00"
+    live: 1
 ---
 
 Today we'll build off the pre-recorded lecture on Data Flow diagrams to start designing programs using a text-based programming language. Make sure to watch the lecture video BEFORE coming to class.

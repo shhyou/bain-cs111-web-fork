@@ -18,3 +18,7 @@ You can join our edSTEM page (which we use for Q&As as well as post tips/tricks 
 
 ### Other Questions
 For any other issues that you think are not appropriate for the peer mentors or graduate TA, please talk to Prof. Bain. This might include things like concerns about your progress in the course, questions about content from lectures, personal matters related to your participation in the course, larger grade concerns, advice about future courses, majors, and internships, etc.
+
+## How to Use edSTEM
+
+<iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=09f059be-98da-4d92-9a9c-b083000c76cf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
