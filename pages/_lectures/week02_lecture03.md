@@ -2,7 +2,7 @@
 layout: module
 title: Aligning Language
 type: lecture
-description:
+description: (Mini-Quiz 3)
 num: 4
 draft: 1
 canvas_id:

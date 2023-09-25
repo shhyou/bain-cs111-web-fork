@@ -2,7 +2,7 @@
 layout: module
 title: Social Media Algorithms (Required for Everyone)
 type: ethics
-draft: 1
+draft: 0
 num: 1
 canvas_id: 
 lec_assignment: 1
@@ -31,7 +31,7 @@ This first module serves as an introduction **and is required for everyone**. Yo
 
 1. You must watch the short introductory video about ethics and Social Media Algorithms linked below.
 2. You must complete this Canvas assignment which is a short reflection about the topics presented in the video.
-3. You must signup for **1 additional topic module** sometime during the quarter. More details below. You will receive a 0 for this assignment if you do not signup for a topics module by Friday, September 30.
+3. You must signup for **1 additional topic module** sometime during the quarter. More details below. <mark>You will receive a 0 for this assignment if you do not signup for a topics module by Sunday, Oct 1 at 11:59pm.</mark>
 
 * * *
 ## Signing Up for a Discussion Section
@@ -46,7 +46,7 @@ Each week throughout the quarter (beginning in Week 3 and ending in Week 9), our
 * Week 8 - Labor
 * Week 9 - Sustainability
 
-Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 6 times through its respective week and enrollment in each session is capped at 12 students. You can view the available session dates & times by going to the [People page on Canvas and selecting the Ethics Discussion Groups tab]({{ site.canvas_url }}/users). Scroll through the available times and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
+Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 6 times through its respective week and enrollment in each session is capped at 12 students. You can view the available session dates & times by going to the [People page on Canvas and selecting the Ethics Discussion Groups tab]({{ site.canvas_url }}/users). Scroll through the available times (or search for a specific section) and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
 
 > **Please choose your sign-up time carefully** as you will not be able to switch sessions once you've signed up.
 
@@ -179,15 +179,16 @@ Your job is to select a module that appeals to you (or works for your schedule t
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech LG62&quot;}">Tech LG62</td>
 </tr>
 <tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45223}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, m/d&quot;,&quot;3&quot;:1}">Mon, 10/23</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7916666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">7:00 PM</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech L168&quot;}">Tech L168</td>
+</tr>
+<tr>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45223}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, m/d&quot;,&quot;3&quot;:1}">Tue, 10/24</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7916666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">7:00 PM</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech L158&quot;}">Tech L158</td>
 </tr>
-<tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45224}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, m/d&quot;,&quot;3&quot;:1}">Wed, 10/25</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5416666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">1:00 PM</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech M349&quot;}">Tech M349</td>
-</tr>
+
 <tr>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45224}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, m/d&quot;,&quot;3&quot;:1}">Wed, 10/25</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7083333333333334}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">5:00 PM</td>
@@ -247,33 +248,33 @@ Your job is to select a module that appeals to you (or works for your schedule t
 <div>Labor</div>
 </td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45236}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Mon, 11/06</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.625}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">3:00 PM</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.625}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">4:00 PM</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech A110&quot;}">Tech A110</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45236}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Mon, 11/06</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.6666666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">4:00 PM</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech A110&quot;}">Tech A110</td>
-</tr>
-<tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45237}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Tue, 11/07</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.75}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">6:00 PM</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45236}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Mon, 11/07</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.6666666666666666}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">6:00 PM</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech LG66&quot;}">Tech LG66</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45238}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Wed, 11/08</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4166666666666667}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">10:00 AM</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45237}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Wed, 11/08</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.75}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">10:00 AM</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech M120&quot;}">Tech M120</td>
 </tr>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45238}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Wed, 11/08</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7083333333333334}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">5:00 PM</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4166666666666667}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">2:00 PM</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech M177&quot;}">Tech M177</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45238}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, mm/dd&quot;,&quot;3&quot;:1}">Wed, 11/08</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7083333333333334}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">6:00 PM</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech L168&quot;}">Tech L168</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45239}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, m/d&quot;,&quot;3&quot;:1}">Thu, 11/9</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5833333333333334}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">2:00 PM</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech L160&quot;}">Tech L160</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45239}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;ddd, m/d&quot;,&quot;3&quot;:1}">Thu, 11/09</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5833333333333334}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}">4:00 PM</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tech LG52&quot;}">Tech LG52</td>
 </tr>
 <tr>
 <td colspan="1" rowspan="6" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;9\nNov. 13 - 17&quot;}">
@@ -321,11 +322,11 @@ Each discussion section will have a required pre-session "reading" assignment. S
 * * *
 ## Ethics Module 1 - Social Media Algorithms
 
-Everyone is required to complete this module. First watch the video (embedded below) and then complete this Canvas assignment which is a series of short reflection questions.
+<mark>Everyone is required to complete this module.</mark> First watch the video (embedded below) and **then complete this Canvas assignment which is a series of short reflection questions.**
 
 <iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c7d06a36-ec16-4908-b62b-b081001d4178&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-Answer each question below in 3-5 thoughtful sentences and submit it via Canvas.
+**Answer each question below in 3-5 thoughtful sentences and submit it via Canvas.**
 
 1. In what ways do you think that social media technologies are helpful and in what ways are they harmful? Why?
 

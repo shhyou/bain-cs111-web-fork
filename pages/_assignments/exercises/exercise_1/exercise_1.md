@@ -10,7 +10,7 @@ canvas_id:
 points: 100
 ---
 
-In this assignment you’ll play with simple functions for making images that we’ll use later on in the course. If you have not already completed Exercise 0, do so before starting this assignment as it will assume that you have correctly configured Dr Racket and that you have a solid understanding of how to create both simple and compound images.
+In this assignment you’ll play with simple functions for making images that we’ll use later on in the course.
 
 > **Note**: We've tried to make this assignment accessible to those who have trouble seeing colors, but please let us know if we can provide additional help.
 
