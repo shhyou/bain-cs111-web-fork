@@ -1,12 +1,13 @@
 ---
 layout: assignment-two-column
 title: Getting Acquainted with the ISL
+canvas_title: Exercise 1
 abbreviation: Exercise 1
 type: homework
 due_date: 2023-09-29
 ordering: 2
 draft: 0
-canvas_id: 
+canvas_id: 1303175
 points: 100
 ---
 

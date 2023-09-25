@@ -5,6 +5,8 @@ type: tutorial
 abbreviation: Tutorial 0
 draft: 0
 num: 1
+canvas_title: Tutorial 0
+canvas_id: 1303176
 due_date: 2023-09-27
 ---
 > Note: **BECAUSE THIS IS THE FIRST TUTORIAL AND ATTENDANCE IS REQUIRED YOU WILL NOT ACTUALLY SUBMIT ANY FILE TO CANVAS FOR THIS ASSIGNMENT**.

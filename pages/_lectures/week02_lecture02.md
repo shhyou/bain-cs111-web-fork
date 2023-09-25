@@ -7,7 +7,7 @@ num: 3
 draft: 0
 lec_assignment: 1
 canvas_title: Lecture 3 (Pre-Recorded) - Compound Functions - Mini-Quiz 2
-canvas_id: 
+canvas_id: 1303178
 slides:
   - url: https://docs.google.com/presentation/d/1DKdPrBD8D7yc04_Xh18HM11DYRKd7QIA2xqta2ucIM8/edit?usp=sharing
     title: Compound Functions (Pre-Recorded)

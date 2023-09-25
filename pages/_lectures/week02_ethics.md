@@ -4,7 +4,7 @@ title: Social Media Algorithms (Required for Everyone)
 type: ethics
 draft: 0
 num: 1
-canvas_id: 
+canvas_id: 1303177
 lec_assignment: 1
 canvas_title: Ethics Module 1 - Social Media Algorithms (Required for Everyone)
 due_date: 2023-09-25
