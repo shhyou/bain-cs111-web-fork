@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: 
 type: tutorial
 abbreviation: Tutorial 0
-draft: 1
+draft: 0
 num: 1
 due_date: 2023-09-27
 ---

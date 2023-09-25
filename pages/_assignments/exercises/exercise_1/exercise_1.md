@@ -5,7 +5,7 @@ abbreviation: Exercise 1
 type: homework
 due_date: 2023-09-29
 ordering: 2
-draft: 1
+draft: 0
 canvas_id: 
 points: 100
 ---
