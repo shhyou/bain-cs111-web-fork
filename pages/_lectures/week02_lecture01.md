@@ -15,7 +15,7 @@ readings:
     title: Prologue from _How to Design Programs_ 2e.
     notes: "This will actually go a little bit farther than we get this week."
 slides:
-  - url: https://docs.google.com/presentation/d/1DKdPrBD8D7yc04_Xh18HM11DYRKd7QIA2xqta2ucIM8/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/1SS1Jc4k8TRrpMOrF80EowHgOVjZczsazs1-NGaGaMdk/edit?usp=sharing
     title: Composing Functions and a Simple Graphics Language
 ---
 Today our goal is to review what we talked about Friday: specifically about writing programs in text in DrRacket. Though we'll start off with basic text programs that either add numbers or manipulate text, our main goal for today is to understand some basic 2D Graphics functions so that we can make some pretty cool images.
