@@ -11,8 +11,9 @@ canvas_id: monday-lecture-2-graphics-language
 canvas_title: Monday - Lecture 2 - Graphics Language
 readings:
   - url: https://htdp.org/2023-8-14/Book/part_prologue.html
-  - author: Felleisen, Findler, Flatt, & Krishnamurthi.
-  - title: Prologue from _How to Design Programs_ 2e.
+    author: Felleisen, Findler, Flatt, & Krishnamurthi.
+    title: Prologue from _How to Design Programs_ 2e.
+    notes: "This will actually go a little bit farther than we get this week."
 slides:
   - url: https://docs.google.com/presentation/d/1DKdPrBD8D7yc04_Xh18HM11DYRKd7QIA2xqta2ucIM8/edit?usp=sharing
     title: Composing Functions and a Simple Graphics Language

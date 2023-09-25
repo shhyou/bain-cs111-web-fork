@@ -4,7 +4,7 @@ title: Checking for Syntax or Runtime Errors in Racket
 description: How to see if your Racket program has errors
 canvas_id: checking-for-syntax-or-runtime-errors-in-racket
 ordering: 11
-draft: 1
+draft: 0
 ---
 
 Before submitting your work, always run it in DrRacket and make sure that it does not contain any errors. If your submission has syntax errors (e.g. missing or misplaced parentheses) or runtime errors, we won't be able to run the code and assign any partial credit.

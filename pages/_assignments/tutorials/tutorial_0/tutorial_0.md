@@ -7,7 +7,7 @@ draft: 1
 num: 1
 due_date: 2023-09-27
 ---
-> Note: **BECAUSE THIS IS THE FIRST TUTORIAL AND ATTENDANCE IS REQUIRED YOU WILL NOT ACTUALLY SUBMIT ANY FILE TO CANVAS FOR THIS ASSIGNMENT**. The course staff will ask you to verify your name and NetID before you leave class and you will receive credit based on that.
+> Note: **BECAUSE THIS IS THE FIRST TUTORIAL AND ATTENDANCE IS REQUIRED YOU WILL NOT ACTUALLY SUBMIT ANY FILE TO CANVAS FOR THIS ASSIGNMENT**.
 
 In this assignment you’ll play with simple functions for making images that we’ll use later on in the course. Make sure to work with the other people in your group. If you find yourself needing help, ask your assigned PM or any of the other course staff members.
 
@@ -175,7 +175,7 @@ Your job here is to decide what _output-code_ should be. It’s going to want to
 Feel free to change the names lens and bridge to something else if you prefer.
 
 > **Hint**: You won't be able to use `overlay` here since you need to place shapes beside each other. See if there's another function in the `2htdp/image` library that might be useful for combining images in a different way!
-* * *
+
 ### Designer Eyeware
 
 Now have fun trying to make different interesting glasses designs, and share them with the other students in your group! The wackier the better!

@@ -4,7 +4,7 @@ title: Exercise Submission + Grading FAQ
 description: FAQ on submissions and grades
 ordering: 12
 canvas_id: exercise-submission-+-grading-faq
-draft: 1
+draft: 0
 ---
 
 > I got a plagiarism warning comment on Canvas. What does this mean?
@@ -65,7 +65,3 @@ No. The Late Penalty Waiver waives the late penalty. It does not extend the assi
 > I don't understand what went wrong. I see the test failed, but don't know why.
 
 Come to Office Hours! We can help you figure out what went down.
-
-> I got a 0 (or other really low grade) because I did something that a human would understand but the autograder didn't.
-
-This sort of thing is covered by our Resubmission Petition Policy. **Keep in mind the turn around time for this is very tight as it is only meant for cases where you have successfully completed the assignment ALREADY.** If you got an artificially low grade because of, for instance, you uploaded the wrong file, submitted a file with an extra character in it that causes a syntax error, etc, the Resubmission Petition might be able to help you but keep in mind it is really more like a disaster-avoidance-policy more than anything else.

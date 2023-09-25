@@ -8,10 +8,9 @@ num: 1
 due_date: 2023-09-27
 ---
 
-
 Thanks to Prof. Ian Horswill for the initial version of this assignment.
 
-> Note: **BECAUSE THIS IS THE FIRST TUTORIAL AND ATTENDANCE IS REQUIRED YOU WILL NOT ACTUALLY SUBMIT ANY FILE TO CANVAS FOR THIS ASSIGNMENT**. The course staff will ask you to verify your name and NetID before you leave class and you will receive credit based on that.
+> Note: **BECAUSE THIS IS THE FIRST TUTORIAL AND ATTENDANCE IS REQUIRED YOU WILL NOT ACTUALLY SUBMIT ANY FILE TO CANVAS FOR THIS ASSIGNMENT**.
 
 <a class="nu-button" href="https://bain-cs111.github.io/course-files/tutorials/adv_tutorial_0_template.zip" target="_blank">
     Advance Tutorial 0 Starter Files <i class="fas fa-download"></i>

@@ -27,6 +27,7 @@ videos:
   - url: 
     title: "Lecture 3.5 - Type Signatures (<b>Mini-Quiz 2</b> - use load button)"
     duration: "5:37"
+    quiz: 1
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fde5148a-f5a9-454e-bcb6-b085000c9c77
     title: "Lecture 3.6 - DrRacket Demos"
     duration: "5:53"

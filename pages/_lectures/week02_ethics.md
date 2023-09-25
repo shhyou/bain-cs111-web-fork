@@ -46,7 +46,7 @@ Each week throughout the quarter (beginning in Week 3 and ending in Week 9), our
 * Week 8 - Labor
 * Week 9 - Sustainability
 
-Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 6 times through its respective week and enrollment in each session is capped at 12 students. You can view the available session dates & times by going to the [People page on Canvas and selecting the Ethics Discussion Groups tab]({{ site.canvas_url }}/users). Scroll through the available times (or search for a specific section) and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
+Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 6 times through its respective week and enrollment in each session is capped at 12 students. You can view the available session dates & times below. You can sign-up by going to the [People page on Canvas]({{ site.canvas_url }}/users), either scrolling or searching for the session in question (it could be full), and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
 
 > **Please choose your sign-up time carefully** as you will not be able to switch sessions once you've signed up.
 
