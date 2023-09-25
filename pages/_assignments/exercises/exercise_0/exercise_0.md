@@ -176,4 +176,4 @@ For this assignment, you will upload your `exercise_0.rkt` file to the assignmen
 * * *
 ## Requesting a Late Penalty Waiver
 
-If you need to request an extension on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Extension Request form</a>. Please see the Syllabus for requirements.
+If you need to request an extension on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see the Syllabus for requirements.

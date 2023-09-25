@@ -130,4 +130,4 @@ Once you’ve finished your assignment, **PLEASE READ THE WHAT'S AN AUTOGRADER? 
 * * *
 
 ## Requesting a Late Penalty Waiver
-If you need to request an extension on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Extension Request form</a>. Please see this Syllabus for requirements.
+If you need to request an extension on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see this Syllabus for requirements.

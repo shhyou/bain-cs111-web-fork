@@ -14,6 +14,12 @@ readings:
     author: Felleisen, Findler, Flatt, & Krishnamurthi.
     title: Prologue from _How to Design Programs_ 2e.
     notes: "This will actually go a little bit farther than we get this week."
+videos:
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aed8bcb4-7420-473a-9c24-b07800128254
+    title: Live Lecture Recording
+    duration: "51:00"
+    live: 1
+
 slides:
   - url: https://docs.google.com/presentation/d/1SS1Jc4k8TRrpMOrF80EowHgOVjZczsazs1-NGaGaMdk/edit?usp=sharing
     title: Composing Functions and a Simple Graphics Language
