@@ -16,7 +16,7 @@ show_schedule: 1
 
 {% if page.exercise_url %}
     <h3 id="code">{{num}}. Exercise Files</h3> 
-    <a class="nu-button" href="{{site.baseurl}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
+    <a class="nu-button" href="{{site.url}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
         Download Exercise Files <i class="fas fa-download"></i>
     </a>
     {% assign num = num | plus: 1 %}
