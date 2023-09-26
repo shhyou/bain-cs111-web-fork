@@ -11,7 +11,7 @@ draft: 0
 
 For security purposes, all zoom meetings will require that you sign-in via your NU account. To do this, you will first navigate to <a href="https://northwestern.zoom.us" target="_blank">https://northwestern.zoom.us</a>, and then join the corresponding meeting.
 
-If you have not setup your NU Zoom account, please visit [NU IT's webpage](https://www.it.northwestern.edu/conferencing/zoom/index.html) for more details.
+If you have not setup your NU Zoom account, please visit [NU IT's webpage](https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceDet?ID=140) for more details.
 
 If you don't login to zoom or if you are logged in as a user other than through the NU Single Sign-On, you won't be able to join our Zoom rooms.
 
