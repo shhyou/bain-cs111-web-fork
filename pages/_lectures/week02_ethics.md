@@ -38,13 +38,13 @@ This first module serves as an introduction **and is required for everyone**. Yo
 
 Each week throughout the quarter (beginning in Week 3 and ending in Week 9), our Peer Mentor staff will lead Ethics Topics Modules. The 7 avaialble modules are listed below:
 
-* Week 3 - Accessibility
-* Week 4 - Accountability
-* Week 5 - Bias
-* Week 6 - Identity
-* Week 7 - Impact
-* Week 8 - Labor
-* Week 9 - Sustainability
+* Week 3 - Accessibility – Analyzing how technology can be designed for all audiences while also widening the digital divide
+* Week 4 - Accountability – An exploration of the Boeing 737 Max tragedy and scandal
+* Week 5 - Bias – Reflecting on bias in artificial intelligence
+* Week 6 - Identity – Navigating the complex terrain of technology and personal identity
+* Week 7 - Impact – Exploring how technology impacts individuals, communities, and societies
+* Week 8 - Labor – Analyzing how technology is producing new forms of labor and exploitation
+* Week 9 - Sustainability – How technology can promote sustainable futures and also has a large footprint itself
 
 Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 6 times through its respective week and enrollment in each session is capped at 12 students. You can view the available session dates & times below. You can sign-up by going to the [People page on Canvas]({{ site.canvas_url }}/users), either scrolling or searching for the session in question (it could be full), and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
 
