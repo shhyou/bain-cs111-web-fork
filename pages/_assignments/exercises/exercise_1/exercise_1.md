@@ -73,7 +73,7 @@ For instance, confoundingly `"Barbie Pink"` is not a recognized color in ISL. <a
 
 The first input must be the red intensity, the second must be the green intensity, and the third must be the blue intensity.
 
-Use the `make-color` function to create our new color and then use that as an input to some function that allows us to make an upward pointing equilateral triangle that is solid and has a side length of 100.
+Use the `make-color` function to create our new color and then use that as an input to some function that allows us to make an upward pointing <a target="_blank" href="https://docs.racket-lang.org/teachpack/2htdpimage.html#%28def._%28%28lib._2htdp%2Fimage..rkt%29._triangle%29%29">equilateral triangle</a> that is solid and has a side length of 100.
 
 <img alt="Barbie Pink Upward-Pointing Equilateral Triangle" src="{{ site.url }}/assets/exercise_1/a-barbie-triangle.svg" style="width:10%" />
 
