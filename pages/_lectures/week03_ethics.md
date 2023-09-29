@@ -19,7 +19,7 @@ readings:
 > interested in the topic, you should feel free to complete Part 1, but Part 2 and Part 3 are reserved for those registered for that
 > particular module.
 
-The importance of making technology accessible and usable for people with disabilities or those with limited resources, as well as the ways in which technology can create or widen existing digital divides. Topics in this discuss will include universal design principles, accessibility standards and regulations, and the role of technology companies in promoting accessibility.
+In this session, we'll study the importance of making technology accessible and usable for people with disabilities or those with limited resources, as well as the ways in which technology can create or widen existing digital divides. Topics in this module will include universal design principles, accessibility standards and regulations, and the role of technology companies in promoting accessibility.
 
 ## Part 1 - Complete the Pre-Dicussion Activity
 
