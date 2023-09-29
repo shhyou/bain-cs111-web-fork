@@ -122,12 +122,14 @@ Now, make the flag of Chicago:
 
 You might need some more functions than the ones we have discussed so far. You may find `radial-star` and `overlay/xy` to be helpful. Remember all the functions in the ISL are explained in the [ISL documentation](https://docs.racket-lang.org/teachpack/2htdpimage.html) and your image doesn’t need to be exact! Define it as `flag-of-chicago`. And again, make sure that you can sketch out the dataflow diagram for it.
 
+> Note: there is no need for any lambda expression in ANY of these activities.
+
 * * *
 
 ## Turning it in
-Once you’ve finished your assignment, **PLEASE READ THE WHAT'S AN AUTOGRADER? PAGE ONE MORE TIME** (it's on Canvas) before submitting it to Canvas. Congratulations! You’re done with the assignment for this week!
+Once you’ve finished your assignment, **PLEASE READ THE _Autograder and Submission FAQ_ and _Exercise Submission and Grading FAQ_** (they're on Canvas under "Course Resources" or in the _Pages_ tab) before submitting it to Canvas. Congratulations! You’re done with the assignment for this week!
 
 * * *
 
 ## Requesting a Late Penalty Waiver
-If you need to request an extension on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see this Syllabus for requirements.
+If you need to request a late penalty waiver on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see this Syllabus for requirements.
