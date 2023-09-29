@@ -12,6 +12,11 @@ mini_quiz_num: 3
 mini_quiz_title: Functions, Functions, and More Functions
 due_date: 2023-09-29
 exercise_url: "lecture04.zip"
+videos:
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f5c665e-c01d-400a-ae2e-b0780012827d&start=60
+    title: Live Lecture
+    duration: "51:00"
+    live: 1
 slides:
   - url: https://docs.google.com/presentation/d/1wMEGBKJFUIUkLEwM8PVS5TWSizHr-9c1nWYmUnMcl1s/edit?usp=sharing
     title: Aligning Language
