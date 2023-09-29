@@ -5,12 +5,13 @@ type: lecture
 description: (Mini-Quiz 3)
 num: 4
 draft: 0
-canvas_id: friday-lecture-4-more-on-functions-(mini-quiz-3)
+canvas_id: friday-lecture-4-more-on-functions-mini-quiz-3
 canvas_title: Friday - Lecture 4 - More on Functions (Mini-Quiz 3)
 mini_quiz_id: quizzes/220674
 mini_quiz_num: 3
 mini_quiz_title: Functions, Functions, and More Functions
 due_date: 2023-09-29
+exercise_url: "lecture04.zip"
 slides:
   - url: https://docs.google.com/presentation/d/1wMEGBKJFUIUkLEwM8PVS5TWSizHr-9c1nWYmUnMcl1s/edit?usp=sharing
     title: Aligning Language
