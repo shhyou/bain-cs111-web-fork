@@ -4,7 +4,7 @@ title: Accountability
 type: ethics
 draft: 0
 num: 2
-canvas_id: 
+canvas_id: 1305024
 lec_assignment: 1
 canvas_title: Ethics Module 2 - Accessibility
 due_date: 2023-10-02
