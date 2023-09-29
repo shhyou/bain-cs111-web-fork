@@ -12,7 +12,7 @@ readings:
    - title: "Creating an Accessible Digital Future (Video)"
      author: "Judy Brewer via TEDxMIT"
      url: https://www.youtube.com/watch?v=Wb2X9kYEvXc
-     notes: "Transcript available via close captions."
+     notes: "Transcript available via closed captions."
 ---
 
 > **Reminder**...starting with Module 2, only students registered for this module need to complete all 3 parts of these assignments. If you are
