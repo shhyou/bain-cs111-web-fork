@@ -16,7 +16,7 @@ slides:
 readings:
   - url: https://web.mit.edu/6.001/6.037/sicp.pdf
     author: Abelson, Sussman, and Sussman.
-    title: Structure and Interpreation of Computer Programs
+    title: Structure and Interpretation of Computer Programs
     notes: "Chp. 1.1.1 - 1.1.6 might be helpful!"
 videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae3938ab-78b6-4b05-9a2a-b08e017745ac

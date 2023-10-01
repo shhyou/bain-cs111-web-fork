@@ -218,7 +218,7 @@ Find one other person in your group that is finished and peer review each other'
 1. How was their solution different from yours (if at all)?
 1. Does their program run and generate the correct test images?
 
-> Note: If you've finishe in less than 30 minutes, you should either help other people in your group, or try your hand at the Advanced Tutorial. I won't open the form until the 30 minute mark of class.
+> Note: If you've finished in less than 30 minutes, you should either help other people in your group, or try your hand at the Advanced Tutorial. I won't open the form until the 30 minute mark of class.
 
 Once you've each taken a look, take a second to debrief. Anything either of you found difficult? Easy? Fun? Mind-blowing? Once you've debriefed, **both of you should fill out this** <a href="https://forms.gle/vhKxTCXHJUtMoD7v8" target="_blank">attendance Google Form</a>. **NOTE: You will need the NetID of the person's whose code you reviewed.** 
 
