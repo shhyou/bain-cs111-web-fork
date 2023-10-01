@@ -6,8 +6,9 @@ type: homework
 due_date: 2023-10-06
 ordering: 3
 draft: 0
-canvas_id: 
+canvas_id: 1305412
 points: 100
+canvas_title: Exercise 2
 ---
 
 In this assignment, you will experiment with generating images using the iterated image functions. Throughout the assignment, you will:

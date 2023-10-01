@@ -7,7 +7,8 @@ draft: 0
 points: 100
 num: 2
 description:
-canvas_id: 
+canvas_title: Tutorial 1
+canvas_id: 1305413
 due_date: 2023-10-04
 ---
 

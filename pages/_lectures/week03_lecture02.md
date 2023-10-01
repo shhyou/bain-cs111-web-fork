@@ -5,7 +5,7 @@ type: lecture
 description:
 num: 6
 draft: 0
-canvas_id: 
+canvas_id: 1305414
 canvas_title: Lecture 6 (Pre-Recorded) - Lambda Abstraction - Mini-Quiz 4
 lec_assignment: 1
 exercise_url: "lecture06.zip"
