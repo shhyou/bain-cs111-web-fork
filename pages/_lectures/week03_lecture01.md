@@ -22,11 +22,15 @@ In the case of functions like `iterated-overlay`, we just have it pass in a "pic
 
 Of course, there are times when you really do want to make the same box repeatedly, you just want a lot of identical boxes. That’s easy; you just write a function that ignores its input.  That’s perfectly fine.
 
+* * *
+
 ## Nested iteration
 
 The `boxes` function in the middle of the lecture is an example of **nested iteration**. That just means it has an iterator whose code being iterated has another iterator in it. Again, that’s just fine and is a perfectly common thing to do in programming.
 
 A lot of programming looks like nested iteration. For example, when a spreadsheet program is drawing the screen, it’s probably using one iterator to iterate over rows of the spreadsheet, and another inside it to iterate over the columns. Inside of that is something that draws a single spreadsheet cell.
+
+* * *
 
 ## For Java and python programmers
 
@@ -42,11 +46,13 @@ The `{ }` expression is an argument to `for`.  It’s basically a `lambda` expre
 
 > Note:  As we’ll see, you can do the same thing in Racket. You say `(for-each (λ (i) (set! sum (+ i sum))) listOfInts)`.  But Racket also lets you do it without needing λ` or `{ }`:`(apply + listOfInts)`.
 
-The difference is that languages like Java have draconian restrictions on what you can do with `{ }` expressions. You can pass them as arguments to `for`, `while`, and `if` (and a few other things like do, and `try/catch` if you language has those). That’s it. You can’t pass `{ }` as an argument to any code you write and you can store it into a data structure. That means you’re stuck with the iterators that your language gives you.  You don’t have a mechanism for writing your own.
+The difference is that languages like Java have draconian restrictions on what you can do with `{ }` expressions. You can pass them as arguments to `for`, `while`, and `if` (and a few other things like do, and `try/catch` if you language has those). That’s it. You can’t pass `{ }` as an argument to any code you write and you can't store it into a data structure. That means you’re stuck with the iterators that your language gives you. You don’t have a mechanism for writing your own.
 
 That’s one of the reasons that most languages like Java have added `λ`, although they all have different ways of spelling it.
 
 Being able to treat functions as data and pass them as arguments let you do all kinds of useful things. For example, Java and JavaScript, despite their names, have radically different, and fundamentally incompatible ways of doing object-oriented programming. Each is good for different things. But because it’s wired into the language, you’re stuck with the object system of your language. If your language lets you pass functions around as data, then you can make your own object system. So if you don’t like the one that’s built in, you can make a new one.  You can even mix-and-match.
+
+* * *
 
 ## Why the rules of computation matter
 
