@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Identity
+title: Bias
 type: ethics
 draft: 1
 num: 4

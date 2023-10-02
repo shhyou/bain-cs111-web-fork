@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Sustainability
+title: Identity
 type: ethics
 draft: 1
 num: 5

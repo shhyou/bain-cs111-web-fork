@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Accessibility
+title: Impact
 type: ethics
 draft: 1
 num: 6

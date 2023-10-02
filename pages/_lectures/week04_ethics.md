@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Bias
+title: Accountability
 type: ethics
 draft: 1
 num: 3

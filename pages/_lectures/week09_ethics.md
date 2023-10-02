@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Impact
+title: Sustainability
 type: ethics
 draft: 1
 num: 8

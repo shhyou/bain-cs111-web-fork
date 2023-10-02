@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Accountability
+title: Accessibility
 type: ethics
 draft: 0
 num: 2
