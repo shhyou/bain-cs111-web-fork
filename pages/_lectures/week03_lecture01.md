@@ -8,6 +8,12 @@ draft: 0
 canvas_title: Monday - Lecture 5 - Iterators
 canvas_id: monday-lecture-5-iterators
 due_date: 2023-10-02
+
+videos:
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f3d9db3-7486-497f-9f6b-b07800128293
+    title: "Live Lecture Recording"
+    duration: "51:00"
+    live: 1
 slides:
   - url: https://docs.google.com/presentation/d/1y3ug5assTdw4A7RLZwSdRopOYgSHRLuXaYya-TDzQUo/edit?usp=sharing
     title: "Iteration and Iterators"
