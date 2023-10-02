@@ -111,7 +111,7 @@ By using the `my-row` function inside `my-grid`, you're practicing the key conce
 
 Remember that all iterators have a built-in counter variable that start at 0 and end at n-1. That is, they will run `count` times, but at their first iteration, their counter will be 0, then 1, then 2, and so on. They will then stop once the `n - 1` iteration has finished its business.
 
-For your next image, you are going to try and recreate a bullseye made out of red-outlined circles with radii increasing by 25 each time. This function, called `my-bullseye`, will take one input, the number of circles to draw, and will involve `iterated-overlay`. The output should look something like this.
+For your next image, you are going to try and recreate a bullseye made out of purple-outlined circles with radii increasing by 25 each time. This function, called `my-bullseye`, will take one input, the number of circles to draw, and will involve `iterated-overlay`. The output should look something like this.
 
 <img src="{{site.url}}/assets/tutorial_1/my-bullseye.svg" alt="Bullseye Example" style="width:20%"/>
 
@@ -187,7 +187,7 @@ Just as `iterated-overlay` abstracts away the tedium of calling `overlay` with t
 
 ## Messing with Colors
 
-Write a new version of your pyramid function called `my-bullseye/color` that's the similar as `my-bullseye` but with a few major differences:
+Write a new version of your bullseye function called `my-bullseye/color` that's similar to `my-bullseye` but with a few major differences:
 
 1. The function should have two additional inputs called `start-color` (2nd input) and `end-color` (3rd input).
 1. The circles should be `"solid"`.
@@ -196,7 +196,7 @@ Write a new version of your pyramid function called `my-bullseye/color` that's t
 5. The succeeding circles should be evenly interpolated (i.e. 0%, 10%, etc...) between `start-color` and `end-color`
 6. The outter-most circle should be the `end-color`
 
-This one is tricky. Some hints are in order! Pretend we were making a 5 circle bullsye.
+This one is tricky. Some hints are in order! Pretend we were making a 5 circle bullseye.
 
 **Hint 1**: Remember, the iterator counter starts at 0 and goes to `5 - 1 -> 4`.
 
