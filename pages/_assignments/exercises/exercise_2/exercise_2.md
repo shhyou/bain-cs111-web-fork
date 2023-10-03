@@ -194,6 +194,8 @@ Manually calculating RGB shade differences can be, well...annoying. Since the di
 
 where the `fraction` is a number between 0 and 1, which denotes how much to blend the two colors. Using a `fraction` of 0 just returns _color-1_, and a `fraction` of 1 just returns _color-2_.
 
+> **Important Note**: `interpolate-colors` _does not support `string` colors_. Instead, it expects color objects which you can create using the `color` or `make-color` functions described above and in the lecture slides.
+
 Just as `iterated-overlay` abstracts away the tedium of calling `overlay` with ten basically identical circles, `interpolate-colors` abstracts away the math of computing the RGB difference between two colors.
 
 * * *
