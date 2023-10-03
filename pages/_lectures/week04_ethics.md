@@ -2,7 +2,7 @@
 layout: module
 title: Accountability
 type: ethics
-draft: 1
+draft: 0
 num: 3
 canvas_id: 
 lec_assignment: 1
@@ -15,20 +15,25 @@ readings:
      notes: "Transcript available at same address."
 ---
 
-
 Accountabilty–being responsible or answerable for a system's existence, behavior, and impacts–lies at the core of technical ethics. This week's module focuses on the idea of accountability in technology companies and their efforts to ensure ethical and lawful use of their technologies. We also being to unpack the idea of accountability obfuscation: where technologies are viewed as separate from their creators.
+
+* * *
 
 ## Part 1 - Complete the Pre-Dicussion Activity
 
-Everyone is required to complete this pre-discussion activity. Please listen to episode of the **Cold Call** from the _Harvard Business Review_. The audio recording and transcript are available at the link below. While you are listening, consider the following questions:
+Everyone is required to complete this pre-discussion activity. Please listen to an episode of the **Cold Call** from the _Harvard Business Review_. The audio recording and transcript are available at the link below. While you are listening, consider the following questions:
 
 * What had you heard about the 737 Max controversy prior to listening to this podcast?
 * In a distributed decision making entity like Boeing, who is accountable for the mistakes that were made? Is accontability limited to just the company itself? To its employees? To certification entities?
 * Can you think of other instances in your life or in news stories you've consumed where accountability was called into question?
 
+* * *
+
 ## Part 2 - Attend your Discussion Section
 
 You should have registered for a discussion section this week by joining the appropriate Canvas group. Switching sessions is not allowed and attendance at your registered section is required and you must be in-attendance _for the entirety of the session_. For questions about discussion sections, please contact our Ethics Coordinator, Maya Blumovitz (<maya.blumovitz@u.northwestern.edu>) and CC Prof. Bain (<connor.bain@northwestern.edu>).
+
+* * *
 
 ## Part 3 - Submit your Self Reflection
 
