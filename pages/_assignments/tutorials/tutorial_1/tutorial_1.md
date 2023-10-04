@@ -193,7 +193,7 @@ Write a new version of your bullseye function called `my-bullseye/color` that's 
 
 1. The function should have two additional inputs called `start-color` (2nd input) and `end-color` (3rd input).
 1. The circles should be `"solid"`.
-2. The inner-most circle should be of size `radius` instead of 0.
+2. The inner-most circle should be of size 25 instead of 0 (with the same increasing radius as before)
 4. The inner-most circle should be the `start-color`
 5. The succeeding circles should be evenly interpolated (i.e. 0%, 10%, etc...) between `start-color` and `end-color`
 6. The outter-most circle should be the `end-color`
