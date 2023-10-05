@@ -31,7 +31,7 @@ Click the `Next` button. You'll be greated with a screen like the below:
 
 <img src="/assets/images/resources/chromebook_setup.png" alt="Screenshot of Chromebook settings">
 
-For the first one, you can enter whatever you'd like, this will be your Linux Username. The second option asks for how much space you want to dedicate to this portion of your computer. The recommended is 10GB the absolute lowest we recommend going is **3GB**. It's possible you may have to remove some stuff from your device if you don't have enough space.
+For the first one, you can enter whatever you'd like, this will be your Linux Username. The second option asks for how much space you want to dedicate to this portion of your computer. The recommended is 10GB, but the absolute lowest we recommend going is **3GB**. It's possible you may have to remove some stuff from your device if you don't have enough space.
 
 Once you've selected your options, hit the `Install` button and you'll get a progress page:
 
