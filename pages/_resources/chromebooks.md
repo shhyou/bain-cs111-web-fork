@@ -17,7 +17,7 @@ First, make sure to startup your Chromebook and navigate to the Settings app.
 
 Next, scroll in teh left hand column until you see the `Advanced` menu. Expand it and click `Developers`.
 
-<img src="/assets/images/resources/chromebook_settings.png" alt="Screenshot of Chromebook settings">
+<img src="{{site.url}}/assets/images/resources/chromebook_settings.png" alt="Screenshot of Chromebook settings">
 
 On that screen, you see a section that says `Linux development environment` and a button that says `Turn On`. Click the button!
 
@@ -25,21 +25,21 @@ On that screen, you see a section that says `Linux development environment` and 
 
 Once you click the button, you'll be greated with a new window:
 
-<img src="/assets/images/resources/chromebook_linux.png" alt="Screenshot of Chromebook settings">
+<img src="{{site.url}}/assets/images/resources/chromebook_linux.png" alt="Screenshot of Chromebook settings">
 
 Click the `Next` button. You'll be greated with a screen like the below:
 
-<img src="/assets/images/resources/chromebook_setup.png" alt="Screenshot of Chromebook settings">
+<img src="{{site.url}}/assets/images/resources/chromebook_setup.png" alt="Screenshot of Chromebook settings">
 
 For the first one, you can enter whatever you'd like, this will be your Linux Username. The second option asks for how much space you want to dedicate to this portion of your computer. The recommended is 10GB, but the absolute lowest we recommend going is **3GB**. It's possible you may have to remove some stuff from your device if you don't have enough space.
 
 Once you've selected your options, hit the `Install` button and you'll get a progress page:
 
-<img src="/assets/images/resources/chromebook_installing.png" alt="Screenshot of Chromebook settings">
+<img src="{{site.url}}/assets/images/resources/chromebook_installing.png" alt="Screenshot of Chromebook settings">
 
 Once it's done, you'll see a **Terminal Window** like the below pop-up:
 
-<img src="/assets/images/resources/chromebook_terminal.png" alt="Screenshot of Chromebook settings">
+<img src="{{site.url}}/assets/images/resources/chromebook_terminal.png" alt="Screenshot of Chromebook settings">
 
 Now it's time to get fancy and issue some terminal commands. Copy and paste the following commands, one at a time, into that terminal window (depending on your Chromebook, you may have to type them...**make sure to type them exactly**). After you paste each one, hit enter, and wait for the command to complete (you'll know it's done when you get back to a blank line starting with your username in green).
 
