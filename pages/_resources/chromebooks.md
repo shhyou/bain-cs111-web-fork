@@ -1,5 +1,6 @@
 ---
 layout: default
+canvas_id: using-a-chromebook
 title: Using a Chromebook
 description:
 ordering: -2
