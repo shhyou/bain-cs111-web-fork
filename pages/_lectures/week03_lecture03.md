@@ -12,6 +12,11 @@ mini_quiz_id: quizzes/221222
 mini_quiz_num: 5
 mini_quiz_title: Iterators and Conditionals
 exercise_url: "lecture07.zip"
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2adae373-aeb6-40db-bf87-b078001282be
+     title: Live Lecture
+     duration: 51:00
+     live: 1
 slides:
    - url: https://docs.google.com/presentation/d/16jerIUflcl9k5Oh4khmFHQLddJ3KQ02XHPZ2ACoCSa8/edit?usp=sharing
      title: Conditional Expressions
