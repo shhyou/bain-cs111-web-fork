@@ -13,11 +13,8 @@ ordering: 0
      <li><a><img alt="picture of Aditya" src="{{site.url}}/assets/images/directory/aditya.jpg">
         <span><h3>Aditya Chakka</h3><h4>Peer Mentor</h4></span>
     </a></li>
-     <li><a><img alt="picture of Ahmet" src="{{site.url}}/assets/images/directory/emre.jpg">
-        <span><h3>Ahmet Emre Gucer</h3><h4>Peer Mentor</h4></span>
-    </a></li>
-     <li><a><img alt="picture of Alex"  src="{{site.url}}/assets/images/directory/alex.jpg">
-        <span><h3>Alex Shen</h3><h4>Peer Mentor</h4></span>
+     <li><a><img alt="picture of Emre" src="{{site.url}}/assets/images/directory/emre.jpg">
+        <span><h3>Emre Gucer</h3><h4>Peer Mentor</h4></span>
     </a></li>
     <li><a><img alt="picture of Amira" src="{{site.url}}/assets/images/directory/amira.jpg">
         <span><h3>Amira Mohamed</h3><h4>Peer Mentor</h4></span>
@@ -79,17 +76,11 @@ ordering: 0
     <li><a><img alt="picture of Lian" src="{{site.url}}/assets/images/directory/lian.jpg">
         <span><h3>Lian Zheng</h3><h4>Peer Mentor</h4></span>
     </a></li>
-    <li><a><img alt="picture of Lisa" src="{{site.url}}/assets/images/directory/lisa.jpg">
-        <span><h3>Lisa Calegari</h3><h4>Peer Mentor</h4></span>
-    </a></li>
     <li><a><img alt="picture of Maya" src="{{site.url}}/assets/images/directory/maya.jpg">
         <span><h3>Maya Blumovitz</h3><h4>Ethics Coordinator</h4></span>
     </a></li>
     <li><a><img alt="picture of Nathan" src="{{site.url}}/assets/images/directory/nathan.jpg">
         <span><h3>Nathan Hendrickson</h3><h4>Peer Mentor</h4></span>
-    </a></li>
-    <li><a><img alt="picture of Ryan" src="{{site.url}}/assets/images/directory/ryan_b.jpg">
-        <span><h3>Ryan Boyle</h3><h4>Peer Mentor</h4></span>
     </a></li>
     <li><a><img alt="picture of Ryan" src="{{site.url}}/assets/images/directory/ryan_p.jpg">
         <span><h3>Ryan Poon</h3><h4>Peer Mentor</h4></span>
@@ -102,9 +93,6 @@ ordering: 0
     </a></li>
     <li><a><img alt="picture of Stephanie" src="{{site.url}}/assets/images/directory/stephanie.jpg">
         <span><h3>Stephanie Ma</h3><h4>Peer Mentor</h4></span>
-    </a></li>
-    <li><a><img alt="picture of Valeria" src="{{site.url}}/assets/images/directory/valeria.jpg">
-        <span><h3>Valeria Castro</h3><h4>Peer Mentor</h4></span>
     </a></li>
     <li><a><img alt="picture of Vikram" src="{{site.url}}/assets/images/directory/vikram.jpg">
         <span><h3>Vikram Achuthan</h3><h4>Peer Mentor</h4></span>
