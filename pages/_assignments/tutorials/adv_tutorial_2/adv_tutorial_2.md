@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Advanced Tutorial 2
 type: tutorial
 abbreviation: Advanced Tutorial 2
-draft: 0
+draft: 1
 num: 2
 canvas_id: 
 due_date: 2023-10-11

@@ -6,7 +6,7 @@ abbreviation: Tutorial 2
 draft: 0
 points: 100
 num: 3
-canvas_id:
+canvas_id: 1307427
 due_date: 2023-10-11
 ---
 
@@ -18,7 +18,7 @@ There a number of goals here:
 2. Get a lot of practice manipulating lists using those library of list functions we talked about in Lecture 10
 3. **Practice thinking about and writing our OWN tests** for our programs.
 
-<a class="nu-button" href="/course-files/tutorials/tutorial_2_template.zip" target="_blank"> Tutorial 2 Starter Files <i class="fas fa-download"></i></a>
+<a class="nu-button" href="{{ site.url }}/course-files/tutorials/tutorial_2_template.zip" target="_blank"> Tutorial 2 Starter Files <i class="fas fa-download"></i></a>
 
 Alright, now that you've read the goals and downloaded the template files, let's get started!
 

@@ -6,7 +6,7 @@ description: (Mini-Quiz 6)
 num: 9
 draft: 0
 due_date: 2023-10-11
-canvas_id: 
+canvas_id: 1307428
 canvas_title: Lecture 9 (Pre-Recorded) - Maninuplating Composite Data - Mini-Quiz 6
 lec_assignment: 1
 slides:
