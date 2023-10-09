@@ -15,7 +15,7 @@ For this tutorial, you’ll experiment with `list`s and `structs`. **Make sure t
 There a number of goals here:
 
 1. Get some practice using composite data (both lists and structs)
-2. Get a lot of practice manipulating lists using those library of list functions we talked about in Lecture 10
+2. Get a lot of practice manipulating lists using those library of list functions we talked about in Lecture 9
 3. **Practice thinking about and writing our OWN tests** for our programs.
 
 <a class="nu-button" href="{{ site.url }}/course-files/tutorials/tutorial_2_template.zip" target="_blank"> Tutorial 2 Starter Files <i class="fas fa-download"></i></a>
@@ -28,6 +28,8 @@ Alright, now that you've read the goals and downloaded the template files, let's
 
 Let’s start by experimenting with `list`s and the built-in iterators `map`, `foldl`, and `filter`.
 
+* * *
+
 ### Activity 1
 
 Define a list of numbers and call it `num-list`. The numbers in the list are 2, 3, 4, 5, and 6.
@@ -39,6 +41,8 @@ Define a list of numbers and call it `num-list`. The numbers in the list are 2, 
               true)
 ```
 
+* * *
+
 ### Activity 2
 
 Now use `map` to write a function, call it `list-times-5`, that takes as input a list and multiplies each number in `num-list` by 5, and returns the result. **Write a `check-expect` for your whatever values you put in `num-list`. For example, if you had used `(list 0 1 2 3)`, then you'd be expecting to get back `(list 0 5 10 15)`.
@@ -47,6 +51,8 @@ Now use `map` to write a function, call it `list-times-5`, that takes as input a
 * Second step: run the code over all the elements of the list. Now map that function over the list
 * Third step: turn it into a function.
 
+* * *
+
 ### Activity 3
 
 Now use `filter` to write a function, call it `activity-3`, that finds all the numbers that are **either** equal to 2 or greater than 5. Don't forget to write some tests to try your function on! Make sure to test it on your `num-list`
@@ -54,6 +60,8 @@ Now use `filter` to write a function, call it `activity-3`, that finds all the n
 * First step: write the code to test an element of the list. Start by writing a function that take a number and returns `true` if the number is 2 or greater than 5. Again, you don’t need to give it a name. You can just write a `lambda`.
 * Second step: run the code over the list. Now write a `filter` expression to use this function to find the desired elements of the list.
 * Third step: turn it into a function.
+
+* * *
 
 ### Activity 4
 
@@ -65,6 +73,8 @@ Third step: turn it into a function.
 
 > Hint: the sum of the empty list (a list with no elements) is just zero.
 
+* * *
+
 ### Activity 5
 
 And now we are going to use `andmap` to determine whether **all** the numbers in a list are less than three. Write a function that does this, call it `all-less-than-three?`, and make sure to test it on your `num-list` list.
@@ -73,9 +83,13 @@ And now we are going to use `andmap` to determine whether **all** the numbers in
 * Second step: run it over all the elements of the list. Use `andmap` and the function you just wrote to test if ALL a list's elements less than three.
 * Third step: turn it into a function
 
+* * *
+
 ### Activity 6
 
 Next try and see if you can find another function to determine whether **any** of the numbers in a list are less than three. Make a new function called `any-less-than-three?` and write a test using at least your `num-list`.
+
+* * *
 
 ### Activity 7
 
@@ -84,6 +98,8 @@ We’ve included a list of lists of numbers in a variable called `lst-of-lsts`. 
 * First step: write the code to compute the product of one sublist. Start by writing a function to compute the product of all the numbers in a list of numbers. That is, to multiply all the numbers in the list together. Notice that this is a lot like computing a sum!
 * Second step: run it on each the sublists of the list to build a new list where each element is a product of a sublist. Which iterator (`map`, `filter`, or `foldl`) seems appropriate for this purpose?
 * Third step: turn it into a function.
+
+* * *
 
 ### Activity 8
 
@@ -122,17 +138,23 @@ When we run that, the system makes a bunch function automatically:
 
 > Note: those last three are sometimes referred to as **getters** or **accessors** because they help us extract different property values from some given object.
 
+* * *
+
 ### Activity 9
 
 Suppose you want to represent information about cats, because cats are purrfect. Specifically, you want to represent their name, [their breed](https://www.google.com/search?q=breeds+of+cat), their hair color, and the volume of their meow. Write a `define-struct` expression for a new data type, `cat`, that contains the fields `name`, `breed`, `hair-color`, and `meow-volume`.
 
 > Internal Monologue: If a cat taught this class, would they be called a Purr-fessor? Should I stop now?
 
+* * *
+
 ### Activity 10
 
 Now pick a name, breed, color, and meow volume for a cat (the first three should  be `string`s and the last one should be a number between 0 and 10) and make a `cat` object to represent it. Store it in the variable `my-cat`.
 
 > What's a cat's favorite TV show? <em>Claw and Order</em>.
+
+* * *
 
 ### Activity 11
 
