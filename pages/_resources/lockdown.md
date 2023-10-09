@@ -13,7 +13,7 @@ In order to create an equitable testing environment and to save an incredible am
 
 Additionally, you will need Lockdown Browser for the assessments in the course. Please do this now so that we don't run into any problems later.
 
-<mark>If you are using macOS Sonoma, you need to download the updated version of the LDB! It was updated on Friday, September 29th</mark>. I've also updated the ZIP file on canvas.
+<mark>If you are using a Mac, you need to download the updated version of the LDB! It was updated on Friday, September 29th</mark>. I've also updated the ZIP file on Canvas.
 
 1. <a href="http://www.respondus.com/lockdown/download.php?id=171646780" target="_blank">You will need to download Lockdown Browser to your computer or device</a>. Note, if you have trouble downloading from this page, you go to our Canvas page and then go to the FILES menu and download the EXE (for windows) or ZIP (for Mac) file to install it.
 
