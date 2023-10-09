@@ -4,7 +4,7 @@ title: Bias
 type: ethics
 draft: 0
 num: 4
-canvas_id: 
+canvas_id: 1307440
 lec_assignment: 1
 canvas_title: Ethics Module 4 - Bias
 due_date: 2023-10-16
