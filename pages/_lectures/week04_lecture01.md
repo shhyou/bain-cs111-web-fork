@@ -8,6 +8,10 @@ draft: 0
 canvas_id: monday-lecture-8-composite-data
 due_date: 2023-10-09
 exercise_url: "lecture08.zip"
+videos:
+   - title: "Live Lecture (note: slides weren't captured so you'll need to use the Google Slides link to view separately)"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c08bf44-a5b4-4a2a-aa44-b0780012e1c0
+     duration: "50:00"
 slides:
    - title: "Composite Data Types"
      url: https://docs.google.com/presentation/d/1aExXnfMtzdExXegGnMNqZQ3x4gNLdm9FHdekNnRKEa0/edit?usp=sharing
