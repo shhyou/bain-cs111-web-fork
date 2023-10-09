@@ -2,52 +2,41 @@
 layout: module
 title: Bias
 type: ethics
-draft: 1
+draft: 0
 num: 4
 canvas_id: 
 lec_assignment: 1
 canvas_title: Ethics Module 4 - Bias
 due_date: 2023-10-16
+readings:
+   - title: "Racial Discrimination in Face Recognition Technology"
+     author: "Alex Najibi for <em>Science in the News</em> at Harvard University."
+     url: https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
+     notes: "(Note: while this is a general summary, many of the linked studies dive much deeper into the issues.)"
 ---
 
-Given the role of CS111 as the first course for all CS majors and many others with an interest in CS, the course also aims to develop core skills in critical analysis of ethical issues with an emphasis on self-reflection, finding purpose, and intersectionality. Students are asked explore different "topic modules" that introduce broad topics in ethics.
+While AI has the potential to revolutionize work and recreation, its use can lead to unintentional bias and discrimination. One of the key issues with AI bias is that it can perpetuate existing inequalities and reinforce stereotypes. For example, biased AI algorithms used in hiring processes can lead to discrimination against certain groups based on race, gender, or other factors. Similarly, AI used in criminal justice systems can exacerbate existing biases and result in unfair treatment of certain individuals. The data the models are trained on can lead to sampling bias, confirmation bias, and selection bias, among others. If these biases are not identified and addressed, they can lead to inaccurate and unfair outcomes.
 
-Students must engage in 3 ethics related activities during the quarter:
+As AI continues to be integrated into various industries, it is important to consider the potential for bias and take steps to mitigate its impact. This includes evaluating the data used to train AI algorithms and ensuring that diverse perspectives are represented. It also involves being mindful of the potential for unintended consequences and actively working to address bias in AI systems. This module introduces students to the issue of bias via an interactive game, and the discussion applies students’ observations about the game to a real-world case study of the harms of algorithmic bias.
 
-* **One introductory module** which covers the ethics of social media and introduces a framework for thinking about the impact of certain technologies.
-* **Attendance at one topic module** that students will select based on topic interest and availability. They will complete a short reading beforehand in order to be ready to discuss the topic and complete a short reflection after attending.
-* **One final reflection module** which asks students to reflect on their engagement with ethical issues and their relationship to technology by producing a short write-up comparing and contrasting the topics that students learned in topic modules.
+* * *
 
-This first module serves as an introduction **and is required for everyone**. You have three tasks for this module:
+## Part 1 - Complete the Pre-Dicussion Activity
 
-1. You must watch the short introductory video about ethics and Social Media Algorithms linked below.
-2. You must complete this Canvas assignment which is a short reflection about the topics presented in the video.
-3. You must signup for **1 additional topic module** sometime during the quarter. More details below. You will receive a 0 for this assignment if you do not signup for a topics module by Friday, September 30.
+Everyone is required to complete this pre-discussion activity. Please read the article linked at the bottom of the page about _Racial Discrimination in Face Recognition Technology_ written by Alex Najibi for the _Science in the News_ project at Harvard University. While you are reading, consider the following questions:
 
-## Module 1 - Social Media Algorithms
+* In what contexts have you interacted with facial recognition technology in the last few years?
+* Do you know if your likeness is stored locally or on a server somewhere?
+* Can you think of other situations where training data being selected via convenience may lead to bias in algorithmic outputs?
 
-Everyone is required to complete this module. First watch the video (linked below) and then complete this Canvas assignment which is a series of short reflection questions.
+* * *
 
-## Signing Up for a Discussion Section
+## Part 2 - Attend your Discussion Section
 
-Each week throughout the quarter (beginning in Week 3 and ending in Week 9), our Peer Mentor staff will lead Ethics Topics Modules. The 6 avaialble modules are listed below:
+You should have registered for a discussion section this week by joining the appropriate Canvas group. Switching sessions is not allowed and attendance at your registered section is required and you must be in-attendance _for the entirety of the session_. For questions about discussion sections, please contact our Ethics Coordinator, Maya Blumovitz (<maya.blumovitz@u.northwestern.edu>) and CC Prof. Bain (<connor.bain@northwestern.edu>).
 
-* Week 3 - Accountability
-* Week 4 - Bias
-* Week 5 - Identity
-* Week 6 - Sustainability
-* Week 7 - Accessibility
-* Week 8 - Labor
-* Week 9 - Impact
+* * *
 
-Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 7 times through its respective week and enrollment in each session is capped at 10 students. You can view the available session dates & times by going to the [People page on Canvas and selecting the Ethics Discussion Groups tab]({{ site.canvas_url }}/users). Scroll through the available times and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
+## Part 3 - Submit your Self Reflection
 
-> **Please choose your sign-up time carefully** as you will not be able to switch sessions once you've signed up.
-
-## Attending your Discussion Section
-
-Each discussion section will have a required pre-session "reading" assignment. Some might ask you to engage with a written article, while others may ask you to watch a Netflix show or listen to a podcast. **You are expected to complete that reading assignment prior to coming to the session** so that you are ready to discuss it during the session. After your session, you'll be asked to complete a short Canvas assignment (similar to the one for this module) asking you to reflect on your experience.
-
-## Final Reflection Module (Week 11)
-
-During the last week of class, you'll be asked to complete a final reflection via Canvas. More details will be provided as we get closer to that date.
+After attending your discussion section, be sure to return here to complete this self-reflection. Reflect on your discussion section (200-300 words): What strategies could be used to audit systems for bias? Was there anything you particularly liked or disliked about the discussion, or any other feedback? Make sure to submit your thoughts either via text entry or file upload in Canvas.
