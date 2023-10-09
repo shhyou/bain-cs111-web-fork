@@ -851,6 +851,8 @@ table.medium.module td:nth-child(2) {
 .schedule a.lab,
 .schedule .quiz,
 .schedule a.quiz,
+.schedule .quizzes,
+.schedule a.quizzes,
 .schedule .live,
 .schedule .recorded,
 .schedule .ec,
@@ -936,7 +938,9 @@ table.medium.module td:nth-child(2) {
 .syllabus .quiz,
 .syllabus .quiz:hover,
 .schedule .quiz,
-.schedule .quiz:hover {
+.schedule .quiz:hover,
+.schedule .quizzes,
+.schedule .quizzes:hover {
     background: #243545;
 }
 

@@ -2,7 +2,7 @@
 layout: module
 title: Quiz 1 Review
 type: lecture
-description:
+description: (Mini-Quiz 7)
 num: 10
 draft: 1
 canvas_id:
