@@ -2,7 +2,7 @@
 layout: module
 title: Compound Functions
 type: lecture
-description:
+description: (Mini-Quiz 2)
 num: 3
 draft: 0
 lec_assignment: 1

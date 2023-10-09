@@ -2,7 +2,7 @@
 layout: module
 title: Lambda Abstraction
 type: lecture
-description:
+description: (Mini-Quiz 4)
 num: 6
 draft: 0
 canvas_id: 1305414
