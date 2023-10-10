@@ -13,9 +13,6 @@ ordering: 0
      <li><a><img alt="picture of Aditya" src="{{site.url}}/assets/images/directory/aditya.jpg">
         <span><h3>Aditya Chakka</h3><h4>Peer Mentor</h4></span>
     </a></li>
-     <li><a><img alt="picture of Emre" src="{{site.url}}/assets/images/directory/emre.jpg">
-        <span><h3>Emre Gucer</h3><h4>Peer Mentor</h4></span>
-    </a></li>
     <li><a><img alt="picture of Amira" src="{{site.url}}/assets/images/directory/amira.jpg">
         <span><h3>Amira Mohamed</h3><h4>Peer Mentor</h4></span>
     </a></li>

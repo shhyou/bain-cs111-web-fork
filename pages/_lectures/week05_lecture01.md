@@ -3,7 +3,7 @@ layout: lecture-two-column
 title: Monday - Quiz 1
 type: quizzes
 draft: 0
-canvas_id: monday-quiz-1
+canvas_id: monday-quiz-1-2
 num: 1
 due_date: 2023-10-16
 ---
