@@ -10,7 +10,7 @@ canvas_id: 1307427
 due_date: 2023-10-11
 ---
 
-> Note: For groups that may have a significant amount of programming experience, your PM may suggest trying out the <a target="blank" href="https://bain-cs111.github.io/assignments/adv-tutorial-1">Advanced Tutorial 1</a>
+> Note: For groups that may have a significant amount of programming experience, your PM may suggest trying out the <a target="blank" href="https://bain-cs111.github.io/assignments/adv-tutorial-2">Advanced Tutorial 2</a>
 
 
 For this tutorial, you’ll experiment with `list`s and `structs`. **Make sure to write `check-expects` for each expression you write to test its correctness.**
