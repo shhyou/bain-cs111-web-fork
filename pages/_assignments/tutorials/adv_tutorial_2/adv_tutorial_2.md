@@ -17,6 +17,8 @@ In this tutorial, we’ll look at some of the basics of how interpreters (the me
     Advance Tutorial 2 Starter Files <i class="fas fa-download"></i>
 </a>
 
+* * *
+
 ## Getting started
 
 We told you that you can make a list containing the number 1, 2, and 3 by saying: `(list 1 2 3)`. That makes the list by running the `list` procedure and passing it the numbers 1, 2, and 3. The procedure then creates the new list and returns it.
@@ -50,6 +52,26 @@ And put a quote in front of it:
 ```
 
 And now it’s a data structure! That means it’s really easy to write metaprograms like interpreters, compilers, and debuggers in Racket because it’s easy to represent Racket source code as data.
+
+* * *
+
+## Shorthand for Lambda
+
+So, you're tired of writing the lambda word or symbol. Well I've got news for you. I've been lying to you this whole time. You don't have to write the `lambda` if you're creating an anonymous function. 
+
+```racket
+(define (function-name inputs …)
+   output)
+```
+
+This defines a function named `function-name` with whatever inputs that comes next. We call this **Sussman Form** notation. It's used extensively in our two auxillary textbooks and is just a more readable shorthand for:
+ 
+```racket
+(define function-name
+  (λ (inputs …) output))
+```
+
+One thing to beware is that it sort of makes the part after `define`` look like a call to the function so just be careful. This is nothing but a notation nicety – Racket will actually take care of converting this thing to long-form (the one with the explicit lambda) before executing it.
 
 * * *
 
