@@ -16,6 +16,10 @@ slides:
   - title: "Q1 Review"
     url: https://docs.google.com/presentation/d/1Vvwu-PokJVoXP3n-NA53sARLxyc_0gQE2Zk3UWBvmFM/edit?usp=sharing
 videos:
+  - title: "Live Lecture Recording"
+    duration: "51:00"
+    live: 1
+    url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3049666f-3c1d-4e7a-b9ed-b07800128309
   - title: "(Optional) Lecture 10.1: Extra Help with Structs"
     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c98db192-419d-46b8-9c8e-b099013990fe
     duration: "31:02"
