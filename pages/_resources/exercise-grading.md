@@ -40,15 +40,15 @@ Go to the Canvas submission page for the assignment in question. View the commen
 
 > I got a 0 because the autograder couldn't read my file or couldn't find my work. Can I resubmit?
 
-No. It's your job to test your submission AND TO MAKE SURE YOU'RE SUBMITTING THE CORRECT FILE.
+No. It's your job to test your submission AND TO MAKE SURE YOU'RE SUBMITTING THE CORRECT FILE. Remember, the auto type checker will check your submission and give you a report back to make sure it's the one you meant to send.
 
 > The built-in `check-expect`s worked but the ones the autograder ran did not. Can I get points back?
 
 No; remember, the built-in ones are just the bare minimum. You need to be writing programs that don't depend specifically on one aspect of their inputs.
 
-> I submitted an Late Penalty Waiver, but was still assessed a late penalty.
+> I submitted a Late Penalty Waiver, but was still assessed a late penalty.
 
-This usually means you either A. submitted two consecutive extension requests (that's not allowed) or B. submitted the request less than 24 hours before the Canvas **Due At** date (the deadline).
+This usually means you either A. requested more than 2 waivers or B. submitted the request less than 24 hours before the Canvas **Due At** date (the deadline).
 
 > Can I apply for an Late Penalty Waiver after the deadline?
 
