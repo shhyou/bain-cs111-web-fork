@@ -157,7 +157,7 @@ Congratulations, you're officially a _Racketeer_!
 
 * * *
 
-## Turning it in
+## Double Checking your Work
 
 All of the Exercises in this class will be graded via an autograder – a program, written in Racket, that will run your program and test it to see if it meets all the expectations of the assignment.
 
@@ -169,11 +169,20 @@ This means that you must _carefully_ read each assignment description and follow
   * Important: Racket **is** case-sensitive (i.e. capitals matter) so make sure that your define statement actually says `(define netid ...)` where `netid` has no spaces and no capitals.
   * Make sure your netid you enter is actually your netid. The autograder will compare the submitter's netid to the one in your program.
 
-For this assignment, you will upload your `exercise_0.rkt` file to the assignment on Canvas. DO NOT UPLOAD ANY OTHER FILES. Once you've submitted your file to Canvas, you're done!
+For this assignment, you will upload your `exercise_0.rkt` file to the assignment on Canvas. DO NOT UPLOAD ANY OTHER FILES. 
 
-> **Note**: You will not receive feedback from the autograder on your assignment until AFTER the final due date (which is the <mark>UNTIL</mark> date on Canvas).
+Here's some tips on working with files on your computer:
 
-* * *
-## Requesting a Late Penalty Waiver
+> _Pro-tip 1_: do not MOVE an already open file. If you open a file in DrRacket (or any app) and THEN move the file in your operating system, the app doesn't know the file was moved. It will assume you want to save it in the older folder.
 
-If you need to request an extension on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see the Syllabus for requirements.
+> _Pro-tip 2_: do not submit a file that you currently have open. Instead, finish your work then close DrRacket. That way, there's no possible way to submit an older file.
+
+> _Pro-tip 3_: do not have multiple versions of the same file. It just makes it harder for you to keep track of what's what.
+
+> _Pro-tip 4_: worried you didn't submit the right file? It takes seconds to check! Once you've successfuly submitted on Cavnas, just download the file you just submitted by clicking on the link Canvas provides. Then open that file in DrRacket. Is it the right one? If so, you're good to go! 
+
+Once you've submitted your file to Canvas, you're done!
+
+> **Note**: You'll receive two bits of feedback on your submissions in this class. The first is what we call a TypeCheck which happens every 30 minutes and just checks to make sure you submitted a valid Racket file and that you've defined each of the things we've asked of you in the assignment. You'll see this as a Canvas comment on your submission no more than 30 minutes after you submit. The second is your actual graded feedback. You will not receive a grade/final feedback from the autograder on your assignment until AFTER the final due date (which is the <mark>UNTIL</mark> date on Canvas).
+
+{% include submission_details.md %}

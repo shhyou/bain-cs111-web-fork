@@ -426,23 +426,15 @@ Again, you must write your own function signature, purpose (see Questions 6 & 7 
 
 * * *
 
-## Turning It In
-Before turning your assignment in, **run the file one last time** to make sure that it runs properly and doesn’t generate any exceptions, and all the tests pass.
+## Double Checking Your Work
+Before turning your assignment in, **run the file one last time** to make sure that it runs properly and doesn’t generate any exceptions, and all the provided tests pass. Keep in mind that **we will be generating DIFFERENT images using your functions** to see if they work the way the assignment specifies. You will only submit your RKT file, not the `iterated-images.rkt` file – in this class you will NEVER submit anything than your work to Canvas.
+
+> _Pro-tip 1_: do not MOVE an already open file. If you open a file in DrRacket (or any app) and THEN move the file in your operating system, the app doesn't know the file was moved. It will assume you want to save it in the older folder.
 
 > _Pro-tip 2_: do not submit a file that you currently have open. Instead, finish your work then close DrRacket. That way, there's no possible way to submit an older file.
 
-Then, make sure to read the Autograder FAQs (linked on Canvas under Class Resources) one last time. Not only is it a useful check of your work, but it will also tell you which file you should submit.
-
 > _Pro-tip 3_: do not have multiple versions of the same file. It just makes it harder for you to keep track of what's what.
 
-Assuming they do, submit _only your `exercise_2.rkt`_ file on Canvas (never submit library files) and make sure to ONLY edit `exercise_2.rkt`.
+> _Pro-tip 4_: worried you didn't submit the right file? It takes seconds to check! Once you've successfuly submitted on Cavnas, just download the file you just submitted by clicking on the link Canvas provides. Then open that file in DrRacket. Is it the right one? If so, you're good to go! If you want to RUN the file inside your downloads folder, keep in mind you would need to copy the `iterated-images.rkt` file into your Downloads folder as well.
 
-> _Pro-tip 4_: worried you didn't submit the right file? It takes seconds to check! Once you've successfuly submitted on Cavnas, just download the file you just submitted by clicking on the link Canvas provides. Then open that file in DrRacket. Is it the right one? If so, you're good to go!
-
-* * *
-
-## Late Penalty Waiver
-
-<mark>Remember, the deadline for submitting this waiver is 24 hours before the DUE AT time on Canvas.</mark>
-
-If you need to request a late penalty waiver on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see this Syllabus for requirements.
+{% include submission_details.md %}

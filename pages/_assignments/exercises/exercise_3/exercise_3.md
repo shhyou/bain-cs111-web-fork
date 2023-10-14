@@ -244,18 +244,8 @@ Now do the same thing, but count the number of albums in each genre, rather than
 
 * * *
 
-## Turning It In
+## Double Checking your Work
 
 Before turning your assignment in, **run the file one last time** to make sure that it runs properly and doesn’t generate any exceptions, and all the tests pass. Make sure you've also spent some time writing your OWN `check-expect` calls to test your code. <mark>Remember, we will use our OWN ALBUMS as test cases on your functions.</mark> That means nothing in your functions can depend on the test albums we gave you (e.g. check to make sure you actually use your inputs; check to make sure it's actually processing those inputs; etc.).
 
-Then, make sure to read the Autograder and Submission FAQs on Canvas. Also, checkout the Tips and Tricks in the Exercise 1 post on edSTEM.
-
-Once your done, close-up DrRacket and then submit on Canvas.
-
-* * *
-
-## Late Penalty Waiver
-
-<mark>Remember, the deadline for submitting this waiver is 24 hours before the DUE AT time on Canvas.</mark>
-
-If you need to request a late penalty waiver on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see this Syllabus for requirements.
+{% include submission_details.md %}

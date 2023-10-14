@@ -126,10 +126,14 @@ You might need some more functions than the ones we have discussed so far. You m
 
 * * *
 
-## Turning it in
-Once you’ve finished your assignment, **PLEASE READ THE _Autograder and Submission FAQ_ and _Exercise Submission and Grading FAQ_** (they're on Canvas under "Course Resources" or in the _Pages_ tab) before submitting it to Canvas. Congratulations! You’re done with the assignment for this week!
+## Double Check your Work
 
-* * *
+> _Pro-tip 1_: do not MOVE an already open file. If you open a file in DrRacket (or any app) and THEN move the file in your operating system, the app doesn't know the file was moved. It will assume you want to save it in the older folder.
 
-## Requesting a Late Penalty Waiver
-If you need to request a late penalty waiver on this assignment use the <a href="https://forms.gle/qPjnrmqtZSjpaGAY6">Late Penalty Waiver form</a>. Please see this Syllabus for requirements.
+> _Pro-tip 2_: do not submit a file that you currently have open. Instead, finish your work then close DrRacket. That way, there's no possible way to submit an older file.
+
+> _Pro-tip 3_: do not have multiple versions of the same file. It just makes it harder for you to keep track of what's what.
+
+Make sure you've uncommented all of those built-in `check-expect` as they will double check you've defined all of your variables correctly. Also, after you submit, keep an eye out for the Canvas comment that the TypeChecker will post for you that double checks your built-in tests as well as the types of the various things we've asked you to define.
+
+{% include submission_details.md %}
