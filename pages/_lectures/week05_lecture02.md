@@ -7,7 +7,7 @@ type: lecture
 draft: 0
 num: 11
 due_date: 2023-10-18
-canvas_id: 
+canvas_id: 1309098
 lec_assignment: 1
 exercise_url: "lecture11.zip"
 slides:
@@ -29,7 +29,7 @@ videos:
    - title: "Recursion Template"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=914d862c-3df9-4d37-be6a-b09c0005a337
      duration: "4:20"
-   - title: "Recursive foldr"
+   - title: "Recursive foldr (example)"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0058f16-31e1-4788-af31-b09c0005ac30
      duration: "2:26"
    - title: "Recursive length (<b>Access MQ through LOAD button</b>)"
@@ -39,7 +39,7 @@ videos:
    - title: "Sussman Form"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da6a52fa-0f10-4d09-b04e-b09c000a7d42
      duration: "2:27"
-   - title: "Recursive iterated-beside"
+   - title: "Recursive iterated-beside (example)"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c71d6ce5-954d-4a26-9135-b09c000a7d6d
      duration: "5:37"
    - title: "(Bonus) Execution is Recursive!"

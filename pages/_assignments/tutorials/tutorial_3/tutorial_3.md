@@ -5,7 +5,7 @@ canvas_title: Tutorial 3
 type: tutorial
 abbreviation: Tutorial 3
 draft: 0
-canvas_id: 
+canvas_id: 1309096
 due_date: 2023-10-18
 ---
 
@@ -21,7 +21,7 @@ Today's tutorial is all about practicing recursion. Remember, **recursion** itse
 
 [Relevant "XKCD" Comic Strip](https://thomaspark.co/2017/01/relevant-xkcd/) (totally worth a click):
 
-<img alt="XKCD Comic About Recursion" src="/assets/tutorial_3/xkcd.png" style="width: 75%;"/>
+<img alt="XKCD Comic About Recursion" src="{{site.url}}/assets/tutorial_3/xkcd.png" style="width: 75%;"/>
 
 * * *
 
@@ -50,7 +50,7 @@ $$4! = 24$$
 
 $$5! = 120$$ -->
 
-<img style="width:22%;" src="{{site.url}}/assets/tutorial_3/factorial_1.png" alt="a mathematical description of the factorial function">
+<img style="width:40%;" src="{{site.url}}/assets/tutorial_3/factorial_1.png" alt="a mathematical description of the factorial function">
 
 and so on. Here are some subgoals to accomplish on your way to writing the function:
 

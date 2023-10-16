@@ -7,7 +7,7 @@ canvas_title: Lecture 12 (Pre-Recorded) - Iterative Recursion - Mini-Quiz 9
 draft: 0
 num: 12
 due_date: 2023-10-20
-canvas_id: 
+canvas_id: 1309099
 lec_assignment: 1
 exercise_url: "lecture12.zip"
 slides:
