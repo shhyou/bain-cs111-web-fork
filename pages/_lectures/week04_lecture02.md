@@ -7,8 +7,8 @@ num: 9
 draft: 0
 due_date: 2023-10-11
 canvas_id: 1307428
-canvas_title: Lecture 9 (Pre-Recorded) - Manipulating Composite Data - Mini-Quiz 6
 lec_assignment: 1
+canvas_title: Lecture 9 (Pre-Recorded) - Manipulating Composite Data - Mini-Quiz 6
 slides:
   - title: "Manipulating Composite Data"
     url: https://docs.google.com/presentation/d/1_EAfX6Z9TSSZShRK41grYtlofonWOh6SF6_Ctmaflok/edit?usp=sharing

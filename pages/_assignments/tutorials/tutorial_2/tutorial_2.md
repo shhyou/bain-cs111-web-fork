@@ -167,7 +167,7 @@ And you're done! I bet you thought this assignment was gonna be a cat-astrophe..
 
 * * *
 
-# Getting Credit for Your Work
+## Getting Credit for Your Work
 
 ### IF YOU ARE IN CLASS OR ALT TUTORIAL
 
