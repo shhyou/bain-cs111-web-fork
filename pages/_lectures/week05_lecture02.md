@@ -34,6 +34,7 @@ videos:
      duration: "2:26"
    - title: "Recursive length (<b>Access MQ through LOAD button</b>)"
      url: 
+     quiz: 1
      duration: "3:48"
    - title: "Sussman Form"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da6a52fa-0f10-4d09-b04e-b09c000a7d42

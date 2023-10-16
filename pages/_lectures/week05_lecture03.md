@@ -22,6 +22,7 @@ videos:
     duration: "8:59"
   - title: "Helper Functions (<b>Access MQ through LOAD button</b>)"
     url: ""
+    quiz: 1
     duration: "6:23"
   - title: "Tree Recursion"
     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0dda06c5-49c3-49e8-b9b0-b09c000da6d6
