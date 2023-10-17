@@ -2,52 +2,41 @@
 layout: module
 title: Identity
 type: ethics
-draft: 1
+draft: 0
 num: 5
 canvas_id: 
 lec_assignment: 1
 canvas_title: Ethics Module 5 - Identity
 due_date: 2023-10-23
+readings:
+   - title: "Computer scientists designing the future can’t agree on what privacy means"
+     author: "Eileen Guo & Tate Ryan-Mosley for the <em>MIT Technology Review</em>"
+     url: https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/
+     notes: "(~15 minute read)"
 ---
 
-Given the role of CS111 as the first course for all CS majors and many others with an interest in CS, the course also aims to develop core skills in critical analysis of ethical issues with an emphasis on self-reflection, finding purpose, and intersectionality. Students are asked explore different "topic modules" that introduce broad topics in ethics.
+The intersection of identity and technology is complex and multidimensional and requires close examination. Technology has the power to shape, assume, and assimilate identity in ways that have significant social and cultural impact. Conversely, identity plays a vital role in shaping our interactions with technology; influencing the design, adoption, and use of technological tools and platforms. Through an exploration of contemporary events through stakeholder analysis, this discussion section aims to deepen students' understanding of the relationship between identity and technology.
 
-Students must engage in 3 ethics related activities during the quarter:
+Drawing on case studies and personal experiences, students will critically reflect on how technology both reflects and reinforces existing social norms and power structures, as well as how it can challenge and transform them. Particular attention will be paid to issues of equity, inclusion, and social justice, as students consider the ways in which technology can perpetuate or disrupt systems of oppression and marginalization. Ultimately, this discussion seeks to equip students with the analytical tools needed to navigate the complex terrain of identity and technology. By fostering a critical awareness of the ways in which technology and identity interact, students will be better positioned to engage with the social and cultural implications of technological innovation and to contribute to the creation of a more just and equitable digital world.
 
-* **One introductory module** which covers the ethics of social media and introduces a framework for thinking about the impact of certain technologies.
-* **Attendance at one topic module** that students will select based on topic interest and availability. They will complete a short reading beforehand in order to be ready to discuss the topic and complete a short reflection after attending.
-* **One final reflection module** which asks students to reflect on their engagement with ethical issues and their relationship to technology by producing a short write-up comparing and contrasting the topics that students learned in topic modules.
+* * *
 
-This first module serves as an introduction **and is required for everyone**. You have three tasks for this module:
+## Part 1 - Complete the Pre-Discussion Activity
 
-1. You must watch the short introductory video about ethics and Social Media Algorithms linked below.
-2. You must complete this Canvas assignment which is a short reflection about the topics presented in the video.
-3. You must signup for **1 additional topic module** sometime during the quarter. More details below. You will receive a 0 for this assignment if you do not signup for a topics module by Friday, September 30.
+Everyone is required to complete this pre-discussion activity. Please read the article linked at the bottom of the page that chronicles one team's journey to create a _privacy preserving data collection tool_ written by Eileen Guo and Tate Ryan-Mosley for the _MIT Technology Review_. While you are reading, consider the following questions:
 
-## Module 1 - Social Media Algorithms
+* Have you encountered situations where data about your activities was being recorded without explicit consent?
+* How does data collection being "anonymous" affect your feelings about privacy?
+* Sometimes well-intentioned ideas can have secondary effects that aren't clear until other stakeholder groups take interest. Can you think of other technologies that have been introduced in recent years that have initially been introduced to great acclaim only to later be implemented by entities with malintent?
 
-Everyone is required to complete this module. First watch the video (linked below) and then complete this Canvas assignment which is a series of short reflection questions.
+* * *
 
-## Signing Up for a Discussion Section
+## Part 2 - Attend your Discussion Section
 
-Each week throughout the quarter (beginning in Week 3 and ending in Week 9), our Peer Mentor staff will lead Ethics Topics Modules. The 6 avaialble modules are listed below:
+You should have registered for a discussion section this week by joining the appropriate Canvas group. Switching sessions is not allowed and attendance at your registered section is required and you must be in-attendance _for the entirety of the session_. For questions about discussion sections please post on edSTEM or email Prof. Bain (<connor.bain@northwestern.edu>).
 
-* Week 3 - Accountability
-* Week 4 - Bias
-* Week 5 - Identity
-* Week 6 - Sustainability
-* Week 7 - Accessibility
-* Week 8 - Labor
-* Week 9 - Impact
+* * *
 
-Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 7 times through its respective week and enrollment in each session is capped at 10 students. You can view the available session dates & times by going to the [People page on Canvas and selecting the Ethics Discussion Groups tab]({{ site.canvas_url }}/users). Scroll through the available times and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
+## Part 3 - Submit your Self Reflection
 
-> **Please choose your sign-up time carefully** as you will not be able to switch sessions once you've signed up.
-
-## Attending your Discussion Section
-
-Each discussion section will have a required pre-session "reading" assignment. Some might ask you to engage with a written article, while others may ask you to watch a Netflix show or listen to a podcast. **You are expected to complete that reading assignment prior to coming to the session** so that you are ready to discuss it during the session. After your session, you'll be asked to complete a short Canvas assignment (similar to the one for this module) asking you to reflect on your experience.
-
-## Final Reflection Module (Week 11)
-
-During the last week of class, you'll be asked to complete a final reflection via Canvas. More details will be provided as we get closer to that date.
+After attending your discussion section, be sure to return here to complete this self-reflection. Reflect on your discussion section (200-300 words): Think about yourself as a stakeholder in the case of the university mites. What are some unique values or concerns to consider? Are there any constraints or disadvantages of this method? Was there anything you particularly liked or disliked about the discussion, or any other feedback?

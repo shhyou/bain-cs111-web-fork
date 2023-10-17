@@ -19,7 +19,7 @@ Accountabilty–being responsible or answerable for a system's existence, behavi
 
 * * *
 
-## Part 1 - Complete the Pre-Dicussion Activity
+## Part 1 - Complete the Pre-Discussion Activity
 
 Everyone is required to complete this pre-discussion activity. Please listen to an episode of the **Cold Call** from the _Harvard Business Review_. The audio recording and transcript are available at the link below. While you are listening, consider the following questions:
 

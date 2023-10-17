@@ -21,7 +21,7 @@ As AI continues to be integrated into various industries, it is important to con
 
 * * *
 
-## Part 1 - Complete the Pre-Dicussion Activity
+## Part 1 - Complete the Pre-Discussion Activity
 
 Everyone is required to complete this pre-discussion activity. Please read the article linked at the bottom of the page about _Racial Discrimination in Face Recognition Technology_ written by Alex Najibi for the _Science in the News_ project at Harvard University. While you are reading, consider the following questions:
 
