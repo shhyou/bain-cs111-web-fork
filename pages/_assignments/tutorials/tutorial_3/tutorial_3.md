@@ -278,8 +278,8 @@ Time for some subgoals:
 
 ```racket
 (above (beside (rotate angle (scale factor subtree))
-               (rotate (* -1 angle) (scale factor subtree))
-               (rectangle ... some pretty args ...))
+               (rotate (* -1 angle) (scale factor subtree)))
+       (rectangle ... some pretty args ...))
 ```
 
 Pick whatever `angle` you want (we used 45 degrees). For `factor`, choose some number less than 1, so that the subtrees are smaller than the original stick (by a factor of...well...`factor`). And for `rectangle`, use whatever arguments you want, but you want to be sure the rectangle is narrow and tall.
