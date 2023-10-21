@@ -128,10 +128,10 @@ See if you can use `cond` (with 2 branches) instead of using `if`s for the next 
 
 ## Problem 3 - `count/iter`
 
-Now write the count function from last time:
+Now write the count function from last time (with a new name):
 
 ```racket
-count: (X -> Boolean) (listof X) -> number
+count/iter: (X -> Boolean) (listof X) -> number
 ```
 
 As an iterative recursion. Again, start by writing the helper function that returns the answer (the number of elements of `list` that satisfy the predicate).
@@ -151,7 +151,7 @@ To do that:
 * And how do we write the recursive case then?
 * Now write the code for the helper!
 
-And finally, write the definition of `count` itself.
+And finally, write the definition of `count/iter` itself.
 * * *
 
 ## Problem 4 - `any?`
