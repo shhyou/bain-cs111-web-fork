@@ -1,9 +1,17 @@
 ---
 layout: module
-title: Linked Lists
+title: Monday - Lecture 13 - Linked Lists
 description:
 type: lecture
-draft: 1
+draft: 0
 num: 13
 due_date: 2023-10-23
+exercise_url: "lecture13.zip"
+canvas_id: monday-lecture-13-linked-lists
+slides:
+  - title: "Linked Lists"
+    url: https://docs.google.com/presentation/d/13Um6GIqiDeLhaw_8cTsL1TuBqy4RxAPv5UQDK8dxlUA/edit?usp=sharing
+
 ---
+
+Today we'll talk more about what the heck lists are. Specifically, we'll focus on how them being "inductively defined" is what makes our recursive algorithms so convenient.

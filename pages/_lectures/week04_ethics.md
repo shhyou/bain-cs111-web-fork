@@ -31,7 +31,7 @@ Everyone is required to complete this pre-discussion activity. Please listen to 
 
 ## Part 2 - Attend your Discussion Section
 
-You should have registered for a discussion section this week by joining the appropriate Canvas group. Switching sessions is not allowed and attendance at your registered section is required and you must be in-attendance _for the entirety of the session_. For questions about discussion sections, please contact our Ethics Coordinator, Maya Blumovitz (<maya.blumovitz@u.northwestern.edu>) and CC Prof. Bain (<connor.bain@northwestern.edu>).
+You should have registered for a discussion section this week by joining the appropriate Canvas group. Switching sessions is not allowed (unless there is a direct academic conflict or emergency) and attendance at your registered section is required and you must be in-attendance _for the entirety of the session_. For questions about discussion sections please post on edSTEM (if it's a general question) or email Prof. Bain (<connor.bain@northwestern.edu>) if it's specific to your case.
 
 * * *
 

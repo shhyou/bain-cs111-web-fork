@@ -42,6 +42,7 @@ One of the reasons we use DrRacket as an IDE in this class is because it has som
 
 You can even "tack" the arrows so they're always on the screen, rename variables, and more by right-clicking on the variable name in question and accessing those tools from the context menu that pops up.
 
+
 * * *
 
 ## Spooky code after running
