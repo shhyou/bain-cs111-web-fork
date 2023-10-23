@@ -123,19 +123,19 @@
 
 ; Question 4: list-ssns
 
-; list-ssns binary-search-tree -> (listof number)
+; list-all-ssns binary-search-tree -> (listof number)
 ; takes a search-treee and returns a list of the SSNs of all people
 ; in the tree, in ascending order.
 ; You MUST exploit the invariant in your solution
 ; You may NOT use any kind of sorting function.
-(define (list-ssns tree)
+(define (list-all-ssns tree)
   "fill me in")
 
-(check-expect (list-ssns nell-node)
+(check-expect (list-all-ssns nell-node)
               (list 1 2 3 4 5 6 7))
-(check-expect (list-ssns connor-node)
+(check-expect (list-all-ssns connor-node)
               (list 6 7))
-(check-expect (list-ssns sara-node)
+(check-expect (list-all-ssns sara-node)
               (list 1))
 
 ; Question 5: lookup
