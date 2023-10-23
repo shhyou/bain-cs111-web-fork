@@ -13,7 +13,7 @@ canvas_allowed_extensions: "pdf,docx,doc,txt,rtf"
 canvas_submission_types: "online_upload,online_text_entry"
 due_date: 2023-10-30
 readings:
-   - title: "Joan is Awful (S06E01) from Black Mirror"
+   - title: "Nosedive (S03E01) from Black Mirror"
      author: "Netflix (directed by Ally Pankiw; written by Charlie Brooker)"
      url: https://www.netflix.com/title/70264888?source=35
      notes: "Closed captions available. If you do not have access to Netflix (via an personal, family, or friend account) the Northwestern Library has a physical copy you can <a href='https://search.library.northwestern.edu/permalink/01NWU_INST/h04e76/alma9980671756502441'>view in the Library free of charge.</a> If you have trouble accessing the episode, please contact the Instructor ASAP."
