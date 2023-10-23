@@ -8,7 +8,7 @@ num: 14
 lec_assignment: 1
 canvas_assignment_group: "Mini-Quizzes"
 canvas_points_possible: 10
-canvas_allowed_extensions: 
+canvas_allowed_extensions: "rkt"
 canvas_submission_types: "external_tool"
 canvas_id:
 description: (Mini-Quiz 10)
