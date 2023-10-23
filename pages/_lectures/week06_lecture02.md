@@ -10,7 +10,7 @@ canvas_assignment_group: "Mini-Quizzes"
 canvas_points_possible: 10
 canvas_allowed_extensions: "rkt"
 canvas_submission_types: "external_tool"
-canvas_id:
+canvas_id: 1310996
 description: (Mini-Quiz 10)
 canvas_title: Lecture 14 (Pre-Recorded) - Trees - Mini-Quiz 10
 due_date: 2023-10-25

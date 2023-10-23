@@ -1,6 +1,7 @@
 ---
 layout: module
-title: Monday - Lecture 8 - Composite Data
+title: Composite Data
+canvas_title: Monday - Lecture 8 - Composite Data
 type: lecture
 description:
 num: 8

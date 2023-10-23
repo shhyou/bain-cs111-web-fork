@@ -1,7 +1,7 @@
 ---
 layout: module
 title: Binary Search Trees
-description:
+description: (Mini-Quiz 11)
 type: lecture
 draft: 1
 num: 15

@@ -7,7 +7,7 @@ canvas_assignment_group: "Exercises"
 canvas_points_possible: 100
 canvas_submission_types: "online_upload"
 canvas_allowed_extensions: "rkt"
-canvas_id:
+canvas_id: 
 due_date: 2023-10-30
 ordering: 6
 draft: 1
