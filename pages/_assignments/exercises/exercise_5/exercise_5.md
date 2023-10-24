@@ -10,10 +10,10 @@ canvas_allowed_extensions: "rkt"
 canvas_id: 
 due_date: 2023-10-30
 ordering: 6
-draft: 1
+draft: 0
 ---
 
-In this exercise, you’ll practice writing recursions on trees. In part I, you’ll be working with ancestry trees. In part II, you’ll be working with binary search trees (a specific kind of tree).
+In this exercise, you’ll practice writing recursions on trees. In part I, you’ll be working with ancestry trees. In part II, you’ll be working with binary search trees (a specific kind of tree) (note: we won't talk about BSTs until Friday in-class but you should be able to complete everything except `list-all-ssns` and `lookup` with just the stuff in the pre-recorded lecture + Monday).
 
 <a class="nu-button" href="{{ site.url }}/course-files/exercises/exercise_5_template.zip" target="_blank">
     Exercise 5 Starter Files <i class="fas fa-download"></i>
@@ -117,7 +117,7 @@ This means we have a perfect starting point for writing recursive functions that
 
 ### Processing Ancestry Trees
 
-In the starter file, `exercise_5.rkt` you'll find another example tree. Your job will be to write a series of functions to process not just that example, but also any possible ancestry tree. For clarity, we’ve provided signatures, purpose statements, and tests. For the tests in Questions 1 and 2, it is okay if your functions produce a list where the names appear in a different order from the given examples. That’s OK as long as the list contains the same elements.
+In the starter file, `exercise_5.rkt` you'll find another example tree (the...somewhat strange family tree of some characters from _Game of Thrones_). Your job will be to write a series of functions to process not just that example, but also any possible ancestry tree. For clarity, we’ve provided signatures, purpose statements, and tests. For the tests in Questions 1 and 2, it is okay if your functions produce a list where the names appear in a different order from the given examples. That’s OK as long as the list contains the same elements.
 
 * * *
 
@@ -161,7 +161,7 @@ Now write a function that can determine if two trees have a common ancestor, in 
 (define (are-they-related? f1 f2) ...)
 ```
 
-> Hint: Remember you just built functions capable of generating a list of a person's ancestors. Now you need a helper function that takes in a name and a list and checks to see if that name is in the list. You can build your own using recursion or check to see if there's a built-in one [in the official Racket documentation for the intermediate student language](https://docs.racket-lang.org/htdp-langs/intermediate-lam.html) or [on our Quiz glossary]({{ site.url }}/course-files/quizzes/q2_glossary_compact.pdf). Finally, you'll need to use one of our iterators or build your own to see if **any** of the elements of one list return true using the function you made (or found).
+> Hint: Remember you just built functions capable of generating a list of a person's ancestors. Now you need a helper function that takes in a name and a list and checks to see if that name is in the list. You can build your own using recursion or check to see if there's a built-in one [in the official Racket documentation for the intermediate student language](https://docs.racket-lang.org/htdp-langs/intermediate-lam.html) or [on our Quiz glossary]({{ site.url }}/course-files/quizzes/q3_glossary_compact.pdf). Finally, you'll need to use one of our iterators or build your own to see if **any** of the elements of one list return true using the function you made (or found).
 
 * * *
 

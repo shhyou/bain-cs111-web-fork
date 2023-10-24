@@ -16,7 +16,7 @@ readings:
    - title: "Nosedive (S03E01) from Black Mirror"
      author: "Netflix (directed by Ally Pankiw; written by Charlie Brooker)"
      url: https://www.netflix.com/title/70264888?source=35
-     notes: "Closed captions available. If you do not have access to Netflix (via an personal, family, or friend account) the Northwestern Library has a physical copy you can <a href='https://search.library.northwestern.edu/permalink/01NWU_INST/h04e76/alma9980671756502441'>view in the Library free of charge.</a> If you have trouble accessing the episode, please contact the Instructor ASAP."
+     notes: "Closed captions available. If you do not have access to Netflix (via a personal, family, or friend account) the Northwestern Library has a physical copy you can <a href='https://search.library.northwestern.edu/permalink/01NWU_INST/h04e76/alma9980671756502441'>view in the Library free of charge.</a> Prof. Bain currently has it on reserve, so if you'd like to view the disc copy please email connor.bain@northwestern.edu ASAP so we can make arrangements."
 ---
 
 The idea behind this session is to explore how technology affects individuals, communities, and societies, including topics such as digital divides, the impacts of automation on employment, and the potential consequences of emerging technologies such as biotechnology and artificial intelligence. This module will also explore ethical considerations related to technology deployment and use, such as responsible innovation and the importance of considering the identities of those using a technology before deployment.
