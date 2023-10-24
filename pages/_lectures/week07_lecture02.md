@@ -113,6 +113,8 @@ Many years ago, one of our amazing PMs Ayo Bolaji (now a Software Engineer at Gr
 * [Linked Lists]({{site.url}}/course-files/extra-practice/linked_lists_practice.zip)
 * [Iterative Recursion]({{site.url}}/course-files/extra-practice/iterative_recursion_practice.zip)
 
+* * *
+
 ## A Paper Practice Quiz 2
 
 Additionally, here's a **paper** exam from 2019 that has some additional practice on it. Two things to note:
