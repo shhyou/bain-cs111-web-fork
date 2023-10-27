@@ -206,7 +206,7 @@ You **MUST** use/exploit the invariant in your definition of `list-all-ssns`. Yo
 
 > **Hint**: your life will be easier if you use `append`.
 
-> **Hint 2**: Remember, a BST's structure means if we go down one branch we get one kind of SSN...if we go the other way, get get a different one!
+> **Hint 2**: Remember, a BST's structure means if we go down one branch we get one kind of SSN...if we go the other way, we get a different one!
 
 > **Hint 3**: The way this BST is structured, if you want to visit nodes in order you need to check the left child first, then check the parent node, then check the right child..._but you must do this recursively_.
 
