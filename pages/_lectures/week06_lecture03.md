@@ -7,7 +7,7 @@ type: lecture
 draft: 0
 mini_quiz_id: quizzes/222105
 mini_quiz_num: 11
-mini_quiz_title: Getting Ready for Q1
+mini_quiz_title: Binary Search Trees
 num: 15
 due_date: 2023-10-27
 exercise_url: "lecture15.zip"
