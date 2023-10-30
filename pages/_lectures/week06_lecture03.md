@@ -15,6 +15,7 @@ canvas_id: friday-lecture-15-binary-search-trees
 videos:
    - title: "Live Lecture Recording"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ef25deb-2584-46e3-8ac9-b078001283c0
+     live: 1
 slides:
    - title: "Binary Search Trees"
      url: https://docs.google.com/presentation/d/1pmSN23r5aOdOhG7EKz1jW_CdsxtRA5RvNPIPlnoBx6A/edit?usp=sharing

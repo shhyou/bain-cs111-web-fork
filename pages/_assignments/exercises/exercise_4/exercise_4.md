@@ -137,6 +137,8 @@ Now you will abstract your code from `iterated-overlay` just like we did in Exer
 
 You can test your function against your implementation of `my-iterated-overlay` from the previous question.
 
+> **NOTE**: this function **IS NOT CALLED** `my-iterated-any` because there is no built-in `iterated-any`
+
 Recall that `iterated-overlay`, `iterated-beside`, `iterated-above`, etc. all perform the same general task: they call a generator some number of times and then combine the resulting images into a single return value. The name of each function specifies the combiner used:
 
 ```racket
