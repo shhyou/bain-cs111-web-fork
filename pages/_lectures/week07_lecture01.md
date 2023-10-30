@@ -12,6 +12,11 @@ draft: 0
 num: 16
 due_date: 2023-10-30
 exercise_url: "lecture16.zip"
+videos:
+   - title: Live Lecture Recording
+     duration: 51:00
+     live: 1
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8362849-89e0-4387-b237-b0780012e30c
 slides:
    - title: Quiz 2 Review
      url: https://docs.google.com/presentation/d/1UDqRU2vgaTemzIMlxmXZJ3sLTZ4-JFPWjQvYuEOK494/edit?usp=sharing
