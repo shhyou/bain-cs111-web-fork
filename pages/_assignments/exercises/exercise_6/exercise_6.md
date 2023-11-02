@@ -7,7 +7,7 @@ due_date: 2023-11-10
 ordering: 7
 draft: 0
 points: 100
-canvas_id: 
+canvas_id: 1314598
 canvas_title: Exercise 6
 canvas_assignment_group: "Exercises"
 canvas_points_possible: 100
@@ -80,7 +80,7 @@ You will do your <mark>ALL YOUR WORK in `exercise_6.rkt`</mark>. Make sure your 
 
 Additionally, you can only use the libraries already required in the starter code or `"./iterated-images.rkt"` and `"./remove_duplicates.rkt"` (however neither of these are actually required to complete the assignment). If you want to use them, you can copy them over from the earlier exercises.
 
-Finally, `exercise_4.rkt` **MUST START WITH** `(require "snake_lib.rkt")`; <mark>don't add any code before this line.</mark>
+Finally, `exercise_6.rkt` **MUST START WITH** `(require "./snake_lib.rkt")`; <mark>don't add any code before this line.</mark>
 
 * * *
 
@@ -168,7 +168,7 @@ This is basically just a list of `posn`s. If a `(x,y)` point is in this list, th
 
 Your job is to write the following functions (and any necessary helper functions), which will serve as arguments to the `play-game` function. We’ve written about 1 test for each function. You’ll need to write more to properly test your code. I recommend that you write these functions in the order that they appear here (and in the starter code file). <mark>You will not be able to play the game until all functions are completed</mark>, **but you can properly test your functions with `check-expect`s**.
 
-Your work is limited to _defining_ these functions. This is an example of _abstraction_ in software engineering. For instance, you don't have to worry about teaching racket how to listen to the user's keyboard entries or how to launch a popup window for the game. Those things are taken care of in `snake-lib`. You can just take for granted that, for instance, your `change-direction` function (described below) gets the correct direction from the keyboard.
+Your work is limited to _defining_ these functions. This is an example of _abstraction_ in software engineering. For instance, you don't have to worry about teaching racket how to listen to the user's keyboard entries or how to launch a popup window for the game. Those things are taken care of in `snake-lib`. You can just take for granted that, for instance, your `change-snake-direction` function (described below) gets the correct direction from the keyboard.
 
 > **Hint**: Remember, in functional programming we can't update the value of a variable. If we want to "update" a game, we have to create a whole new game and update its properties using the values from the old game. So for instance if we wanted to make a new game using some old game `g`...and all we wanted was to update the `g`'s tick counter, we would have to use:
 >
@@ -225,11 +225,13 @@ game-advance: game -> game
 
 This function moves the game forward one step. _One step increments the game’s `tick` variable and moves the snake, possibly causing it to eat and grow._
 
-_Moving_ the snake means that the snake both gains and loses a segment (unless it eats). The new segment’s coordinates are determined by the segment that was previously at the front of the snake and the direction the snake is heading. If the snake does not eat, it loses the oldest segment, namely the one that was previously at the end of the snake. To see if the snake has eaten, you should check to see if adding a new segment in the direction of the header collides with a piece of food.
+_Moving_ the snake means that the snake both gains and loses a segment (unless it eats). The new segment’s coordinates are determined by the segment that was previously at the front of the snake and the direction the snake is heading. If the snake does not eat, it loses the oldest segment, namely the one that was previously at the end of the snake. To see if the snake has eaten, you should check to see if adding a new segment in the direction of the head collides with a piece of food.
 
 > **Hint**: To remove an element from the end of a list, think about how you can use the `rest` and `reverse` functions (you can find `reverse` in the [Racket Documentation](https://docs.racket-lang.org/htdp-langs/intermediate-lam.html#%28def._htdp-intermediate-lambda._%28%28lib._lang%2Fhtdp-intermediate-lambda..rkt%29._reverse%29%29)).
 
 This function **does not** replace eaten food; `play-game` (in `snake-lib`) handles that task. You **do need to handle removing the eaten food**, however.
+
+> **Hint**: It might be convenient to have <a href="https://bain-cs111.github.io/course-files/quizzes/q3_glossary_compact.pdf">functions that check to see if something is a _member_ of a list or possibly _removes_ certain items of a list.</a>
 
 Below are two examples of the behavior of this function for the snake before and after a single step. The first scenario shows the snake moving upwards without eating. The second is the same scenario except the snake eats a piece of food as it moves upward.
 
@@ -250,12 +252,14 @@ After you have written and thoroughly tested these functions (you can fully test
 
 > **Note**: As you work on this assignment, you may consider what would happen if a piece of food happens to appear in the same position as an obstacle. **Please ignore this issue**. That is, don’t worry about testing for this situation. A new piece of food will only appear at a currently “open” location (i.e. one that does not contain a piece of food, an obstacle, or part of the snake). This check is already implemented in `snake_lib.rkt`.
 
+* * *
+
 ## Double Checking your Work
 
 Make sure you’ve followed the process outlined in the introduction for every function, and that you’ve thoroughly tested your functions for all possible edge cases.
 
 Before turning your assignment in, **run the file one last time** to make sure that it runs properly and doesn’t generate any exceptions, and all the tests pass. Make sure you've also spent some time writing your OWN `check-expect` calls to test your code.
 
-Assuming they do, submit **only your `snake.rkt` file** on Canvas.
+Assuming they do, submit **only your `exercise_6.rkt` file** on Canvas.
 
 {% include submission_details.md %}
