@@ -2,52 +2,53 @@
 layout: module
 title: Labor
 type: ethics
-draft: 1
+draft: 0
 num: 7
 canvas_id: 
 lec_assignment: 1
 canvas_title: Ethics Module 7 - Labor
 due_date: 2023-11-06
+canvas_assignment_group: "Ethics Modules"
+canvas_points_possible: 2
+canvas_allowed_extensions: "pdf,docx,doc,txt,rtf"
+canvas_submission_types: "online_upload,online_text_entry"
+canvas_due_date: 2023-10-30
+readings:
+   - title: "OpenAI Used Kenyan Workers on Less than $2 Per Hour to Make ChatGPT Less Toxic"
+     author: "(alterante reading) Billy Perigo for Time Magazine"
+     url: https://time.com/6247678/openai-chatgpt-kenya-workers/
+     notes: "Content warning: this story contains descriptions of sexual abuse."
+   - title: "Pay Algorithms Make Working in the Gig Economy Feel Like 'Gambling,' Study Says"
+     author: "Roshan Abraham for VICE"
+     url: https://www.vice.com/en/article/dy7mpa/pay-algorithms-make-working-in-the-gig-economy-feel-like-gambling-study-says
+     notes:
 ---
 
-Given the role of CS111 as the first course for all CS majors and many others with an interest in CS, the course also aims to develop core skills in critical analysis of ethical issues with an emphasis on self-reflection, finding purpose, and intersectionality. Students are asked explore different "topic modules" that introduce broad topics in ethics.
+Technological developments have brought about significant changes in the nature of work; producing new forms of labor. On one hand, advances in automation, artificial intelligence, and other technologies have created new opportunities for high-skilled workers and entrepreneurs to develop innovative products and services. On the other hand, technology has also enabled the creation of new forms of low-wage and precarious work, often in the form of "gig economy" jobs that are highly flexible but lack the job security, benefits, and protections of traditional employment. One of the key features of these new forms of work is the platformization of labor, where companies such as Uber, Airbnb, and Fiverr act as intermediaries between workers and customers, taking a cut of the profits in exchange for providing access to customers and handling administrative tasks. This has created new opportunities for workers to earn income on their own terms, but it has also led to concerns about exploitation as workers are often classified as contractors rather than employees, which means they do not receive protections such as a minimum wage, overtime pay, or benefits.
 
-Students must engage in 3 ethics related activities during the quarter:
+In addition, certain types of emerging technologies require new forms of labor that are cognitively demanding, not evaluated for worker safety, and threaten to widen the existing digital divide. Workers in these industries often face long hours, low wages, and unsafe working conditions, as companies seek to maximize profits by outsourcing production to countries with weaker labor protections.
 
-* **One introductory module** which covers the ethics of social media and introduces a framework for thinking about the impact of certain technologies.
-* **Attendance at one topic module** that students will select based on topic interest and availability. They will complete a short reading beforehand in order to be ready to discuss the topic and complete a short reflection after attending.
-* **One final reflection module** which asks students to reflect on their engagement with ethical issues and their relationship to technology by producing a short write-up comparing and contrasting the topics that students learned in topic modules.
+* * *
 
-This first module serves as an introduction **and is required for everyone**. You have three tasks for this module:
+## Part 1 - Complete the Pre-Discussion Activity
 
-1. You must watch the short introductory video about ethics and Social Media Algorithms linked below.
-2. You must complete this Canvas assignment which is a short reflection about the topics presented in the video.
-3. You must signup for **1 additional topic module** sometime during the quarter. More details below. You will receive a 0 for this assignment if you do not signup for a topics module by Friday, September 30.
+Everyone is required to complete this pre-discussion activity. Please read the below linked article entitled _OpenAI Used Kenyan Workers on Less than $2 Per Hour to Make ChatGPT Less Toxic_ written by Billy Perigo for TIME.
 
-## Module 1 - Social Media Algorithms
+ While you are reading, consider the following questions:
 
-Everyone is required to complete this module. First watch the video (linked below) and then complete this Canvas assignment which is a series of short reflection questions.
+- Have you or anyone you known taken part in the gig economy?
+- What are some advantages of gig work for the workers?
+- What are some advantages of gig work for the companies?
+- Are these ever in conflict with one another?
 
-## Signing Up for a Discussion Section
+* * *
 
-Each week throughout the quarter (beginning in Week 3 and ending in Week 9), our Peer Mentor staff will lead Ethics Topics Modules. The 6 avaialble modules are listed below:
+## Part 2 - Attend your Discussion Section
 
-* Week 3 - Accountability
-* Week 4 - Bias
-* Week 5 - Identity
-* Week 6 - Sustainability
-* Week 7 - Accessibility
-* Week 8 - Labor
-* Week 9 - Impact
+You should have registered for a discussion section this week by joining the appropriate Canvas group. Switching sessions is not allowed (unless there is a direct academic conflict or emergency) and attendance at your registered section is required and you must be in-attendance _for the entirety of the session_. For questions about discussion sections please post on edSTEM (if it's a general question) or email Prof. Bain (<connor.bain@northwestern.edu>) if it's specific to your case.
 
-Your job is to select a module that appeals to you (or works for your schedule that week). Each module will be offerred approximately 7 times through its respective week and enrollment in each session is capped at 10 students. You can view the available session dates & times by going to the [People page on Canvas and selecting the Ethics Discussion Groups tab]({{ site.canvas_url }}/users). Scroll through the available times and [sign-up for one by clicking the JOIN button](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468).
+* * *
 
-> **Please choose your sign-up time carefully** as you will not be able to switch sessions once you've signed up.
+## Part 3 - Submit your Self Reflection
 
-## Attending your Discussion Section
-
-Each discussion section will have a required pre-session "reading" assignment. Some might ask you to engage with a written article, while others may ask you to watch a Netflix show or listen to a podcast. **You are expected to complete that reading assignment prior to coming to the session** so that you are ready to discuss it during the session. After your session, you'll be asked to complete a short Canvas assignment (similar to the one for this module) asking you to reflect on your experience.
-
-## Final Reflection Module (Week 11)
-
-During the last week of class, you'll be asked to complete a final reflection via Canvas. More details will be provided as we get closer to that date.
+After attending your discussion section, be sure to return here to complete this self-reflection. Reflect on your discussion section (200-300 words): Based on what you learned from the discussion, how do you think the concept of labor will change in the future? Was there anything you particularly liked or disliked about the discussion, or any other feedback?
