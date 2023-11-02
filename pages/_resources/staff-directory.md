@@ -31,8 +31,8 @@ ordering: 0
     <li><a><img alt="picture of Anya" src="{{site.url}}/assets/images/directory/anya.jpg">
         <span><h3>Anya Bardach</h3><h4>Peer Mentor</h4></span>
     </a></li>
-    <li><a><img alt="picture of Arian" src="{{site.url}}/assets/images/directory/aria.jpg">
-        <span><h3>Arian Ruan</h3><h4>Peer Mentor</h4></span>
+    <li><a><img alt="picture of Aria" src="{{site.url}}/assets/images/directory/aria.jpg">
+        <span><h3>Aria Ruan</h3><h4>Peer Mentor</h4></span>
     </a></li>
     <li><a><img alt="picture of Ashely" src="{{site.url}}/assets/images/directory/ashley.jpg">
         <span><h3>Ashley Folz</h3><h4>Peer Mentor</h4></span>
