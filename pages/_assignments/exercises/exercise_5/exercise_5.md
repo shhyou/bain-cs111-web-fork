@@ -7,7 +7,7 @@ canvas_assignment_group: "Exercises"
 canvas_points_possible: 100
 canvas_submission_types: "online_upload"
 canvas_allowed_extensions: "rkt"
-canvas_id: 
+canvas_id: 1311603
 due_date: 2023-10-31
 ordering: 6
 draft: 0
@@ -294,7 +294,5 @@ In each step, there are exactly two options available from the data definition. 
 Make sure you’ve followed the process outlined in the introduction for every function, and that you’ve thoroughly tested your functions for all possible edge cases.
 
 Before turning your assignment in, **run the file one last time** to make sure that it runs properly and doesn’t generate any exceptions, and all the tests pass. Make sure you've also spent some time writing your OWN `check-expect` calls to test your code.
-
-* * *
 
 {% include submission_details.md %}

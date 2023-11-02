@@ -4,7 +4,7 @@ title: Labor
 type: ethics
 draft: 0
 num: 7
-canvas_id: 
+canvas_id: 1314472
 lec_assignment: 1
 canvas_title: Ethics Module 7 - Labor
 due_date: 2023-11-06

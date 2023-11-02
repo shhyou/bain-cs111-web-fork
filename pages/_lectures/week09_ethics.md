@@ -4,7 +4,7 @@ title: Sustainability
 type: ethics
 draft: 0
 num: 8
-canvas_id: 
+canvas_id: 1314473
 lec_assignment: 1
 canvas_title: Ethics Module 8 - Sustainability
 due_date: 2023-11-13

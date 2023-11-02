@@ -221,6 +221,4 @@ Double check that you are not using `map`, `filter`, `foldl`, `foldr`, `build-li
 
 Before turning your assignment in, **run the file one last time** to make sure that it runs properly and doesn’t generate any exceptions, and all the tests pass. Make sure you've also spent some time writing your OWN `check-expect` calls to test your code.
 
-* * *
-
 {% include submission_details.md %}
