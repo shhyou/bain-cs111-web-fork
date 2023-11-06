@@ -15,7 +15,7 @@ canvas_submission_types: "online_upload"
 canvas_allowed_extensions: "rkt"
 ---
 
-> **Note:** We will discuss this assignment in class on Friday during Week 7.
+> **Note:** We will discuss this assignment in  on Friday during Week 7.
 
 This exercise will be all about creating Snake the video game. If you've never played before, I recommend checking out [this browser-based version](https://www.mikusa.com/snake/snake.html) before starting the assignment.
 

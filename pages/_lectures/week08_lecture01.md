@@ -5,7 +5,7 @@ description:
 type: lecture
 draft: 0
 num: 18
-title: Imperative Programming
+canvas_title: Monday - Lecture 18 - Imperative Programming
 canvas_id: monday-lecture-18-imperative-programming
 due_date: 2023-11-06
 slides:
