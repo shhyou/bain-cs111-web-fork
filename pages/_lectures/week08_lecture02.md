@@ -11,7 +11,7 @@ canvas_assignment_group: "Mini-Quizzes"
 canvas_points_possible: 10
 canvas_allowed_extensions: "rkt"
 canvas_submission_types: "external_tool"
-canvas_id: 
+canvas_id: 1315124
 description: (Mini-Quiz 10)
 canvas_title: Lecture 19 (Pre-Recorded) - More Imperatives - Mini-Quiz 13
 exercise_url: "lecture19.zip"

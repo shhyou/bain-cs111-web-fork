@@ -6,7 +6,7 @@ abbreviation: Tutorial 6
 draft: 0
 num: 7
 due_date: 2023-11-08
-canvas_id: 
+canvas_id: 1315123
 canvas_assignment_group: "Tutorials"
 canvas_points_possible: 100
 canvas_submission_types: "online_upload"
