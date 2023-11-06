@@ -3,7 +3,7 @@ layout: module
 description:
 type: lecture
 draft: 0
-title: Lecture 14
+title: Trees
 num: 14
 lec_assignment: 1
 canvas_assignment_group: "Mini-Quizzes"

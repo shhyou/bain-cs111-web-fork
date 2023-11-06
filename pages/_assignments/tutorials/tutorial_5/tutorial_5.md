@@ -5,7 +5,7 @@ type: tutorial
 abbreviation: Tutorial 5
 draft: 0
 num: 6
-canvas_id: 
+canvas_id: 1310993
 canvas_assignment_group: "Tutorials"
 canvas_points_possible: 100
 canvas_submission_types: "online_upload"
