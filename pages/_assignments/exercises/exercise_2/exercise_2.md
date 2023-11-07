@@ -209,7 +209,7 @@ You must use `interpolate-colors` in your implementation, starting with `red` an
 Since debugging colors is difficult with reduced opacity, we have provided a completely opaque test image for you to use. Search for the line
 
 <pre>
-;; (define q5-colors <img src="{{ site.url }}/assets/exercise_2/q5-colors-opaque.png"/>)
+;; (define q5-colors <img alt="test image" src="{{ site.url }}/assets/exercise_2/q5-colors-opaque.png"/>)
 </pre>
 
 Start by writing your answer to use an alpha value of 255 and see if you can make it look like this image. Once it does, then change it to use an alpha value of 100 and it should look like the real image.
