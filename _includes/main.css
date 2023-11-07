@@ -662,9 +662,11 @@ table.medium.module td:nth-child(2) {
 .schedule .passed a.lab,
 .schedule .passed .quiz,
 .schedule .passed a.quiz,
+.schedule .passed .quizzes,
+.schedule .passed a.quizzes,
 .schedule .passed .ec,
 .schedule .passed a.ec {
-    background: #CCC;
+    background: #707070;
 }
 
 .assignments .passed strong,
@@ -678,7 +680,7 @@ table.medium.module td:nth-child(2) {
 .schedule .passed strong,
 .schedule .passed th {
     font-weight: 200;
-    color: #5c5962;
+    color: #707070;
 }
 
 .assignments,
@@ -1098,7 +1100,7 @@ table.medium.module td:nth-child(2) {
 .syllabus .lab:hover,
 .schedule .lab,
 .schedule .lab:hover {
-    background: #009c7b;
+    background: #00755C;
     font-weight: 600;
 }
 
@@ -1136,7 +1138,7 @@ table.medium.module td:nth-child(2) {
 .two-column article .live,
 .syllabus .live,
 .schedule .live {
-    background: #F46036;
+    background: #C2320A;
 }
 
 .assignments .recorded,
