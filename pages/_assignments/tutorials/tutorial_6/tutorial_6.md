@@ -17,7 +17,7 @@ canvas_allowed_extensions: "rkt"
 
 Congratulations, you've graduated to another version of Racket! Select Choose Language from the Language menu (shown below with the **wrong** language selected) and select `Advanced Student`. Now you will be able to do all of the imperative operations we've been talking about this week.
 
-<img src="{{site.url}}/assets/exercise_6/drracket_language.png" alt="DrRacket language chooser." style="width:50%"/>
+<img src="{{site.url}}/assets/tutorial_6/isl_to_asl.png" alt="DrRacket language chooser." style="width:50%"/>
 
 **Learning Objectives**: For each of the imperative operations below, make sure you can answer the following questions:
 
