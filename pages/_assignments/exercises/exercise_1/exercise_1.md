@@ -52,7 +52,7 @@ You can now refer to the square by typing `a-red-square` into the interaction wi
 
 Now let's make a blue circle of radius 50.
 
-<img alt="Blue Circle" src="{{ site.url }}/assets/exercise_1/a-blue-circle.svg"/>
+<img alt="a picture of a blue circle" src="{{ site.url }}/assets/exercise_1/a-blue-circle.svg"/>
 
 Define it as the name: `a-blue-circle`.
 * * *
@@ -75,7 +75,7 @@ The first input must be the red intensity, the second must be the green intensit
 
 Use the `make-color` function to create our new color and then use that as an input to some function that allows us to make an upward pointing <a target="_blank" href="https://docs.racket-lang.org/teachpack/2htdpimage.html#%28def._%28%28lib._2htdp%2Fimage..rkt%29._triangle%29%29">equilateral triangle</a> that is solid and has a side length of 100.
 
-<img alt="Barbie Pink Upward-Pointing Equilateral Triangle" src="{{ site.url }}/assets/exercise_1/a-barbie-triangle.svg" style="width:10%" />
+<img alt="a pink triangle" src="{{ site.url }}/assets/exercise_1/a-barbie-triangle.svg" style="width:10%" />
 
 Define it as the name: `a-barbie-triangle`.
 
@@ -88,7 +88,7 @@ Repeat Activities 1, 2, and 3 but use outline mode:
 
 `outlined-square` | `outlined-circle` | `outlined-triangle`
 - | - | -
-<img alt="Outlined Square" src="{{ site.url }}/assets/exercise_1/outlined-square.svg"/> | <img alt="Outlined Circle" src="{{ site.url }}/assets/exercise_1/outlined-circle.svg"/> | <img alt="Outlined Triangle" src="{{ site.url }}/assets/exercise_1/outlined-triangle.svg" />
+<img alt="an outlined square" src="{{ site.url }}/assets/exercise_1/outlined-square.svg"/> | <img alt="Outlined Circle" src="{{ site.url }}/assets/exercise_1/outlined-circle.svg"/> | <img alt="an outlined triangle" src="{{ site.url }}/assets/exercise_1/outlined-triangle.svg" />
 
 Define them as the names `outlined-square`, `outlined-circle`, and `outlined-triangle` respectively.
 * * *
@@ -96,10 +96,10 @@ Define them as the names `outlined-square`, `outlined-circle`, and `outlined-tri
 ## Activity 5: Compound Images
 Now let’s make compound images from simpler images. Use `overlay`, `above`, and `beside` to make the following compound images, defined as follows:
 
-<span style="font-weight:normal">`row-of-squares`</span> | <img alt="row-of-squares" src="{{ site.url }}/assets/exercise_1/row-of-squares.svg" width="15%"/> |
+<span style="font-weight:normal">`row-of-squares`</span> | <img alt="a row of squares" src="{{ site.url }}/assets/exercise_1/row-of-squares.svg" width="15%"/> |
 --------- | :-:
-`column-of-squares` | <img alt="column-of-squares" src="{{ site.url }}/assets/exercise_1/column-of-squares.svg" width="5%"/>
-`nested-squares` | <img alt="nested-squares" src="{{ site.url }}/assets/exercise_1/nested-squares.svg" width="10%"/>
+`column-of-squares` | <img alt="a column of squares" src="{{ site.url }}/assets/exercise_1/column-of-squares.svg" width="5%"/>
+`nested-squares` | <img alt="nested squares" src="{{ site.url }}/assets/exercise_1/nested-squares.svg" width="10%"/>
 
 Make sure to draw out the dataflow diagrams for each of these. You don’t need to turn them in–just draw them on some scratch paper or a whiteboard to make sure you understand how the data moves through the chain of calls.
 
@@ -120,7 +120,7 @@ Now, make the flag of Chicago:
 <!-- viewBox="-1 -1 201 122" stroke-width:2px -->
 <img alt="flag-of-chicago" src="{{ site.url }}/assets/exercise_1/flag-of-chicago.svg"/>
 
-You might need some more functions than the ones we have discussed so far. You may find `radial-star` and `overlay/xy` to be helpful. Remember all the functions in the ISL are explained in the [ISL documentation](https://docs.racket-lang.org/teachpack/2htdpimage.html) and your image doesn’t need to be exact! Define it as `flag-of-chicago`. And again, make sure that you can sketch out the dataflow diagram for it.
+You might need some more functions than the ones we have discussed so far. You may find `radial-star` and `overlay/xy` to be helpful. Remember all the functions in the ISL are explained in the documentation (linked earlier) and your image doesn’t need to be exact! Define it as `flag-of-chicago`. And again, make sure that you can sketch out the dataflow diagram for it.
 
 > Note: there is no need for any lambda expression in ANY of these activities.
 

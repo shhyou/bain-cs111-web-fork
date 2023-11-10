@@ -72,7 +72,7 @@ As in previous weeks.
 
 This one’s new! It finds the existing `binding` for `variable-name` in the `dictionary` and changes its associated value to `new-value`.  If there is no `binding` for `variable-name`, it should generate an error. You’ll need a new procedure for this: `(set-binding-value! binding new-value)`.
 
-This is created automatically by `define-struct`. It changes the value of the “value” field of an existing `binding` object to the specified value. If you’re a Java or Python programmer, think of it as doing:
+This is <a href="https://docs.racket-lang.org/htdp-langs/advanced.html#%28form._%28%28lib._lang%2Fhtdp-advanced..rkt%29._define-struct%29%29">created automatically</a> by `define-struct`. It changes the value of the “value” field of an existing `binding` object to the specified value. If you’re a Java or Python programmer, think of it as doing:
 
 ```java
 binding.value = new-value;

@@ -190,6 +190,10 @@ Your final grade will be the weighted average of all the above assignments. Fina
 
 > **Note**: The Graduate School does not recognize D letter grades meaning if you are enrolled in the class as a graduate student, the range for the F grade is 0-69.99.
 
+### Mini-quizzes
+
+These will be short quizzes for each module of the course that serve as a check of your attendance and/or asynchronous participation in the course. For those that complete the Mini-Quiz in class, you will receive full credit for your attendance and full participation. If you choose to complete the Mini-Quiz remotely, you will need to complete the Canvas version of the quiz within 48 hours of your scheduled class time. For Mini-Quiz 1, you MUST be in attendance in order to receive credit.
+
 ### Tutorials
 The idea of the Tutorials is to provide you with opportunities to both practice your own programming skill *as well as learn to communicate with and help other programmers*. As such, these Tutorials will be held on Wednesdays (with one exception) during our scheduled class time during the quarter.
 
@@ -201,9 +205,12 @@ This course is meant to a be a learning community which requires the dedicated p
 
 If you attend the Tutorial session in-person and make a legitimate attempt (up to the discretion of your Peer Mentor) at completing the assignment, you will receive full-credit. If you choose not to attend in-person, then your assignment will be reviewed for completion _and accuracy_ meaning you may nor may not receive full credit. Remote tutorials will be graded via the same autograding mechanism as the Exercises.
 
-If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form](https://forms.gle/nyx6FLZM8xZsn6w26).
-
 We will not accept late tutorial submissions.
+
+> **Note**: 
+> For mini-quizzes and tutorials that are attendance-based credit, you will be asked to complete some in-class
+> activity to mark you as present. If you attended class but for some reason were marked absetn, you can fill
+> out [this Attendance Petition form](https://forms.gle/nyx6FLZM8xZsn6w26).
 
 ### Exercises
 
@@ -216,12 +223,7 @@ It is up to you to verify that:
 
 These exercises will be graded via an autograder (computerized grading machine) as well as checked for plagiarism against other students' (including from past quarters) solutions, online solutions, and a large database of course content.
 
-You may submit the assignments up to 48 hours late with a 10% penalty per 24-hours.
-### Mini-quizzes
-
-These will be short quizzes for each module of the course that serve as a check of your attendance and/or asynchronous participation in the course. For those that complete the Mini-Quiz in class, you will receive full credit for your attendance and full participation. If you choose to complete the Mini-Quiz remotely, you will need to complete the Canvas version of the quiz within 48 hours of your scheduled class time. For Mini-Quiz 1, you MUST be in attendance in order to receive credit.
-
-If you attended class but for some reason were marked absent, [you can fill out this Attendance Petition Form](https://forms.gle/nyx6FLZM8xZsn6w26).
+You may submit these assignments up to 48 hours late with a 10% penalty per 24-hours.
 
 ### Ethics Modules
 
@@ -269,6 +271,7 @@ There will be four cumulative assessments of your knowledge and practice of the 
         </tr>
     </tbody>
 </table>
+
 ### Grading Equity Policies
 
 > The course is specifically designed to be academically equitable to all students when it comes to assessment and has two special policies related to grading: 1. An _emergency erasure policy_; 2. A _late penalty waiver_.
@@ -347,7 +350,7 @@ Contact Prof. Bain if you have any questions about what is appropriate. Please n
 * * *
 
 ## Academic Integrity
-Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. For details regarding academic integrity at Northwestern or to download the guide, visit: <a href="https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html" target="_blank">this page</a>.
+Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. For more details regarding <a href="https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html" target="_blank">academic integrity at Northwestern click here</a>.
 
 * * *
 
