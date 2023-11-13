@@ -11,7 +11,7 @@ canvas_assignment_group: "Mini-Quizzes"
 canvas_points_possible: 10
 canvas_allowed_extensions: "rkt"
 canvas_submission_types: "external_tool"
-canvas_id: 
+canvas_id: 1317817
 canvas_title: Lecture 22 (Pre-Recorded) - Methods - Mini-Quiz 15
 exercise_url: "lecture22.zip"
 slides:

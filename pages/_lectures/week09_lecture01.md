@@ -5,6 +5,8 @@ type: lecture
 description:
 draft: 0
 num: 21
+canvas_id:
+canvas_title: Monday - Lecture 21 - Mutation and Subtypes
 due_date: 2023-11-13
 exercise_url: "lecture21.zip"
 slides:

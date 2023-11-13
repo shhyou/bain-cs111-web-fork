@@ -7,7 +7,7 @@ due_date: 2023-11-17
 ordering: 8
 draft: 0
 points: 100
-canvas_id: 
+canvas_id: 1317815
 canvas_title: Exercise 7
 canvas_assignment_group: "Exercises"
 canvas_points_possible: 100
@@ -93,6 +93,8 @@ The `numeric-question` struct should include its own `check-answer` method, as t
 This `check-answer` should return a boolean just like the previous one: if the answer is in the range, it should return `#true` and if the answer is outside the range it should return `#false`.
 
 In the starter code, we’ve provided an example question (q3) and some suggested tests to be sure that you defined the numeric-question struct and its methods properly.
+
+* * *
 
 ## Part 4: Testing your quiz
 
