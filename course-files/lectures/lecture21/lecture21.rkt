@@ -39,15 +39,15 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; a snake is:
 ; - (make-snake number symbol)
-(define-struct snake (weight food))
+;(define-struct snake (weight food))
 
 ; Practice listing the automatically created functions...
 
 ; feed-snake: Snake -> Snake
 ; feeds the snake a 5lb meal
-(define (feed-snake s)
-  (make-snake (+ 5 (snake-weight s))
-              (snake-food s)))
+;(define (feed-snake s)
+;  (make-snake (+ 5 (snake-weight s))
+;              (snake-food s)))
 
 ;(check-expect (feed-snake (make-snake 4 'rat))
 ;              (make-snake 9 'rat))
@@ -65,15 +65,15 @@
 
 ; an armadillo is
 ; (make-armadillo number boolean)
-(define-struct armadillo (weight dead?))
+;(define-struct armadillo (weight dead?))
 
 ; feed-armadillo: armadillo -> armadillo
 ; feeds a armadillo a 2lb meal if it isn't dead
-(define (feed-armadillo d)
-  (cond [(armadillo-dead? d) (make-armadillo (armadillo-weight d)
-                                             true)]  ; or just return d
-        [else                (make-armadillo (+ 2 (armadillo-weight d))
-                                             false)]))
+;(define (feed-armadillo d)
+;  (cond [(armadillo-dead? d) (make-armadillo (armadillo-weight d)
+;                                             true)]  ; or just return d
+;        [else                (make-armadillo (+ 2 (armadillo-weight d))
+;                                             false)]))
 
 ;(check-expect (feed-armadillo (make-armadillo 12 false)) 
 ;              (make-armadillo 14 false))
@@ -104,7 +104,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; an ant is
 ; - (make-ant number posn)
-(define-struct ant (weight loc))
+;(define-struct ant (weight loc))
 ; make-ant
 ; ant?
 ; ant-weight, ant-loc
@@ -156,40 +156,40 @@
 ;    animal it was before extracting its weight.
 ;    this is bad...
 
-; an animal is:
-; - (make-animal string number number)
-(define-struct animal (name weight age))
-
-; a cat is:
-; - (make-cat string number number string) 
-(define-struct (cat animal) (sleeping-spot))
-
-; a dog is:
-; - (make-dog string number number string) 
-(define-struct (dog animal) (best-friend))
-
-; a mouse is:
-; - (make-mouse string number number string) 
-(define-struct (mouse animal) (hiding-spot))
-
-
-
-(define figaro (make-cat "figaro"
-                         12
-                         15
-                         "horseshoe"))
-
-(define molly  (make-dog "molly"
-                         12
-                         2
-                         "emily"))
-
-(define ralph (make-mouse "ralph"
-                          0.5
-                          1
-                          "under the fridge"))
-
-(define full-house (list figaro molly ralph)
+;; an animal is:
+;; - (make-animal string number number)
+;(define-struct animal (name weight age))
+;
+;; a cat is:
+;; - (make-cat string number number string) 
+;(define-struct (cat animal) (sleeping-spot))
+;
+;; a dog is:
+;; - (make-dog string number number string) 
+;(define-struct (dog animal) (best-friend))
+;
+;; a mouse is:
+;; - (make-mouse string number number string) 
+;(define-struct (mouse animal) (hiding-spot))
+;
+;
+;
+;(define figaro (make-cat "figaro"
+;                         12
+;                         15
+;                         "horseshoe"))
+;
+;(define molly  (make-dog "molly"
+;                         12
+;                         2
+;                         "emily"))
+;
+;(define ralph (make-mouse "ralph"
+;                          0.5
+;                          1
+;                          "under the fridge"))
+;
+;(define full-house (list figaro molly ralph)
 
 ; zoo-weight-2: list-of-animals -> Number
 ; takes a list of animals and returns a sum of their weights
@@ -224,7 +224,7 @@
 
 ;; FILL THIS IN
 
-(define myzoo (list figaro ralph))
+;(define myzoo (list figaro ralph))
 
 ;(define zoo-weight-before (zoo-weight-2 myzoo))
 ;(check-expect (begin (grow-zoo! myzoo)

@@ -9,6 +9,11 @@ canvas_id:
 canvas_title: Monday - Lecture 21 - Mutation and Subtypes
 due_date: 2023-11-13
 exercise_url: "lecture21.zip"
+videos:
+  - title: "Live Lecture Recording"
+    url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2f9bbf5d-bbc8-41be-94de-b0780012e3d9
+    duration: "51:00"
+    live: 1
 slides:
   - title: "Mutation and Subtypes"
     url: https://docs.google.com/presentation/d/11RDfxZA0vI4js1UQwpXll6heKIZdnq4UMxPqsFyc784/edit?usp=sharing
