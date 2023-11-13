@@ -100,7 +100,7 @@ In the starter code, we’ve provided an example question (q3) and some suggeste
 
 Once you’ve implemented all of parts 1, 2 and 3, uncomment the line `(runquiz myquiz)` to take the quiz. You should see something like the interaction shown below:
 
-<img src="{{ site.url }}/assets/exercise_7/ex7_interaction.png" style="width:50%" />
+<img alt="Screenshot of final working quiz." src="{{ site.url }}/assets/exercise_7/ex7_interaction.png" style="width:50%" />
 
 You can leave this line commented uncommented when you submit; it will not affect the autograder either way.
 

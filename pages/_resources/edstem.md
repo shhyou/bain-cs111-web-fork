@@ -7,7 +7,7 @@ canvas_id: edstem-guidelines
 draft: 0
 ---
 
-You can join our edSTEM page (which we use for Q&As as well as post tips/tricks throughout the quarter) by signing up **using your offical Northwestern email address** [here](https://edstem.org/us/join/pFx2Ru).
+You can join our edSTEM page (which we use for Q&As as well as post tips/tricks throughout the quarter) by [signing up **using your offical Northwestern email address**](https://edstem.org/us/join/pFx2Ru).
 
 ## Some guidelines for using edSTEM
 * Before you post a question, please do a quick search to make sure that one of your classmates hasn't already asked the same question
