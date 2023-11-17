@@ -15,6 +15,11 @@ mini_quiz_id: quizzes/223264
 mini_quiz_num: 16
 mini_quiz_title: Getting Ready for Q3
 exercise_url: "lecture23.zip"
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8eed8c54-6c04-4538-930e-b0780012e40e
+     live: 1
+     title: "Live Lecture Recording"
+     duration: "51:00"
 ---
 
 Today we'll spend most of our time reviewing for Quiz 3 by doing some practice questions. In addition to Practice Quiz 3, don't forget there's also Practice Quizzes 1 and 2, and your REAL Quiz 1 & 2, and Exercise 7 all as ways of getting prepared.
