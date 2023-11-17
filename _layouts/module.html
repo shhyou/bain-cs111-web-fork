@@ -21,7 +21,7 @@ show_schedule: 1
 {% assign num = 1 %}
 
 {% if page.exercise_url %}
-    <h3 id="code">{{num}}. Exercise Files</h3> 
+    <h3 style="padding-bottom:10px;" id="code">{{num}}. Exercise Files</h3> 
     <a class="nu-button" href="{{site.url}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
         Download Exercise Files <i class="fas fa-download"></i>
     </a>
@@ -29,7 +29,7 @@ show_schedule: 1
 {% endif %}
 
 {% if page.slides %}
-<h3 id="slides">{{num}}. Slides</h3>
+<h3 style="padding-top:20px;" id="slides">{{num}}. Slides</h3>
 {% assign num = num | plus: 1 %}
     <ul>
     {% for slide in page.slides %}
@@ -41,7 +41,7 @@ show_schedule: 1
 {% endif %}
 
 {% if page.videos %}
-<h3 id="videos">{{num}}. Pre-Recorded Lecture Video(s), Mini-Quizzes, and Live Recordings</h3>
+<h3 style="padding-top:15px;" id="videos">{{num}}. Pre-Recorded Lecture Video(s), Mini-Quizzes, and Live Recordings</h3>
 {% assign num = num | plus: 1 %}
 
     <table class="medium module">
@@ -105,16 +105,16 @@ show_schedule: 1
 
 {% if page.readings %}
     {% if page.type == "ethics" %}
-    <h3 id="readings">{{ num }}. Assigned Readings</h3>
+    <h3 style="padding-top:15px;" id="readings">{{ num }}. Assigned Readings</h3>
     {% else %}
-    <h3 id="readings">{{ num }}. Supplemental Materials</h3>
+    <h3 style="padding-top:15px;" id="readings">{{ num }}. Supplemental Materials</h3>
     {% endif %}
     {% include page_readings.html %} 
     {% assign num = num | plus: 1 %}
 {% endif %}
 
 {% if page.mini_quiz_id %}
-<h3 id="quiz">{{ num }}. Mini-Quiz {{ page.mini_quiz_num }}: {{page.mini_quiz_title}}</h3>
+<h3 style="padding-top:10px;" id="quiz">{{ num }}. Mini-Quiz {{ page.mini_quiz_num }}: {{page.mini_quiz_title}}</h3>
 <p>
     If you did not participate in class then you should use this Canvas Quiz as a substitute. If you are not physically present in
     the classroom, do NOT attempt to participate in the PollEverywhere activities through any means. Doing so is a violation
@@ -129,7 +129,7 @@ show_schedule: 1
 {% endif %}
 
 {% if page.quiz_url %}
-    <h3 id="quiz">{{ num }}. Take the Practice (Ungraded) Quiz</h3>
+    <h3 style="padding-top:15px;" id="quiz">{{ num }}. Take the Practice (Ungraded) Quiz</h3>
     <p>
         Note: The quiz is to help you test your own understanding 
         of the concepts. It is not graded, and is designed to help you to see 
@@ -140,7 +140,7 @@ show_schedule: 1
 {% endif %}
 
 {% if page.extras %}
-    <h2 id="reminders">Reminders</h2>
+    <h2 style="padding-top:15px;" id="reminders">Reminders</h2>
     <ul>
         {% for extra in page.extras %}
             <li>
