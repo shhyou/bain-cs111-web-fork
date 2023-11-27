@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: 
+title: Exercise 8 
 abbreviation: Exercise 8
 type: homework
 due_date: 2023-12-01
