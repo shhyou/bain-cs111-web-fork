@@ -17,7 +17,11 @@ show_schedule: 1
 
 <hr>
 
+{% if page.readings or page.exercise_url or page.slides or page.videos or 
+    page.mini_quiz_id or page.quiz_url or page.extras %}
 <h2 id="do-now">Today's Resources</h2>
+{% endif %}
+
 {% assign num = 1 %}
 
 {% if page.exercise_url %}
