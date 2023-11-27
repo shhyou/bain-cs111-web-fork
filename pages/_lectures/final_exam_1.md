@@ -1,6 +1,6 @@
 ---
 layout: two-column
-title:  Quiz 4 (Section 2) 9am
+title: Quiz 4 (Section 2) 9am
 type: quizzes
 draft: 0
 canvas_title: Monday - Quiz 4 (Section 2) - 9am 

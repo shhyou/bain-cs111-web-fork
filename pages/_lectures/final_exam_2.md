@@ -1,6 +1,6 @@
 ---
 layout: two-column
-title:  Quiz 4 (Section 1) 9am
+title: Quiz 4 (Section 1) 9am
 type: quizzes
 draft: 0
 num: 4
