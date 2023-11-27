@@ -4,7 +4,7 @@ title: Reflection (Required for Everyone)
 type: ethics
 draft: 0
 num: 9
-canvas_id: 
+canvas_id: 1322299 
 lec_assignment: 1
 canvas_title: Ethics Module 9 - Reflection (Required for Everyone)
 due_date: 2023-11-27

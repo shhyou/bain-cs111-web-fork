@@ -3,10 +3,10 @@ layout: assignment-two-column
 title: 
 abbreviation: Exercise 8
 type: homework
-due_date: 2023-12-06
+due_date: 2023-12-01
 ordering: 9
 draft: 0
-canvas_id: 
+canvas_id: 1322297
 canvas_title: Exercise 8
 canvas_assignment_group: "Exercises"
 canvas_points_possible: 100

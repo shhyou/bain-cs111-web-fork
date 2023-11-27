@@ -6,13 +6,12 @@ draft: 0
 num: 26
 description: "Mini-Quiz 17"
 due_date: 2023-11-29
-canvas_title: Wednesday - Lecture 26 (Pre-Recorded) - Intro to Asteroids
 lec_assignment: 1
 canvas_assignment_group: "Mini-Quizzes"
 canvas_points_possible: 10
 canvas_allowed_extensions: "rkt"
 canvas_submission_types: "external_tool"
-canvas_id: 
+canvas_id: 1322300
 canvas_title: Lecture 26 (Pre-Recorded) - Intro to Asteroids - Mini-Quiz 17
 slides:
   - title: "Intro to Asteroids"
