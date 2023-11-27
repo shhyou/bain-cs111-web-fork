@@ -7,6 +7,10 @@ num: 25
 due_date: 2023-11-27
 canvas_title: Monday - Lecture 25 - Debugging and Testing
 canvas_id: monday-lecture-25-debugging-and-testing
+videos:
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64912efa-80df-41ab-a4f4-b0780012e491&start=120
+    duration: "51:00"
+    live: 1
 slides:
   - url: https://docs.google.com/presentation/d/16AUV77EsFFg2I5LhZwWcIaW_SNh5rGXcSvMo_cfOE_c/edit?usp=sharing
     title: "Debugging and Testing"
