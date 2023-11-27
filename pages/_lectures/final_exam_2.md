@@ -4,7 +4,7 @@ title:  Quiz 4 (Section 1) 9am
 type: quizzes
 draft: 0
 num: 4
-canvas_title: Monday - Quiz 4 (Section 1) - 9am 
+canvas_title: Wednesday - Quiz 4 (Section 1) - 9am 
 canvas_id: wednesday-quiz-4-section-1-9am
 due_date: 2023-12-06
 ---
