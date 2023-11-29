@@ -20,7 +20,7 @@
 ; The unique instance of the player struct. Automatically initialized by the Asteroids lib.
 (define the-player "the-player: the Asteroids game is not running")
 
-; firing-enginers? : #true or #false.
+; firing-engines? : #true or #false.
 ; Whether the "up" key is pressed right now. Automatically updated by the Asteroids lib.
 (define firing-engines? false)
 
