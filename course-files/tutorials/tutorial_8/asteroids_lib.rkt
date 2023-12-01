@@ -338,6 +338,7 @@
                  (cons the-player
                        (build-list ASTEROID-COUNT
                                    (λ (ignore) (new-asteroid)))))
+           (set! firing-engines? false)
            (unless make-ufo
              (printf "Asteroids: warning: the ufo structure is not defined.\n"))
            (when (procedure? make-ufo)

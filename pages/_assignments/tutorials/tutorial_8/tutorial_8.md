@@ -208,6 +208,8 @@ Let’s start by implementing the `player` struct. Right now, the player does no
 
 > Note: You may pick any design you like as the appearance of the player object in the render method and any size appropriate in the radius method. The size usually matches the image of the player object. For more information about how the Asteroids library uses the update! and render method, see the `game-object` struct and the Overview section. There are a TON of built-in image functions that you can choose from or you can feel free to make your own function to create an image: [2htdp/image library](https://docs.racket-lang.org/teachpack/2htdpimage.html).
 
+> **Hint**: if you are using an image with a "clear forward direction" (like a triangle) draw it so that the "forward point" is pointing directly to the right as the game engine will initialize your player as if it's facing directly to the right.
+
 * The `update!` method should speed up the player in forward direction (i.e. appropriately mutates the velocity field) **when** the engine is on.
 
 > **Hint**: Review the Game State section to see how to check if the engine is currently firing or not. Let `v` denote the original velocity of the player and a denote the acceleration. Then the new velocity of the player should be `v+a`. If `p` is the player object, then the code will look like:
@@ -228,7 +230,7 @@ To simplify your job, the `asteroids_lib.rkt` library provides the `forward-dire
 ; Returns a unit vector in the forward direction of the game object.
 ```
 
-You can decide on the magnitude of the acceleration (hint: remember, you won't be able to use just the `*` symbol as that multiplies two numbers.)
+You can decide on the magnitude of the acceleration (hint: remember, you won't be able to use just the `*` symbol as that multiplies two numbers). **You only need to change the acceleration when the up key is being held down.** You do not need to decelerate the player. You can "slow down" in the game by turning around and accelerating in the opposite direction.
 
 * * *
 
