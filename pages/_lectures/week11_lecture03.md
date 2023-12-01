@@ -7,6 +7,10 @@ canvas_id: friday-lecture-27-q4-review-and-ama
 draft: 0
 num: 27
 due_date: 2023-12-01
+exercise_url: "lecture27.zip"
+slides:
+  - url: https://docs.google.com/presentation/d/1J2L4TAIHW_G6N8RyaXuZnapv_A0Wo37OZ9Gawj3bZxY/edit?usp=sharing
+    title: "Q4 Review"
 ---
 
 Today we're wrapping up! We've made it to the end. Though it is a Friday, there won't be a MQ today.
