@@ -43,4 +43,4 @@ You should have registered for a discussion section this week by joining the app
 
 ## Part 3 - Submit your Self Reflection
 
-After attending your discussion section, be sure to return here to complete this self-reflection. Reflect on your discussion section (200-300 words): Based on what you learned from the discussion, how do you think the concept of labor will change in the future? Was there anything you particularly liked or disliked about the discussion, or any other feedback?
+After attending your discussion section, be sure to return here to complete this self-reflection. Reflect on your discussion section (200-300 words): What stood out most to you? What did you learn? Has your opinion about the role of technology in sustainability changed? Why or why not?
