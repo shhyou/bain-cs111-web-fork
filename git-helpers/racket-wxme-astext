@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]; then
+  echo Usage: racket-wxme-astext FILE.rkt >&2
+  exit 1
+fi
+
+if ! file --mime "$1" | grep octet-stream > /dev/null; then
+  cat "$1"
+else
+  cat "$1" | racket -n -l racket/base -l wxme -l racket/port \
+    -e '(copy-port (wxme-port->text-port (current-input-port)) (current-output-port))'
+fi

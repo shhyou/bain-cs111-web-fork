@@ -1,0 +1,10 @@
+[diff "pdffiles"]
+	textconv = pdf-astextplain
+	binary = true
+[diff "zip-info"]
+	textconv = zip-info-astext
+	binary = true
+[diff "racket-wxme"]
+	textconv = racket-wxme-astext
+[pull]
+	ff = only
