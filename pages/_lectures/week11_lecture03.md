@@ -11,6 +11,11 @@ exercise_url: "lecture27.zip"
 slides:
   - url: https://docs.google.com/presentation/d/1J2L4TAIHW_G6N8RyaXuZnapv_A0Wo37OZ9Gawj3bZxY/edit?usp=sharing
     title: "Q4 Review"
+videos:
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=afa00af4-d6c4-4fdc-824f-b0780012850f
+    live: 1
+    title: Live Lecture Recording
+    duration: "45:00"
 ---
 
 Today we're wrapping up! We've made it to the end. Though it is a Friday, there won't be a MQ today.
