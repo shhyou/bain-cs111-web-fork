@@ -65,7 +65,7 @@ Remember, your recommenders are meant to both verify and complement your other a
 * * *
 
 ## General Advice
-* You shouldn't ask a professor for a letter of recommendation if the only relationship you have with them is taking their class. A letter writer needs to attest to how your are exceptional and if all they know is how you did in their class, there's no way they can do that.
+* You shouldn't ask a professor for a letter of recommendation if the only relationship you have with them is taking their class. A letter writer needs to attest to how you are exceptional and if all they know is how you did in their class, there's no way they can do that.
 * It's awesome to ask for a recommendation in-person as you can have a conversation about it right then and there, however, make sure to follow-up via email so there's a written reminder that they've agreed to serve as a recommender.
 * Make sure to make available any application materials you think would be helpful for your recommender, regardless of whether or not they actually have to write a letter. The more information we have about why you are exceptional, the easier it is for us to help you.
 * If a recommender asks you questions about your application, **respond as soon as you can**. It's imperative that we be able to clear up any confusion _before_ the letter goes in. You want to tell a cohesive story across all your application materials.
