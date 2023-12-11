@@ -6,20 +6,19 @@
 ; a game is...
 ; - (make-game snake (listof posn) (listof posn) number)
 ; (define-struct game (snake food obstacles ticks))
+(define-struct game [snake food obstacles ticks])
 
 ; a direction is one of...
-; - 'up
-; - 'down
-; - 'left
-; - 'right
-; If this type looks new to you, its just a symbol.
-; That is ‘up is a symbol and “up” is a string.
-; Symbols are like strings without spaces. 
-
+; - "up"
+; - "down"
+; - "left"
+; - "right"
+; That is, a direction must be one of these four strings (all lower cases).
 
 ; a snake is...
 ; - (make-snake direction (listof posn))
 ; (define-struct snake (heading segments))
+(define-struct snake [heading segments])
 
 ; segments is either
 ; - (cons posn empty)
@@ -39,7 +38,7 @@
 ; - (cons posn obstacles)
 ; Obstacles is also a list of posns.
 
-; add-food-to-game: game posn -> game
+; add-food-to-game : game posn -> game
 ; Given a game and posn, returns a new game (so you want to call make-game here)
 ; where food has been added at that posn. 
 (define (add-food-to-game g p)
@@ -150,7 +149,7 @@
 
 ;; play : game -> game
 (define (play initial-game)
-  (play-game initial-game game-advance add-food-to-game change-snake-direction game-score game-over?))
+  (play-game initial-game add-food-to-game change-snake-direction game-advance game-score game-over?))
 
 ;to start a game
 ;(play game-start)
