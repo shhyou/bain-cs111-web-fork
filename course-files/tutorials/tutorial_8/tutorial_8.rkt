@@ -212,3 +212,5 @@
 ;;; Main asteroids game
 (define (asteroids)
   (link-and-start-asteroids-game))
+
+(asteroids)
