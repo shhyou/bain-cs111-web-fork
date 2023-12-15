@@ -3,7 +3,6 @@
 #reader(lib "htdp-advanced-reader.ss" "lang")((modname tutorial_8) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #t #t none #f () #f)))
 (require 2htdp/image)
 (require 2htdp/universe)
-(require "./define_super_struct.rkt")
 (require "./asteroids_lib.rkt")
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -213,3 +212,5 @@
 ;;; Main asteroids game
 (define (asteroids)
   (link-and-start-asteroids-game))
+
+(asteroids)

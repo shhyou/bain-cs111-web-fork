@@ -68,7 +68,7 @@ Just like our custom `struct`s, this means we have the following functions to cr
 * * *
 
 ## How to Get Started
-To begin, download the template files below and make sure that all the files `snake-lib.rkt`, `foreign.rkt`, and `exercise_6.rkt` are in a folder where you will do your work.
+To begin, download the template files below and make sure that all the files `snake_lib.rkt` and `exercise_6.rkt` are in a folder where you will do your work.
 
 <a class="nu-button" href="{{ site.url }}/course-files/exercises/exercise_6_template.zip" target="_blank">
     Exercise 6 Starter Files <i class="fas fa-download"></i>
@@ -88,14 +88,14 @@ Finally, `exercise_6.rkt` **MUST START WITH** `(require "./snake_lib.rkt")`; <ma
 
 Just like how we've represented different types of data like employees, humans, cars, etc using custom `struct`s, so too can we represent the game of snake using a collection of `struct`s.
 
-For this assignment, we will use several different data definitions (already included in `snake-lib`; **you do not need to make these**, you'll just need to use them). It provides the following `struct` definitions:
+For this assignment, we will use several different data definitions (already included in the starter code; **you do not need to make these**, you'll just need to use them). It comes with the following `struct` definitions:
 
 * `game`: this keeps track of all the game data including the board
 * `snake`: this represents the snake character
 * `food`: this will be used to represent the food particles on the board
 * `obstacles`: this will be used to represent the obstacles on the board
 
-These definitions are provided in your code _as a reference_ <mark>but the `define-struct` lines must remain commented as they are defined in already in `snake-lib` **for you**.</mark> They are also listed below.
+These definitions are provided in your code and <mark>the `define-struct` lines must NOT be changed  as they are needed by `snake-lib`.</mark>
 
 This `snake-lib` also provides two other **variable** definitions:
 
@@ -118,11 +118,6 @@ This `snake-lib` also provides two other **variable** definitions:
 * the `obstacles` are described in more detail below (where are the obstacles on the screen)
 * the `ticks` just keeps track of how many "turns" have been played (aka how many times has the snake moved)
 
-> **Interlude on Symbols**
-> `'down` and its counterparts might look a little weird. It's not a `string`...and it's not a `list`. What the heck is it? The single quote (i.e. `'`) when _not_ paired with a parenthesis (e.g. `'(1 2)`) means: "the following is a **symbol**". `symbol`s are another type of data in Racket that you can think of as "strings without any spaces." Racket knows the symbol ends as soon as it sees a space.
->
-> That is `'up` is a **symbol** and `"up"` is a **string**. If you see something that starts with a single quote, it's a symbol. To test to see if something is a `symbol`, you can use the built-in function `symbol?`. To test if two symbols are equal, you can use: `symbol=?`
-
 ### The `snake`
 
 ```racket
@@ -132,8 +127,11 @@ This `snake-lib` also provides two other **variable** definitions:
 ```
 
 So a `snake` is made up:
-* a `heading` (`'up`, `'left`, `'down`, or `'right`)
+* a `heading` (`"up"`, `"left"`, `"down"`, or `"right"`)
 * and a list of `segments` (more below)
+
+> **Interlude on Direction**
+> The `heading` of a `snake` must be and will be exactly one of the four strings, `"up"`, `"left"`, `"down"`, or `"right"`. To test to see if something is a string, you can use the built-in function `string?`. To test if two strings are equal, you can use: `string=?`.
 
 #### Snake `segments`
 
