@@ -5,7 +5,6 @@
 
 ; a game is...
 ; - (make-game snake (listof posn) (listof posn) number)
-; (define-struct game (snake food obstacles ticks))
 (define-struct game [snake food obstacles ticks])
 
 ; a direction is one of...
@@ -17,7 +16,6 @@
 
 ; a snake is...
 ; - (make-snake direction (listof posn))
-; (define-struct snake (heading segments))
 (define-struct snake [heading segments])
 
 ; segments is either
@@ -45,13 +43,13 @@
  "fill me in")
 
 (check-expect
- (add-food-to-game (make-game (make-snake 'up (list (make-posn 1 2)))
-                      (list (make-posn 3 4))
-                      (list (make-posn 10 10)
-                            (make-posn 20 20))
-                      5)
-           (make-posn 6 7))
- (make-game (make-snake 'up (list (make-posn 1 2)))
+ (add-food-to-game (make-game (make-snake "up" (list (make-posn 1 2)))
+                              (list (make-posn 3 4))
+                              (list (make-posn 10 10)
+                                    (make-posn 20 20))
+                              5)
+                   (make-posn 6 7))
+ (make-game (make-snake "up" (list (make-posn 1 2)))
             (list (make-posn 6 7) (make-posn 3 4))
             (list (make-posn 10 10)
                   (make-posn 20 20))
@@ -65,15 +63,15 @@
 
 (check-expect
  (change-snake-direction
-  (make-game (make-snake 'down (list (make-posn 1 2)))
+  (make-game (make-snake "down" (list (make-posn 1 2)))
              (list (make-posn 3 4))
              empty
              5)
-  'left)
- (make-game (make-snake 'left (list (make-posn 1 2)))
-             (list (make-posn 3 4))
-             empty
-             5))
+  "left")
+ (make-game (make-snake "left" (list (make-posn 1 2)))
+            (list (make-posn 3 4))
+            empty
+            5))
 
 ; game-score : game -> number
 ; Given a game, returns a score (as a number)
@@ -90,10 +88,10 @@
   "fill me in")
 
 (check-expect 
- (game-over? (make-game (make-snake 'up (list (make-posn 1 1))) empty empty 5))
+ (game-over? (make-game (make-snake "up" (list (make-posn 1 1))) empty empty 5))
  false)
 (check-expect 
- (game-over? (make-game (make-snake 'up (list (make-posn -1 1))) empty empty 5))
+ (game-over? (make-game (make-snake "up" (list (make-posn -1 1))) empty empty 5))
  true)
 
 ; game-advance: game -> game
@@ -104,33 +102,33 @@
 
 (check-expect
  (game-advance
-  (make-game (make-snake 'down (list (make-posn 2 2)
-                                     (make-posn 2 3)
-                                     (make-posn 3 3)))
+  (make-game (make-snake "down" (list (make-posn 2 2)
+                                      (make-posn 2 3)
+                                      (make-posn 3 3)))
              empty
              (list (make-posn 10 10)
                    (make-posn 20 20))
              5))
- (make-game (make-snake 'down (list (make-posn 2 1)
-                                    (make-posn 2 2)
-                                    (make-posn 2 3)))
+ (make-game (make-snake "down" (list (make-posn 2 1)
+                                     (make-posn 2 2)
+                                     (make-posn 2 3)))
             empty
             (list (make-posn 10 10)
                   (make-posn 20 20))
             6))
 (check-expect
  (game-advance
-  (make-game (make-snake 'down (list (make-posn 2 2)
-                                     (make-posn 2 3)
-                                     (make-posn 3 3)))
+  (make-game (make-snake "down" (list (make-posn 2 2)
+                                      (make-posn 2 3)
+                                      (make-posn 3 3)))
              (list (make-posn 2 1) (make-posn 8 9))
              (list (make-posn 10 10)
                    (make-posn 20 20))
              5))
- (make-game (make-snake 'down (list (make-posn 2 1)
-                                    (make-posn 2 2)
-                                    (make-posn 2 3)
-                                    (make-posn 3 3)))
+ (make-game (make-snake "down" (list (make-posn 2 1)
+                                     (make-posn 2 2)
+                                     (make-posn 2 3)
+                                     (make-posn 3 3)))
             (list (make-posn 8 9))
             (list (make-posn 10 10)
                   (make-posn 20 20))
@@ -138,7 +136,7 @@
 
 ; a starting game to experiment with
 (define game-start
-  (make-game (make-snake 'up (list (make-posn 12 12)))
+  (make-game (make-snake "up" (list (make-posn 12 12)))
              (list (make-posn 2 2) 
                    (make-posn 5 20)
                    (make-posn 15 15)
