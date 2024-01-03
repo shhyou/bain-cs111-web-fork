@@ -4,6 +4,7 @@
                   local member
                   posn? make-posn posn-x posn-y
                   true false empty sqr)
+         racket/undefined
          (for-syntax racket/base racket/syntax syntax/parse/pre)
          2htdp/image
          2htdp/universe)
@@ -43,14 +44,18 @@
 
 #|
     (define/implicit-parameter (function-id arg-id ...)
-      #:freevars (freevar-id ...)
+      #:freevars (freevar-spec ...)
       body-expr ...+)
+
+    freevar-spec ::= freevar-id
+                  |  [freevar-id default-expr]
 
     The function function-id is converted in to a curried function
     that first takes freevar-id ... as its parameter.
 
     The implicit parameters, freevar-id ..., will be instantiated
     and supplied unhygienically at each use site of function-id.
+    If free-var-id is not defined at use site, default-expr is used instead.
 |#
 (define-for-syntax global-free-variables '())
 (define-syntax (define-global-free-variables stx)
@@ -65,22 +70,33 @@
   (syntax-parse stx
     [(_ (name:id arg:id ...)
         (~datum #:freevars)
-        (free-var:id ...)
+        [(~or* free-var:id [free-var:id default-expr:expr]) ...]
         body-expr ...+)
      #:with name/parameterized (format-id #'here "~a/parameterized" #'name)
+     #:with name/defaults (format-id #'here "~a/defaults" #'name)
      #:with (global-free-var ...) (map syntax-local-introduce global-free-variables)
+     #:with (free-var/undef ...) (generate-temporaries #'(free-var ...))
      #`(begin
-         (define (name/parameterized global-free-var ... free-var ...)
-           (let ([name
-                  #,(quasisyntax/loc stx
-                      (λ (arg ...)
-                        body-expr ...))])
-             name))
+         (define name/defaults (list (~? default-expr undefined) ...))
+         (define (name/parameterized global-free-var ... free-var/undef ...)
+           (let-values ([(free-var ...) (filter-undefs name/defaults free-var/undef ...)])
+             (let ([name
+                    #,(quasisyntax/loc stx
+                        (λ (arg ...)
+                          body-expr ...))])
+               name)))
          #,(quasisyntax/loc stx
              (define-syntax name
                (function/implicits
                 #'name/parameterized
                 (list 'global-free-var ... 'free-var ...)))))]))
+(define (filter-undefs default-values . vals)
+  (apply values
+         (for/list ([def-val (in-list default-values)]
+                    [val (in-list vals)])
+           (if (eq? val undefined)
+               def-val
+               val))))
 (define-syntax (#%top stx)
   (define id (cdr (syntax-e stx)))
   (raise-syntax-error (syntax-e id)
@@ -100,7 +116,10 @@
       (define freevars-syms (function/implicits-freevars-syms implicit-info))
       (define freevars-ids
         (for/list ([freevar-sym (in-list freevars-syms)])
-          (datum->syntax stx freevar-sym stx)))
+          (define id (datum->syntax stx freevar-sym stx))
+          (if (identifier-binding id)
+              id
+              #'undefined)))
       (with-syntax ([proc proc-stx]
                     [(freevar ...) freevars-ids])
         (syntax-parse stx
@@ -194,17 +213,40 @@
 ;;
 ;; free variables:
 ;;   game-advance : (game -> game)
-;;   add-food-to-game :(game direction -> game)
-;;   change-snake-direction : (game posn -> game)
+;;   add-food-to-game : (game posn -> game)
+;;   change-snake-direction : (game direction -> game)
 ;;   game-score : (game -> nat)
 ;;   game-over? : (game -> boolean)
-(define/implicit-parameter (play-game initial-game
-                                      add-food-to-game
-                                      change-snake-direction
-                                      game-advance
-                                      game-score
-                                      game-over?)
-  #:freevars ()
+(define/implicit-parameter (play-game initial-game)
+  #:freevars ([add-food-to-game
+               (λ (game pos)
+                 (eprintf "add-food-to-game: this function is not defined.\n")
+                 game)]
+              [change-snake-direction
+               (λ (game dir)
+                 (eprintf "change-snake-direction: this function is not defined.\n")
+                 game)]
+              [game-advance
+               (let ([already-warned? #f])
+                 (λ (game)
+                   (unless already-warned?
+                     (set! already-warned? #t)
+                     (eprintf "game-advance: this function is not defined.\n"))
+                   game))]
+              [game-score
+               (let ([already-warned? #f])
+                 (λ (game)
+                   (unless already-warned?
+                     (set! already-warned? #t)
+                     (eprintf "game-score: this function is not defined.\n"))
+                   -9999999))]
+              [game-over?
+               (let ([already-warned? #f])
+                 (λ (game)
+                   (unless already-warned?
+                     (set! already-warned? #t)
+                     (eprintf "game-over?: this function is not defined.\n"))
+                   #f))])
   (local [;; render-game : game -> image
           (define (render-game g)
             (render-items

@@ -39,8 +39,6 @@
 ; add-food-to-game : game posn -> game
 ; Given a game and posn, returns a new game (so you want to call make-game here)
 ; where food has been added at that posn. 
-(define (add-food-to-game g p)
- "fill me in")
 
 (check-expect
  (add-food-to-game (make-game (make-snake "up" (list (make-posn 1 2)))
@@ -58,8 +56,6 @@
 ; change-snake-direction: game direction -> game
 ; Given a game and direction, returns a new game where the snake
 ;   is now headed in the provided direction. 
-(define (change-snake-direction g d)
-  "fill me in")
 
 (check-expect
  (change-snake-direction
@@ -75,8 +71,7 @@
 
 ; game-score : game -> number
 ; Given a game, returns a score (as a number)
-(define (game-score g)
-  "fill me in")
+
 
 ; no tests are provided for game-score because it is open-ended
 ; feel free to implement it however you would like to
@@ -84,8 +79,6 @@
 ; game-over? : game -> boolean
 ; Given a game, returns true if that snake has died and false otherwise.
 ; We strongly recommend writing helper functions for this question!
-(define (game-over? g)
-  "fill me in")
 
 (check-expect 
  (game-over? (make-game (make-snake "up" (list (make-posn 1 1))) empty empty 5))
@@ -97,8 +90,6 @@
 ; game-advance: game -> game
 ; Takes a game as input and advances the game one tick. The snake
 ;  moves forward one segment and eats or not. 
-(define (game-advance g)
-  "fill me in")
 
 (check-expect
  (game-advance
@@ -147,7 +138,7 @@
 
 ;; play : game -> game
 (define (play initial-game)
-  (play-game initial-game add-food-to-game change-snake-direction game-advance game-score game-over?))
+  (play-game initial-game))
 
 ;to start a game
-;(play game-start)
+(play game-start)
