@@ -1,0 +1,3 @@
+[submodule "course-files/cs111-library"]
+	path = course-files/cs111-library
+	url = git@github.com:nu-cs111/cs111-library
