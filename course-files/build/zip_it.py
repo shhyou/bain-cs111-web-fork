@@ -26,7 +26,7 @@ def zipfolder(foldername, target_dir):
     zipobj = zipfile.ZipFile(zipname, 'w', zipfile.ZIP_DEFLATED)
 
     rootlen = len(target_dir) + 1
-    for base, dirs, files in os.walk(target_dir):
+    for base, dirs, files in os.walk(target_dir, followlinks=True):
         for file in files:
             full_path_to_file = os.path.join(base, file)
             if not exclude(full_path_to_file):
@@ -63,20 +63,20 @@ def main():
     # for dirname in dirnames:
     #     zipfolder(dirname, dirname)
 
-    go_ahead = input('Would you like to proceed? (y/N) ')
+    # go_ahead = input('Would you like to proceed? (y/N) ')
     # print(go_ahead)
-    if go_ahead.upper() == 'Y':
-        for dirname in dirnames:
-            zipfolder(dirname, dirname)
-            if "lecture" not in dirname:
-                if "solutions" in dirname:
-                    os.rename(dirname + ".zip", dirname + ".zip")
-                elif "practice" in dirname:
-                    os.rename(dirname + ".zip", dirname + "_practice.zip")
-                else:
-                    os.rename(dirname + ".zip", dirname + "_template.zip")
-    else:
-        print('Cancelled.')
+    # if go_ahead.upper() == 'Y':
+    #     for dirname in dirnames:
+    #         zipfolder(dirname, dirname)
+    #         if "lecture" not in dirname:
+    #             if "solutions" in dirname:
+    #                 os.rename(dirname + ".zip", dirname + ".zip")
+    #             elif "practice" in dirname:
+    #                 os.rename(dirname + ".zip", dirname + "_practice.zip")
+    #             else:
+    #                 os.rename(dirname + ".zip", dirname + "_template.zip")
+    # else:
+    #     print('Cancelled.')
 
     sys.exit()
 

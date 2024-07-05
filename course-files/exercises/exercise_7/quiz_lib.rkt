@@ -1,1 +1,1 @@
-../cs111-library/quiz_lib.rkt
+../../cs111-library/bain/quiz_lib.rkt
